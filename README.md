@@ -5,7 +5,7 @@
 
 We constantly sweep the web to catalog the highest potential .UK one-word domains still available to buy.
 
-This dataset contains 2,197 .UK one word domains with availability, attractiveness and demand scores.
+This dataset contains 2,204 .UK one word domains with availability, attractiveness and demand scores.
 
 If you want to search & filters the complete database of [.UK one word domains](https://unique.domains?utm_source=github&utm_medium=dataset&utm_campaign=uk-oneword-domains&utm_content=description.top) (2,197) and analyse SEO, demand and valuation, we've build unique.domains, a SaaS designed for domain investors and solopreneurs.
 
