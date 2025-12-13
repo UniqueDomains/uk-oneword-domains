@@ -8,7 +8,7 @@ e3370d28-6c52-4861-9e9f-c0675293e351,abasic.uk,available,54,2,6,,,
 4face443-d1e1-49a2-9aca-7908d598a51e,abaxial.uk,premium,54,2,7,,,
 5af693b7-140a-4cd8-9ab1-cb88e91c1a6b,abbatial.uk,available,50,1,8,,,
 08948af8-7c48-4be5-9ea2-027126d67547,abdicable.uk,available,50,1,9,,,
-78026b04-3978-4e46-a11b-3d83ac3f8542,abdominal.uk,premium,82,5,9,,,
+78026b04-3978-4e46-a11b-3d83ac3f8542,abdominal.uk,premium,82,1,9,,,
 9c10e52e-3871-4389-9085-d7be0d38deff,abdominous.uk,available,56,1,10,,,
 befeccd7-bbf5-4b75-9b44-cbbd506b72b5,abducens.uk,available,54,1,8,,,
 65747670-b748-49b9-9f70-9586863b4715,abducent.uk,available,68,1,8,,,
@@ -17,7 +17,7 @@ aec36c93-e5f8-43d2-b42a-2a3485e1cc0f,abenaki.uk,premium,82,3,7,,,
 6dfb1767-fc24-43f3-ab41-c2d9b3359689,aberdonian.uk,available,68,1,10,,,
 64c83ed0-b503-49e2-bd1a-d7db70a1484f,aberrant.uk,available,74,7,8,,,
 09d4f0c3-c003-4069-ad54-1cc643f571a6,abeyant.uk,available,56,2,7,,,
-2a479218-bdde-434b-81b8-9b8016407a96,abhorrent.uk,available,54,3,9,,,
+2a479218-bdde-434b-81b8-9b8016407a96,abhorrent.uk,available,54,1,9,,,
 94524253-618c-4b46-858a-bde89975e681,abient.uk,available,54,1,6,,,
 a10a87c9-9816-42ea-b2a2-cb0ae254e757,abkhas.uk,available,68,1,6,,,
 c8f7ae3f-3cfa-4fc2-a941-35886f1d5d17,abkhasian.uk,available,78,1,9,,,
@@ -272,7 +272,7 @@ c6411906-90c1-482e-a589-45612de926f9,agitative.uk,available,52,1,9,,,
 aa26cc8c-3ddc-4129-9d7a-a8b68355d62a,agleam.uk,available,60,1,6,,,
 03d1cfb0-db88-4dbd-90ac-79885effa46c,agnate.uk,available,76,2,6,,,
 e173c829-e670-49c0-a8ac-751d3c3f76bd,agnatic.uk,available,58,1,7,,,
-ba35d93a-fb44-46b4-98fe-530b5a763539,agnostic.uk,available,84,7,8,,,
+ba35d93a-fb44-46b4-98fe-530b5a763539,agnostic.uk,available,84,6,8,,,
 7f12e1c7-f083-4ca5-9284-be1617bfaffe,agnostical.uk,available,58,1,10,,,
 ca19b1b6-63b0-4641-88ad-785aefe0dd7e,agonadal.uk,available,54,1,8,,,
 4655d75c-8eae-4f32-8b32-f47a28e45982,agonal.uk,available,58,1,6,,,
@@ -354,6 +354,7 @@ dec0eb04-7d8c-47a6-bc96-28288e2f3f88,alimentary.uk,resell,62,3,10,ANY-Web Limite
 833b33c0-72af-4530-83cc-a18ebf5bab78,aliphatic.uk,available,64,1,9,,,
 89bbf98b-08a7-4db3-9de5-47f4efefa735,aliquot.uk,available,96,3,7,,,
 1bbdb85b-402a-44d4-9ed3-315718d2bef8,alittle.uk,available,62,8,8,,,
+f0a8fd9c-1f1b-45ae-96a0-46952bc16112,alittlebit.uk,available,64,3,12,,,
 7f5ff3d8-c75a-4e77-928d-1d481379e2da,alkahestic.uk,available,46,1,10,,,
 427fbe66-6461-4d6c-845b-7b09b5c082e2,alkalic.uk,available,50,1,7,,,
 ed385b2d-b8b0-46a0-9357-dfd4e839c87e,alkaliser.uk,available,66,1,9,,,
@@ -390,7 +391,7 @@ d5b7e309-4493-491f-b3f8-3c60efb89ba4,allylic.uk,available,50,1,7,,,
 ae5b7768-1351-4683-bd73-b33d22bd8cf7,almond.uk,resell,68,13,6,Garner Media Ltd,01/07/2019 13:00,01/07/2026 13:00
 c5105fe2-63b3-475c-9c92-1f7ee812fc86,alopecic.uk,available,42,1,8,,,
 86f776bd-5072-4073-afe6-df43bf5580ea,alpestrine.uk,available,46,1,10,,,
-5295ae24-0495-486f-acbd-c670f97688b7,alphabetic.uk,available,66,2,10,,,
+5295ae24-0495-486f-acbd-c670f97688b7,alphabetic.uk,available,66,1,10,,,
 84463fc2-fbbf-4cf6-a0a0-d9aff46fb302,alsatian.uk,resell,58,2,8,Centraserve Ltd,01/07/2019 13:00,01/07/2026 13:00
 ef7031a1-8cd0-4610-b58f-3ca092a7567e,altaic.uk,available,54,2,6,,,
 8c1abe0a-3bce-48a0-9839-9a9709db3583,alterable.uk,available,80,2,9,,,
@@ -405,7 +406,7 @@ e1070b00-72c4-4e07-9836-343243b53812,aluminous.uk,available,56,3,9,,,
 92fe57a6-4448-40c1-b828-91aa93eb5d46,alveolar.uk,available,80,1,8,,,
 6eb96d73-96f4-4ec2-8173-7b2ad42b35df,alveolate.uk,available,74,1,9,,,
 491e716a-0f33-43bc-b621-610327a749e8,alvine.uk,available,54,3,6,,,
-dbcb4ca4-d3ed-4876-975c-82d88d71e8ea,amalgamate.uk,available,82,5,10,,,
+dbcb4ca4-d3ed-4876-975c-82d88d71e8ea,amalgamate.uk,available,82,4,10,,,
 17fa82fe-44ed-4b09-980c-3c4d4546fe8f,amateurish.uk,available,52,1,10,,,
 191e2e08-947e-472b-a10b-1e47f4a0e361,amative.uk,available,60,2,7,,,
 5a23cbe2-a869-42ec-b644-46b57594eec6,amatory.uk,available,60,2,7,,,
@@ -590,7 +591,7 @@ bd17244a-4439-453c-84de-720bf64b4aed,antheral.uk,available,50,1,8,,,
 58df0315-9876-4220-96a2-eb7c9497a3f0,anthropoid.uk,available,74,3,10,,,
 49c13ce3-ebe9-4ec1-98ac-3e78fed283c0,antiacid.uk,available,70,1,8,,,
 e52db5c3-2e3e-4e4f-b331-fc7e53f14b5d,antiblack.uk,available,36,2,9,,,
-842fc0d4-be37-4b09-bb3e-ddec498f6a37,anticancer.uk,available,70,5,10,,,
+842fc0d4-be37-4b09-bb3e-ddec498f6a37,anticancer.uk,available,70,4,10,,,
 c962ecea-fdb9-419b-a9b9-4ca6308dfdd6,anticipant.uk,available,60,1,10,,,
 6544ae11-351c-4fd9-a1be-b62a2bb9c05d,anticlinal.uk,available,68,1,10,,,
 96e91a49-7549-478b-ad8e-3d825379d94e,antidotal.uk,available,56,2,9,,,
@@ -613,7 +614,7 @@ f8824b1c-87ad-4da2-b546-94e41e1a1d35,antiseptic.uk,resell,88,2,10,Self Storage H
 9f8d0196-2ce2-4685-827a-52c29133d2ac,antithetic.uk,available,68,1,10,,,
 a006f167-4726-4b6a-8f98-56513808e73d,antitoxic.uk,available,46,1,9,,,
 a49965ec-2fcd-4bca-bca0-b3465cde293d,antitumor.uk,available,88,1,9,,,
-05d8cc3e-4693-432a-a453-18b313a6a69b,antitumour.uk,available,70,0,10,,,
+05d8cc3e-4693-432a-a453-18b313a6a69b,antitumour.uk,available,70,1,10,,,
 86f5075f-56ff-424d-92b2-ac59a70f7831,antitypic.uk,available,46,1,9,,,
 fbeb39a6-e491-41be-967d-b982fc0bce4c,antiviral.uk,resell,76,4,9,InterNetx GmbH,26/03/2018 23:37,27/03/2026 00:37
 b413ce5a-bde7-42b8-ab63-83dc2f1cbfcb,antlered.uk,available,47,1,8,,,
@@ -718,7 +719,7 @@ f68eeac3-48ad-4afd-8998-5d917a13a175,arboresque.uk,available,52,2,10,,,
 cd58cd67-8593-4005-97f4-6a762068e607,arborical.uk,available,52,1,9,,,
 651808e6-62b2-4a39-be0d-ec31edae168f,arboriform.uk,available,52,1,10,,,
 153f6606-4f7e-41f1-b0bd-e61cc3ee139d,arborous.uk,available,52,1,8,,,
-d756fd27-92e4-4a5d-9924-3cf4397dd319,arch.uk,resell,64,29,4,Tool Domains EOOD t/a Edoms.com,22/01/2020 05:20,22/01/2026 05:20
+d756fd27-92e4-4a5d-9924-3cf4397dd319,arch.uk,resell,64,28,4,Tool Domains EOOD t/a Edoms.com,22/01/2020 05:20,22/01/2026 05:20
 914700ba-7811-484b-80f3-c0f09af3f138,archaean.uk,available,50,1,8,,,
 14ecea63-71d7-46ba-80ac-b52655e77659,archaic.uk,resell,76,9,7,Realtime Register BV,05/10/2023 20:42,05/10/2025 20:42
 a59b733c-94de-4787-a444-4cdc3f5f5311,archaist.uk,available,50,1,8,,,
@@ -771,8 +772,9 @@ e5fe26a1-e17a-4599-a134-87002afc5768,arrive.uk,resell,82,20,6,"GoDaddy.com, LLC.
 c3d6f731-8f4d-4481-8690-f6525d04a29a,articled.uk,available,43,2,8,,,
 c54253a8-65f7-4331-a9d5-cc1c3a0badc3,articular.uk,available,50,4,9,,,
 2d1578e0-6704-407e-b555-bfc99459b489,articulary.uk,available,68,1,10,,,
-d9eafdea-2127-4fc9-a43d-56cffbacd4ce,artificial.uk,resell,68,28,10,Domain Farm Limited,18/09/2017 14:34,18/09/2026 14:34
+d9eafdea-2127-4fc9-a43d-56cffbacd4ce,artificial.uk,resell,68,27,10,Domain Farm Limited,18/09/2017 14:34,18/09/2026 14:34
 60fa7867-fdfe-43e7-92d3-3d6a634c9ad9,artist.uk,resell,81,28,6,Global Domains Limited t/a Global Domains Limited,18/03/2019 17:41,18/03/2027 17:41
+d80df162-1140-4b93-a51f-ffbe21de6101,artmusic.uk,available,70,5,9,,,
 43cf317f-2918-4a5d-9828-09acd970813e,arts.uk,resell,76,30,4,Trifega Ltd,01/07/2019 13:00,01/07/2026 13:00
 77226a95-23e2-4a78-a717-6d37c758a77c,asaconsequenceof.uk,available,54,1,19,,,
 84994be4-fba0-4db0-806b-4f1eb9b3ae57,asaresultof.uk,available,54,1,14,,,
@@ -798,6 +800,8 @@ d0d7582c-72e3-4147-a47b-9e01f8c63da1,askance.uk,available,76,3,7,,,
 cc92a1d1-02c2-47d0-bfe9-c63e45a3691d,aslongas.uk,available,52,1,10,,,
 7772114a-c15d-47e8-9e92-58d3302d425b,aslope.uk,available,58,1,6,,,
 443043a7-92ab-44be-a721-b7a086e436bf,asof.uk,available,56,3,5,,,
+42e945a3-cfab-4b28-b7d6-ef808c9d86c4,asofnow.uk,available,54,1,9,,,
+2883ecd5-9960-4ee2-89ec-c141e5f8a920,asoneman.uk,available,44,1,10,,,
 e29eaddf-3680-482e-bb6a-2d52bdbea027,asopposedto.uk,available,50,1,13,,,
 9ff82e02-9347-4c82-964b-7c7e785d3430,aspectual.uk,available,44,1,9,,,
 a3c2bc0a-2eb7-4e42-bacc-256bd551c756,aspheric.uk,available,44,2,8,,,
@@ -834,6 +838,8 @@ b3932688-2f4f-4aa8-9f10-4502df3d342c,astern.uk,available,57,4,6,,,
 b7007254-b548-4cd2-b952-c66d51f7bffc,asteroidal.uk,available,48,1,10,,,
 a7bd5e24-fc76-4288-9a76-f8d80378304a,asthedayislong.uk,available,44,1,18,,,
 f5062ade-51ec-4b4c-822e-ea16efe009d9,asthenic.uk,available,52,1,8,,,
+0476ac43-4134-43d7-9a9c-062d727cbf7e,asthesayinggoes.uk,available,44,1,18,,,
+7da6baca-8336-4f89-9f1c-3ba73e2c8e1b,astheysay.uk,available,44,1,11,,,
 da63ce59-d730-493b-893a-4a479bfca325,asthmatic.uk,available,64,2,9,,,
 034a57dc-1c4c-487e-8e5d-a869e34bc78c,astigmatic.uk,available,56,1,10,,,
 02d421cd-5eaf-47cc-a67f-2f9bd96411e6,astomatal.uk,available,34,0,9,,,
@@ -848,7 +854,7 @@ ecaed64c-a30d-4852-9ea8-f016f6198920,astragalar.uk,available,34,1,10,,,
 eba2251f-28b2-4672-88d5-6bca28f9ea93,Astudent.uk,available,78,2,9,,,
 ab6acd91-d755-4596-a427-9be0c9ddbe56,astylar.uk,available,49,1,7,,,
 056ad8a8-9628-4fc0-a544-0101b46d0b89,asunder.uk,available,48,2,7,,,
-84085f56-4305-47b7-846d-1df211c78185,aswell.uk,resell,72,4,7,David Worth,27/03/2019 12:23,27/03/2026 12:23
+84085f56-4305-47b7-846d-1df211c78185,aswell.uk,resell,58,4,7,David Worth,27/03/2019 12:23,27/03/2026 12:23
 1c601b94-67df-4bd7-9ea1-27101c391e8b,asymptotic.uk,available,38,4,10,,,
 8f137a48-1945-44ba-85cb-db94978843ba,asynergic.uk,available,34,1,9,,,
 0e642375-5f38-4a60-b947-7c03da930891,asyouwish.uk,available,76,6,11,,,
@@ -943,7 +949,7 @@ fdee93f0-5701-4519-afc6-c6d1ce46d91d,autogamic.uk,available,54,1,9,,,
 46301553-c86b-4af9-95a2-38234c0d1171,autogenous.uk,available,54,1,10,,,
 86faa82e-08ab-4b8e-805d-2195f81f675e,autoicous.uk,available,48,2,9,,,
 a752083c-817d-4513-a3e3-b2816423e646,autologous.uk,available,48,2,10,,,
-9d6843d6-0fff-46b1-960a-86560589a9bb,automatic.uk,resell,92,21,9,Andrew Bell,24/11/2014 13:37,24/11/2026 13:37
+9d6843d6-0fff-46b1-960a-86560589a9bb,automatic.uk,resell,92,20,9,Andrew Bell,24/11/2014 13:37,24/11/2026 13:37
 09e5fd7b-c1eb-4f01-9afd-9d9b72af9259,autonomic.uk,available,60,7,9,,,
 c3527aa9-9299-442e-b925-56a6d1da2382,autophytic.uk,available,48,1,10,,,
 50132088-4e5c-4dd0-8a44-5c1c0e2a61c6,autosomal.uk,available,52,2,9,,,
@@ -1011,6 +1017,7 @@ b363e3aa-78a3-429c-8d30-0ade2ad3af4f,backslash.uk,resell,86,12,9,Childcare Limit
 e24e128e-3d90-4a54-a10f-5b320a59751a,backstair.uk,available,63,1,9,,,
 edb473fe-b655-4c62-ad3e-5d56c23d74be,backstairs.uk,available,63,1,10,,,
 cd4279ac-b7b2-4c25-a038-96dca5758f8b,backswept.uk,available,44,1,9,,,
+1b17e40a-9da1-4b37-96c7-7c4754462e93,backtothewall.uk,available,64,1,16,,,
 2891f7d0-9153-43e9-b047-5acb5b668ed0,backwardslash.uk,available,66,1,14,,,
 b7c8afaa-7f86-4dd0-a27d-dec9a66e9e55,baconexplosion.uk,available,76,2,15,,,
 21355b98-4a5a-44d6-9d5d-bb65156b9f2f,bacteremic.uk,available,42,1,10,,,
@@ -1043,7 +1050,7 @@ f1fac25b-8a90-4d1c-accb-5fde3fa56db0,balky.uk,available,48,2,5,,,
 d700f7bf-4dc5-4a21-9b73-426a129251ae,balsamy.uk,available,56,1,7,,,
 78eb92fc-6056-43ba-b744-28077b8ad934,balticsea.uk,available,60,4,10,,,
 04cb4ce3-f04d-40e9-85f3-020303cd0e74,balzacian.uk,available,70,1,9,,,
-d64d92ea-20ab-4aea-9a04-5e765f5ae1e0,banal.uk,available,54,4,5,,,
+d64d92ea-20ab-4aea-9a04-5e765f5ae1e0,banal.uk,available,54,3,5,,,
 caa95b06-8d5b-4619-b169-4f4c1cb1016d,banausic.uk,available,44,1,8,,,
 b530543a-22a4-41ed-828b-c341409d5152,bandaged.uk,available,44,1,8,,,
 b19f3c1d-49ee-4b22-9db8-3edc7002e513,banded.uk,available,52,4,6,,,
@@ -1130,7 +1137,7 @@ faf01bd9-b389-4654-b6df-623df52fb3ff,beall.uk,available,66,9,6,,,
 35ad7d55-fe09-4309-85b0-efa215376e1c,beardless.uk,available,44,2,9,,,
 6cd24c55-7f04-428e-9790-81cf0a76b58f,bearish.uk,available,46,5,7,,,
 31ecaf6b-150a-441b-9db5-c8647535839e,bearsized.uk,available,34,1,10,,,
-c5396ae1-bc25-4205-ab5e-23c9eba70335,beast.uk,resell,64,25,5,"GoDaddy.com, LLC.",29/03/2019 15:41,29/03/2026 14:41
+c5396ae1-bc25-4205-ab5e-23c9eba70335,beast.uk,resell,64,24,5,"GoDaddy.com, LLC.",29/03/2019 15:41,29/03/2026 14:41
 0d6c2b76-09eb-4050-ac9c-2a767dab49ef,beatable.uk,available,46,1,8,,,
 f8cb5539-6332-475c-8e95-440f46633bfb,beaten.uk,available,50,2,6,,,
 17cb2e1e-6a77-489f-b07b-04f0daf1b448,beatenup.uk,available,44,1,9,,,
@@ -1184,7 +1191,10 @@ a80d4e68-9f47-4da0-9dde-677f2d425108,berserk.uk,resell,86,11,7,Sav.com LLC t/a S
 0d6d4c26-5152-4864-ad32-1492b228d5df,bestloved.uk,available,70,1,10,,,
 1a7e2dac-7401-4342-b75e-8b2aa383a82c,biddable.uk,available,54,3,8,,,
 0cfedf50-b79e-494f-b91c-61f74b00ed2f,bidens.uk,available,66,2,6,,,
-0b847286-d734-47a4-8c2e-35728a459d6e,bigger.uk,resell,76,12,6,Stephen Hall,19/10/2015 00:14,19/10/2026 00:14
+a6c2c38a-0b2f-4ea9-b371-3833fb5b9b7a,BigFour.uk,available,64,2,8,,,
+0b847286-d734-47a4-8c2e-35728a459d6e,bigger.uk,resell,76,11,6,Stephen Hall,19/10/2015 00:14,19/10/2026 00:14
+37034014-dd68-4bd7-b894-6ae5d319d67b,biggovernment.uk,available,62,1,14,,,
+8546ecee-944c-4a0d-8be0-2f6c072e3e01,bigmoney.uk,resell,88,8,9,Premkumar Veerabadran t/a sitekart,21/04/2024 20:12,21/04/2026 20:12
 bf5e1230-3af8-4008-baed-896a7c09cd6a,bilious.uk,available,40,2,7,,,
 d0816459-e6c3-4833-99ac-0ff8c704a145,billbird.uk,available,64,2,9,,,
 4055b471-46f1-4c6b-a766-49ae6955eb62,billgates.uk,available,72,9,10,,,
@@ -1195,7 +1205,7 @@ df124001-73fc-4f04-bb45-e53e8521dd71,blackmailing.uk,available,54,1,12,,,
 62ccf354-2173-4d12-8b55-c99a298af220,blanket.uk,resell,100,9,7,"GoDaddy.com, LLC.",01/07/2019 13:00,01/07/2026 13:00
 1ad723e2-220c-44ea-a9f7-b15a3fa7911e,blanksheet.uk,available,76,2,11,,,
 9f439578-da78-42a0-b70c-4b9750f899e7,bleak.uk,resell,62,8,5,"GoDaddy.com, LLC.",01/07/2019 13:00,01/07/2026 13:00
-2a18f6b7-b12d-44a3-aba2-6a8fdf4183f0,blessed.uk,resell,56,20,7,Internet Domain Services BS Corp t/a Internet.bs,01/10/2020 09:59,01/10/2026 09:59
+2a18f6b7-b12d-44a3-aba2-6a8fdf4183f0,blessed.uk,resell,56,19,7,Internet Domain Services BS Corp t/a Internet.bs,01/10/2020 09:59,01/10/2026 09:59
 757b2525-d98a-497a-b9ed-f5df0d4c0916,blessing.uk,resell,58,18,8,Laughing Banana Enterprises Ltd,25/03/2019 10:07,25/03/2026 10:07
 e970e21b-4a23-47fc-9127-4f7168ea350d,blind.uk,resell,68,19,5,Charles Scott t/a Domain Holdings UK,28/02/2019 10:02,28/02/2026 10:02
 eccc8770-6677-40d1-a24b-d7769c1aaea8,blockaded.uk,available,37,1,9,,,
@@ -1211,19 +1221,20 @@ afa8d413-4797-4738-a255-b537f8037041,boo.uk,resell,100,23,3,"Namecheap, Inc.",05
 296f37b1-9ba8-4cf7-9759-fa6bb73f3495,book.uk,resell,82,46,4,Charles Scott t/a Domain Holdings UK,28/02/2019 10:02,28/02/2026 10:02
 aa960961-8520-497d-866f-7cef92d6be70,boom.uk,resell,71,37,4,Richard Kandler t/a Nameplace,01/07/2019 13:00,01/07/2026 13:00
 4ac6a83d-d634-4746-879c-5e5de3942ec0,boost.uk,resell,96,38,5,Enterfirst Ltd,01/07/2019 13:00,01/07/2026 13:00
-08de44ab-992a-4937-b807-981d1a8ad02e,bootleg.uk,resell,100,11,7,Simon Fox,04/10/2022 13:00,04/10/2026 13:00
+08de44ab-992a-4937-b807-981d1a8ad02e,bootleg.uk,resell,100,10,7,Simon Fox,04/10/2022 13:00,04/10/2026 13:00
 db942053-a9fe-4974-853e-03521d653dfe,bordered.uk,available,62,1,8,,,
-af4b37bd-fa39-423b-b2f1-bf4bbed6430e,borderline.uk,resell,104,12,10,Shores Ltd,05/09/2017 19:36,05/09/2026 19:36
+af4b37bd-fa39-423b-b2f1-bf4bbed6430e,borderline.uk,resell,104,11,10,Shores Ltd,05/09/2017 19:36,05/09/2026 19:36
 58c4133f-f5ec-4aa8-8c28-a45671d2579d,borderon.uk,available,66,1,9,,,
+1577d258-9f3f-4fca-9b03-c908a39500ab,bornyesterday.uk,available,48,2,14,,,
 8e4a34df-8f21-4db5-b4f4-7db2402b2ad7,bothersome.uk,available,39,1,10,,,
-09dfeafe-add6-45a6-bbca-e542a7470da0,bouncing.uk,resell,90,4,8,Mr Andrew Bennett t/a Andrew Bennett,09/11/2022 15:38,09/11/2026 15:38
+09dfeafe-add6-45a6-bbca-e542a7470da0,bouncing.uk,resell,90,3,8,Mr Andrew Bennett t/a Andrew Bennett,09/11/2022 15:38,09/11/2026 15:38
 2cf2f060-290a-4fa6-bf11-6306940adc01,bowleg.uk,available,52,2,6,,,
 141fa908-b995-4db3-a9af-2f59e3f42138,bowlegged.uk,available,44,1,9,,,
 9145adb9-714b-4abc-b40a-f02173afa7ca,bowout.uk,available,72,1,7,,,
 4f7c4ce1-c52f-4bee-844b-dcd14e83693f,boxcoat.uk,available,64,1,8,,,
 d5923d13-845f-49b3-a6ca-a1d688a8bc4d,boxers.uk,resell,74,5,6,Coaley Peak Ltd t/a Coaley Peak,28/01/2019 13:22,28/01/2026 13:22
 7c9558c1-9301-49a6-ab86-eff2d5a925e6,boxing.uk,resell,74,17,6,Global Domains Limited t/a Global Domains Limited,18/03/2019 16:10,18/03/2027 16:10
-e1503be4-1cdf-4fc8-8d9f-bc90ba57a74c,brandnew.uk,resell,72,12,9,Tool Domains EOOD t/a Edoms.com,10/09/2020 16:48,10/09/2026 16:48
+e1503be4-1cdf-4fc8-8d9f-bc90ba57a74c,brandnew.uk,resell,72,11,9,Tool Domains EOOD t/a Edoms.com,10/09/2020 16:48,10/09/2026 16:48
 23a9294f-5cf1-4ef4-89c0-81ffbff8b7cd,bread.uk,resell,102,31,5,Charles Scott t/a Domain Holdings UK,28/02/2019 10:02,28/02/2026 10:02
 b83b7652-3d63-4e50-b15a-200db705f9f2,breakeven.uk,resell,82,5,10,Dot UK Group Limited t/a BRANDABLE DOT UK,01/07/2019 13:04,01/07/2026 13:04
 4ea8251b-f2c7-4813-a694-80ea3cd07f48,breakinto.uk,available,68,2,10,,,
@@ -1231,7 +1242,7 @@ b83b7652-3d63-4e50-b15a-200db705f9f2,breakeven.uk,resell,82,5,10,Dot UK Group Li
 80a000f4-9904-44d6-bc62-5b2f54efcb94,breastbone.uk,available,64,1,11,,,
 94348e13-6805-42f6-a3fe-fa5502701432,breathalizer.uk,available,63,1,12,,,
 cbbc7cc4-b0eb-49f2-bdb3-b098d0bfdf78,breathtaking.uk,available,70,7,12,,,
-2d2e1fa3-cc53-494a-bd3a-9175abcbd734,breezy.uk,resell,76,17,6,Stephen Hall,01/07/2019 13:01,01/07/2026 13:01
+2d2e1fa3-cc53-494a-bd3a-9175abcbd734,breezy.uk,resell,76,16,6,Stephen Hall,01/07/2019 13:01,01/07/2026 13:01
 59953f81-33d7-41f5-a264-10c16a009d24,briary.uk,available,48,2,6,,,
 25607ef2-63e5-4a8e-af4b-e77f1ce1026d,briefingnote.uk,available,70,1,13,,,
 a5918e4d-6805-4f12-a7cc-b18114524b68,briery.uk,available,66,1,6,,,
@@ -1251,7 +1262,7 @@ aeb8af79-a642-432b-b0c7-8f90689e6c28,budget.uk,resell,104,27,6,Stephen Hall,01/0
 e60a4bd0-e2f8-4297-902c-15daa0755129,buffer.uk,resell,98,14,6,Stenning Limited t/a Client Domain Management,08/09/2017 14:53,08/09/2026 14:53
 695e4d53-cb2f-446f-969d-a344d25b0e4a,buggy.uk,resell,84,16,5,Enterfirst Ltd,27/03/2019 10:23,27/03/2026 10:23
 40cca2d4-4937-42f9-b989-47ff615a3cab,builder.uk,resell,76,30,7,Charles Scott t/a Domain Holdings UK,28/02/2019 10:02,28/02/2026 10:02
-263b8ab9-3620-40a9-9e3a-2fce016ff0c5,built.uk,resell,103,16,5,"GoDaddy.com, LLC.",13/09/2020 04:06,13/09/2026 04:06
+263b8ab9-3620-40a9-9e3a-2fce016ff0c5,built.uk,resell,103,15,5,"GoDaddy.com, LLC.",13/09/2020 04:06,13/09/2026 04:06
 32014e8c-8429-401f-b1b1-6f9a8af7e700,builtin.uk,resell,91,7,8,Premkumar Veerabadran t/a sitekart,30/06/2022 17:09,30/06/2026 17:09
 257751a8-9bf4-47d4-a3f6-a3e039032721,buirdly.uk,available,46,1,7,,,
 862f8e05-050e-4342-8992-0e38f5c56dfd,bulletinboard.uk,available,66,5,14,,,
@@ -1269,10 +1280,12 @@ e66a315a-caea-4fd3-ab52-e77deffa7424,burry.uk,resell,44,5,5,ANY-Web Limited,21/0
 23dff068-0f74-4891-ae4b-f93fccb38283,businesstrip.uk,available,74,3,13,,,
 c02d7deb-5c69-4fb4-a638-15b8d3d40b1c,businessventure.uk,available,76,1,16,,,
 3309f40f-14de-42fa-998c-b19669d6f66b,butcher.uk,resell,60,9,7,Charles Scott t/a Domain Holdings UK,28/02/2019 10:02,28/02/2026 10:02
+ac49dd6f-6159-4c80-b464-ba3be5124caa,butif.uk,available,44,1,6,,,
 b1046d63-c1ab-4de0-85be-3f20aaf9693c,butt.uk,resell,40,27,4,Fasthosts Internet Ltd,10/09/2016 21:51,10/09/2026 21:51
 7d23e5ed-d7ea-4742-ab87-478f9a854b11,butter.uk,resell,78,23,6,Andrew Bell,16/10/2014 22:05,16/10/2026 22:05
 b6f939ff-7273-46c7-a9b9-6dfef57e92e3,butterflykeyboard.uk,available,76,1,18,,,
 b0764b62-5737-440b-94f4-1f6c42320cc4,butthen.uk,available,56,1,8,,,
+45c7c9d1-aa64-4ff4-b8c8-fdc3c8d5c5a5,butthenagain.uk,available,42,1,14,,,
 03733580-9488-4309-a13b-01aa0c508d71,buttin.uk,available,70,2,7,,,
 2e0a2344-050d-411d-86d9-dc108d3975f2,buttocks.uk,available,42,2,8,,,
 387830c0-0202-4bcd-851e-79e8e9d97086,buttonlike.uk,available,44,1,10,,,
@@ -1322,6 +1335,7 @@ c3204036-4cfd-4085-9d31-a710825908d1,channukah.uk,available,68,1,9,,,
 51dcf74e-0b64-4cc9-9246-970e708ceac0,channukkah.uk,available,68,1,10,,,
 5ead7b5d-8f85-4ac6-9716-5c28ace69ea7,chanukkah.uk,available,68,1,9,,,
 1624b799-6723-4014-b092-87c9ea5bc36c,characteristic.uk,available,84,2,14,,,
+cceb5750-1047-4c6b-8cc1-a90536c12e50,characteristics.uk,available,56,2,15,,,
 a3fed6d3-2b19-422e-acdc-d5bb85071f2f,charactertrait.uk,available,70,1,15,,,
 1bb506db-7dc6-4230-a3a3-8f970254112f,charles.uk,resell,70,31,7,Charles Scott t/a Domain Holdings UK,28/02/2019 10:19,28/02/2026 10:19
 e6b76ef2-169b-4156-a5b6-5a1ca7338437,charmed.uk,resell,58,10,7,Robin Freeman,31/03/2019 09:51,31/03/2026 09:51
@@ -1333,6 +1347,7 @@ c3f83553-83ee-413d-925a-216943cd7142,cheated.uk,available,56,4,7,,,
 3d3bf8e8-873a-4f6c-b11d-e09a39a47305,checkover.uk,available,70,1,10,,,
 75890640-23d1-4281-aa48-93b7b66ebf0c,cheerfully.uk,resell,72,2,10,ANY-Web Limited,08/01/2017 22:00,08/01/2026 22:00
 a407efdf-cf94-4023-8f6f-07c370a036ff,cheerily.uk,available,68,1,8,,,
+ef9544b9-d4a0-4d9e-a70e-51c6bef5f2d4,cheesefood.uk,available,64,1,11,,,
 0fdff936-77ac-4ce9-a53e-dbfa88f15c46,cheeses.uk,resell,94,5,7,"GoDaddy.com, LLC.",25/04/2019 16:37,25/04/2026 16:37
 e01a9bdd-2edd-49e3-8bf0-bd03e96f8641,cheesy.uk,resell,60,8,6,Stephen Hall,02/07/2019 13:01,02/07/2026 13:01
 7aca43e3-49af-470c-b254-9996b94a9f57,chemicaltoilet.uk,available,56,1,15,,,
@@ -1344,6 +1359,7 @@ dc1200e7-377e-4930-be6b-15187c2c0825,chiaseed.uk,available,74,3,9,,,
 e0c532f6-754e-4ee2-9917-5c3cbfffe12e,chiefjustice.uk,available,68,1,13,,,
 4c9f5b86-2853-4be1-bdc6-d3c9a219371c,chiefly.uk,resell,80,3,7,ANY-Web Limited,08/01/2017 22:00,08/01/2026 22:00
 f6f37fcc-dd01-4a9f-9af3-b7bb28c0d209,childhood.uk,resell,78,8,9,Simon Fox,29/03/2019 22:30,29/03/2026 21:30
+bfaac1f2-fd93-4a8b-bddc-869f2111f0a7,childlanguage.uk,available,64,1,14,,,
 f1421878-986b-4b19-a72a-dce92dcacc23,chiliad.uk,available,62,2,7,,,
 ea66e093-d774-4eba-a16d-84089674f857,chill.uk,resell,72,28,5,Catch22 Media Limited,02/07/2019 13:00,02/07/2026 13:00
 12ea0bc5-222d-42a9-8d49-fbe7f985e86d,chiseling.uk,available,60,1,9,,,
@@ -1401,6 +1417,7 @@ c260ff81-266f-45d4-9417-599670dd4625,combative.uk,available,60,1,9,,,
 18a03e43-a606-4ec5-8e6f-b9cba5a4bb5a,comeclose.uk,available,52,2,10,,,
 7191acd3-6da5-48da-80c6-2504e33c2346,comedian.uk,resell,80,6,8,Synergy Wholesale Accreditations Pty Ltd,17/10/2017 14:52,17/10/2026 14:52
 0519b6fb-030d-4b16-a7c4-2f57e3dbc045,comeinto.uk,available,75,1,9,,,
+2c3e53a5-7bb1-4f25-a6ef-310729a2c306,comeintotheworld.uk,available,72,1,19,,,
 4444883e-f4a0-4d9c-b84c-60ac19c31534,comeout.uk,available,74,1,8,,,
 d4414ab3-af47-4188-9e7b-99a1ccbed559,comeover.uk,available,73,3,9,,,
 44a1f190-d186-4267-a3f4-06966caec680,comeshort.uk,available,64,1,10,,,
@@ -1414,6 +1431,8 @@ d6c6ed7c-8d8d-431d-8cf2-092ff1595f1f,committing.uk,available,64,1,10,,,
 37d68fb6-b830-4616-b4c8-369c539861a7,commix.uk,available,64,4,6,,,
 1dc17a93-669d-4137-810a-0086c7d7c17d,commoncold.uk,available,64,2,11,,,
 9204f288-ddd6-45e3-94ca-753696845393,commonly.uk,available,64,4,8,,,
+ffbb8e88-2d9a-44e9-af61-cae2c46a5aef,commonman.uk,available,72,4,10,,,
+26dad5da-d385-456f-9ff6-8a1eb2327223,commonmarket.uk,available,64,2,13,,,
 d4a1e55c-588e-43a2-a93f-ab5193af3750,commons.uk,resell,63,21,7,Tool Domains EOOD t/a Edoms.com,12/09/2020 17:52,12/09/2026 17:52
 2e2ba1c5-6354-4587-a16f-ad107c23983b,communicationmix.uk,available,70,1,17,,,
 b101f4e3-4632-4142-a65a-e6be904b5ba5,compactcamera.uk,available,74,1,14,,,
@@ -1422,7 +1441,7 @@ b101f4e3-4632-4142-a65a-e6be904b5ba5,compactcamera.uk,available,74,1,14,,,
 37c5c6f6-4126-490d-b4f2-142ee1c2d8b9,complacently.uk,available,50,1,12,,,
 2def9e37-a2f1-4bba-9fb5-a67d561f9d0f,complicate.uk,available,80,3,10,,,
 4f77a1f5-dbec-447c-9151-63dc7e4f9a82,complicated.uk,resell,64,6,11,Yokin Limited t/a Whatever.UK,02/07/2019 13:01,02/07/2027 13:01
-0deabe63-e9f7-4c67-847c-aafb0276f7d8,composite.uk,resell,107,18,9,Fidel Tech Ltd,02/02/2024 09:20,02/02/2026 09:20
+0deabe63-e9f7-4c67-847c-aafb0276f7d8,composite.uk,resell,107,17,9,Fidel Tech Ltd,02/02/2024 09:20,02/02/2026 09:20
 0174057f-2b04-4240-84f7-a580227951b3,compositionbook.uk,available,72,1,16,,,
 8526b9b5-9f4c-44bc-8e89-73bc48147fa6,comprehend.uk,available,76,5,10,,,
 a39693ee-d482-4e8b-ac71-6ee57d256615,compressed.uk,available,65,3,10,,,
@@ -1433,7 +1452,7 @@ a39693ee-d482-4e8b-ac71-6ee57d256615,compressed.uk,available,65,3,10,,,
 7d19f62a-be74-4c46-884d-5c2bd2396443,conceal.uk,resell,68,6,7,Scott McBride,14/06/2021 22:33,14/06/2026 22:33
 08bdf41b-08ed-4c06-9596-2ec5b4da6de3,concerned.uk,resell,66,4,9,"GoDaddy.com, LLC.",05/02/2025 07:53,05/02/2026 07:53
 fd52c9a5-54bb-4bce-90a7-e30a9f78f3f8,concoct.uk,resell,109,4,7,"Namecheap, Inc. t/a Spaceship, Inc.",11/06/2024 01:30,11/06/2026 01:30
-d132b8d2-621c-4336-9539-44907acf3624,concrete.uk,resell,102,25,8,123-Reg Limited t/a 123-reg,13/08/2018 13:19,13/08/2027 13:19
+d132b8d2-621c-4336-9539-44907acf3624,concrete.uk,resell,102,24,8,123-Reg Limited t/a 123-reg,13/08/2018 13:19,13/08/2027 13:19
 fc5cf350-c534-4d81-8c95-09acb891b262,condemn.uk,resell,66,3,7,Falbros Ltd,26/03/2019 17:03,26/03/2026 17:03
 faef1530-dfef-45c7-a5d7-803c382250ab,condense.uk,resell,84,6,8,UK Internet Services Ltd,15/06/2020 08:57,15/06/2026 08:57
 6fcb0ee3-3c31-4b49-a694-ca96716f08d9,condolences.uk,resell,76,3,11,Presence Group Ltd t/a Presence,10/02/2024 20:49,10/02/2026 20:49
@@ -1454,12 +1473,12 @@ db8a6c0b-82f9-4c74-ac97-2a759d736ba0,consultive.uk,available,62,3,10,,,
 8382de08-0648-46d1-9444-6897b8d0fbb4,contact.uk,resell,102,35,7,Backorder Ltd,18/01/2020 19:39,18/01/2026 19:39
 681542a4-34a8-4ca0-a799-826771dc0ba2,contempt.uk,resell,54,2,8,Falbros Ltd,26/03/2019 16:13,26/03/2026 16:13
 e6e7074b-ad10-4cb9-9da0-7be07adb7661,contend.uk,resell,72,5,7,Simon Fox,14/03/2019 09:28,14/03/2026 09:28
-0fa95766-91c7-494e-9c14-7d9c3edc4a25,content.uk,resell,138,35,7,123-Reg Limited t/a 123-reg,12/06/2014 10:48,12/06/2030 10:48
+0fa95766-91c7-494e-9c14-7d9c3edc4a25,content.uk,resell,138,34,7,123-Reg Limited t/a 123-reg,12/06/2014 10:48,12/06/2030 10:48
 6ecd6b98-4946-415a-a82e-a295b538ebd9,contested.uk,resell,60,3,9,UK Internet Services Ltd,08/03/2023 18:08,08/03/2026 18:08
 b421d342-2dc1-42b0-a848-5e0824c45df5,continuing.uk,available,70,4,10,,,
-9c39d175-c5a7-4ee6-8a2b-e69f442f5152,contracted.uk,available,62,2,10,,,
+9c39d175-c5a7-4ee6-8a2b-e69f442f5152,contracted.uk,available,62,3,10,,,
 0ddec89b-2200-46fe-9348-462910f5dda2,contralto.uk,available,54,2,9,,,
-149d3925-db8e-4b7e-b2fd-ea13da6d08cb,contrary.uk,resell,106,5,8,Docky Company,23/10/2025 09:08,23/10/2026 09:08
+149d3925-db8e-4b7e-b2fd-ea13da6d08cb,contrary.uk,resell,106,6,8,Docky Company,23/10/2025 09:08,23/10/2026 09:08
 d157314d-2d86-4cb5-874d-ea02dca22890,contrasting.uk,available,67,1,11,,,
 0c6851c8-b86e-4d33-ab19-9151c686f41d,conventionally.uk,available,54,1,14,,,
 a04eaa53-3400-4d56-a2af-f25cc5f786f6,conveyable.uk,available,44,1,10,,,
@@ -1481,10 +1500,12 @@ d8417942-b482-4e89-9aad-b85a41f7ca14,corresponding.uk,available,84,2,13,,,
 a55d556f-de6c-4662-9ab9-d3071615726d,corrupt.uk,resell,80,10,7,Ascio Technologies Corp. Denmark – filial af Ascio Technologies Corp. Canada,02/07/2019 13:00,02/07/2026 13:00
 1ebdd803-590c-43a2-b016-9a3126f5c4ab,corrupted.uk,resell,52,8,9,Stenning Limited t/a Client Domain Management,07/09/2017 15:00,07/09/2026 15:00
 2a4b1fa1-0eec-4567-96a7-3689936e5815,corruption.uk,resell,54,9,10,Premkumar Veerabadran t/a sitekart,27/03/2024 18:07,27/03/2026 18:07
+e0aded0b-6854-470c-a588-7b34f7e71bc9,costofliving.uk,resell,66,5,14,"Namecheap, Inc.",03/11/2025 11:35,03/11/2026 11:35
 5e88ffba-6382-41ec-bf1a-f3080ad81fef,costs.uk,resell,70,5,5,Laughing Banana Enterprises Ltd,10/09/2020 17:44,10/09/2026 17:44
 c2333e72-da9f-4bca-a5a8-76263336ae88,cotyloid.uk,available,46,1,8,,,
 4a762279-6b14-46be-9151-818d94643cb6,cotyloidal.uk,available,44,1,10,,,
 363fc444-4cc6-4745-98f4-4bb55d3d11f9,countless.uk,resell,70,4,9,ANY-Web Limited,10/09/2025 14:01,10/09/2026 14:01
+bdfa37ec-5e40-491d-9dd0-522aa82fcb4c,countryoforigin.uk,available,66,2,17,,,
 71187217-eedc-47d5-9848-6772b24d9641,courage.uk,resell,100,22,7,"Dynadot, LLC t/a Dynadot",13/09/2020 15:58,13/09/2026 15:58
 41e7f007-82a2-4850-865b-d559ea3be41b,covering.uk,resell,66,5,8,"Dynadot, LLC t/a Dynadot",12/09/2020 17:43,12/09/2026 17:43
 113dcad3-e2d0-487e-9614-c9732b00ee47,covetous.uk,available,54,1,8,,,
@@ -1494,7 +1515,7 @@ e6e22ba7-612f-4dd7-a482-e64026affd50,crackers.uk,resell,50,6,8,Anthony Appleby,1
 1ec6935f-c609-412e-b06b-416f6b1a7329,cracking.uk,resell,82,6,8,InterNetx GmbH,02/07/2019 13:05,02/07/2026 13:05
 d19c4dc5-c661-4364-96d2-cf08c729b91c,crafty.uk,resell,68,16,6,Garner Media Ltd,30/10/2017 09:20,30/10/2026 09:20
 2c853901-ec85-48ba-b757-013b45dcead1,creative.uk,resell,92,41,8,Register.com Inc t/a UDomainname.com,02/07/2019 13:00,02/07/2026 13:00
-fd576fba-8e59-4fa7-b399-04be81767aab,creature.uk,resell,68,18,8,"GoDaddy.com, LLC.",10/06/2014 22:18,10/06/2026 22:18
+fd576fba-8e59-4fa7-b399-04be81767aab,creature.uk,resell,68,17,8,"GoDaddy.com, LLC.",10/06/2014 22:18,10/06/2026 22:18
 12daa3e8-6158-45e8-9778-fc33f65942ba,cricket.uk,resell,104,23,7,Global Domains Limited t/a Global Domains Limited,18/03/2019 16:08,18/03/2027 16:08
 b6c708d0-e7c9-4bb4-bfed-9602ef267dd7,cricketscore.uk,available,72,3,13,,,
 982c79d5-cceb-4e04-a1e6-9bf05e0138e6,critically.uk,resell,60,2,10,ANY-Web Limited,21/03/2019 17:00,21/03/2026 17:00
@@ -1530,9 +1551,10 @@ cbfbb160-ba87-4692-bdd0-6c63c73a6143,dancehall.uk,available,70,7,10,,,
 b5866f46-efcc-494b-864f-8f727b3146f6,darkweb.uk,resell,48,19,8,Sitefinders Net Limited,07/06/2019 21:27,07/06/2026 21:27
 ccc6a99d-268e-4f00-99e6-78ae3efe1fc1,databaseanalyst.uk,available,68,1,16,,,
 312173e3-5a93-4fb5-be32-5b12955d247a,datatable.uk,available,70,3,10,,,
-462c787a-96e0-4b7c-ac39-bf255b00fccc,dateback.uk,available,68,1,9,,,
+462c787a-96e0-4b7c-ac39-bf255b00fccc,dateback.uk,available,70,1,9,,,
 29277841-de74-42df-b98a-09f7864f8464,datefrom.uk,available,68,1,9,,,
 6175a8a4-4bd5-4df7-a02d-c2fc91b251de,dateofbirth.uk,available,70,2,13,,,
+1b0e5562-64ac-4557-8729-0d637b99e159,dateofdeath.uk,available,60,1,13,,,
 f294d953-da49-4346-b021-a81166fac406,daughter.uk,resell,76,6,8,Golan Media LLC,02/10/2021 08:25,02/10/2026 08:25
 b2c65f55-d437-40a9-af2d-e0521b1e2e37,dawn.uk,resell,70,29,4,"GoDaddy.com, LLC.",02/07/2019 13:00,02/07/2026 13:00
 8820ad7c-e097-430d-a362-62dc20b3acda,daytime.uk,resell,92,7,7,Tool Domains EOOD t/a Edoms.com,10/09/2020 20:19,10/09/2026 20:19
@@ -1545,13 +1567,13 @@ f46a2eea-48e1-4a9f-b681-bec24a44b8d6,debase.uk,available,60,4,6,,,
 bf7fe6fc-465e-456c-86dd-35555a42906c,debate.uk,resell,90,17,6,Lively Ltd,29/10/2017 20:22,29/10/2027 19:22
 59aeecde-e9ee-4854-a78e-cdc65639b45b,decade.uk,resell,82,9,6,Simon Fox,20/01/2020 09:27,20/01/2026 09:27
 6e5911a2-a3ec-492e-87ae-a7ef15dae293,decay.uk,resell,70,12,5,"Namecheap, Inc.",16/05/2024 19:18,16/05/2026 19:18
-6b5d786e-2ead-499b-9585-9c1253531da2,deceased.uk,available,64,4,8,,,
+6b5d786e-2ead-499b-9585-9c1253531da2,deceased.uk,available,64,3,8,,,
 280d6acf-d3a4-42c3-a397-6106146e2fed,declining.uk,available,62,1,9,,,
 638e34ce-3915-45f4-a996-f25bf9e5ddb5,decorated.uk,resell,68,3,9,Namecamp Limited t/a Yay.com,26/04/2025 09:50,26/04/2026 09:50
 bc12f7a6-792f-4c9a-a571-dba628b91d4c,decumbent.uk,available,52,1,9,,,
-64a93eed-34ca-40a8-bc61-3415aed50e56,deep.uk,resell,72,37,4,Stephen Hall,02/07/2019 13:00,02/07/2026 13:00
+64a93eed-34ca-40a8-bc61-3415aed50e56,deep.uk,resell,72,35,4,Stephen Hall,02/07/2019 13:00,02/07/2026 13:00
 53a02535-48b5-4220-a062-1561f412f139,deepdown.uk,available,61,3,9,,,
-4a8a402f-65d7-4190-abb8-a531e013e593,defend.uk,resell,76,13,6,Self Storage Hire Ltd t/a Provide Domain Name Services,04/06/2019 09:32,04/06/2027 09:32
+4a8a402f-65d7-4190-abb8-a531e013e593,defend.uk,resell,76,12,6,Self Storage Hire Ltd t/a Provide Domain Name Services,04/06/2019 09:32,04/06/2027 09:32
 e6b715ee-bb3a-48d9-91c2-b7b986f3d57d,definitively.uk,available,60,1,12,,,
 31124421-44e4-435d-af8c-e946a2c5fd42,delicious.uk,resell,74,16,9,Islam Hegazy,02/07/2019 13:00,02/07/2026 13:00
 3c7911bc-3bd9-4c80-905f-2b2c205471f8,delighted.uk,resell,56,13,9,Stenning Limited t/a Client Domain Management,28/05/2019 15:02,28/05/2026 15:02
@@ -1636,6 +1658,7 @@ e65ccc98-fb7b-40b0-a296-f5cb71462736,division.uk,resell,66,14,8,Islam Hegazy,21/
 a87c077b-3bd9-4024-93eb-237362a418ee,dna.uk,resell,78,44,3,Trifega Ltd,02/07/2019 13:00,02/07/2026 13:00
 3a9ca53d-407f-40b8-896b-58f8be8b8d5f,documented.uk,available,66,5,10,,,
 c1d597ab-4b25-41c3-933e-0912c56d61ff,dogshot.uk,available,76,1,8,,,
+4595d20d-d0ad-4d5e-b175-89298457310f,dogsofwar.uk,available,76,3,11,,,
 2f3eb5ff-d938-491a-a089-29b5693e4316,dogtoothgrass.uk,available,90,1,14,,,
 2429346b-c5bb-4f1e-ac01-433c1ab2b5e6,doledout.uk,available,41,2,9,,,
 fe47f64d-5635-48f8-b943-ef539ad3cb01,dollarsign.uk,available,68,4,11,,,
@@ -1719,6 +1742,7 @@ a32c2e28-95fd-4f63-b82b-b3d7d133c855,enlarged.uk,available,66,1,8,,,
 b02df93a-57ab-4324-92c9-2f62817b7edf,ennead.uk,available,68,5,6,,,
 67ad7d33-8c36-4cb3-8ac5-5e32ebe6a07b,ensuant.uk,available,62,1,7,,,
 9df1dc83-d2c1-44c1-9806-7aa489bf57c1,enter.uk,resell,80,27,5,Tool Domains EOOD t/a Edoms.com,16/03/2019 17:16,16/03/2026 17:16
+563ab3ad-4c0e-44b3-ada9-3458be9003c6,enterinto.uk,available,66,1,10,,,
 b734e1ab-ea76-4ad5-8f40-7d8897922ef4,enthralled.uk,available,54,1,10,,,
 f79c6a24-d5bc-4ea9-a2d3-3219215cedac,entitled.uk,resell,66,6,8,Bee Internet Ltd,29/03/2019 18:58,29/03/2026 17:58
 8dd89b81-a0bf-4593-988a-89e08fdf7b27,entranced.uk,available,54,3,9,,,
@@ -1742,7 +1766,7 @@ a5bb3fd8-b51c-4007-912a-ad28565c6e48,establishmentgrowth.uk,available,64,1,20,,,
 0b5ec420-4bd2-441c-9882-35273a78d438,esthetical.uk,available,70,1,10,,,
 9a927003-e5fa-4780-a47f-101da1a0c299,estimate.uk,resell,90,13,8,Graeme Wingate,04/09/2020 01:05,04/09/2026 01:05
 7c325273-e7b5-4463-9a06-08579c9f5300,esurient.uk,available,66,1,8,,,
-b19200de-609b-454c-9059-f8d87c8a6cf1,ethereal.uk,resell,88,27,8,UK Internet Services Ltd,15/06/2020 08:56,15/06/2026 08:56
+b19200de-609b-454c-9059-f8d87c8a6cf1,ethereal.uk,resell,88,26,8,UK Internet Services Ltd,15/06/2020 08:56,15/06/2026 08:56
 5db405b9-31c6-4fa4-933f-59762e8becb5,ethnic.uk,resell,88,8,6,Simon Fox,29/03/2019 23:47,29/03/2026 22:47
 660b0ddb-82a8-4b14-b0ee-75215fad67c0,etiologic.uk,available,46,2,9,,,
 e0d170b1-95ea-44c3-a648-e22564605f9b,Europeanhedgehog.uk,available,68,1,17,,,
@@ -1755,11 +1779,12 @@ cca65b31-e76f-48ba-9e38-a1ef256452e3,evenout.uk,available,70,1,8,,,
 2081821c-eb33-4aff-9b9f-2fd5f0eb30d2,eventhough.uk,available,54,2,11,,,
 68abfb1c-b842-48c3-bcc3-9752a54cbbea,eventoed.uk,available,50,1,9,,,
 821f5aa9-d39c-49bf-9b49-b8179cd92a2e,everbody.uk,resell,58,3,8,Abion AB,04/03/2019 15:05,04/03/2026 15:05
+ba95414f-cee7-4a5b-bceb-363c9254bc5c,everybit.uk,available,60,5,9,,,
 1efe8768-80bd-4fd0-abcc-42f082735613,everybodyelse.uk,available,56,1,14,,,
 b8d3b75c-a2b8-4806-bf09-852588e3e055,evitable.uk,available,52,2,8,,,
 a6504246-6bcb-445e-932b-bdb5e7355f35,evrything.uk,available,60,2,9,,,
 89ccff84-e59c-4953-b0a5-7144b074e6eb,exaggerate.uk,available,80,1,10,,,
-a92b79a4-2eb9-4df7-a793-cdeeedc18e8f,exchange.uk,resell,98,25,8,Internet Domain Services BS Corp t/a Internet.bs,25/06/2019 02:19,25/06/2026 02:19
+a92b79a4-2eb9-4df7-a793-cdeeedc18e8f,exchange.uk,resell,98,24,8,Internet Domain Services BS Corp t/a Internet.bs,25/06/2019 02:19,25/06/2026 02:19
 55abcbc7-8467-4524-a762-76efd0ee5745,exclamationmark.uk,available,68,2,16,,,
 15924a1c-a7ce-429c-8f61-4697c4be1df7,exculpated.uk,available,62,1,10,,,
 4e9116c8-11a4-4184-b2a5-4a41963f5e7d,excursion.uk,resell,96,7,9,Mr David A Munro,19/06/2019 19:48,19/06/2026 19:48
@@ -1788,7 +1813,7 @@ bc01e7a3-5ec9-4e30-bb4b-2c234f8693c8,eyry.uk,available,74,3,4,,,
 22c7c232-2227-4df9-820a-863a8f0e2f70,fact.uk,resell,78,23,4,RegistryGate GmbH,11/09/2020 10:32,11/09/2026 10:32
 38ab73cb-22bc-4e0b-ac20-96ced6a43e32,fail.uk,resell,54,19,4,ANY-Web Limited,21/03/2019 17:20,21/03/2026 17:20
 57cb7b61-0644-404a-9ce0-2a157606cca8,failedstate.uk,available,54,2,12,,,
-3db99429-9d38-42b2-9dca-54031f383626,fair.uk,resell,106,32,4,"Dynadot, LLC t/a Dynadot",02/07/2019 13:00,02/07/2026 13:00
+3db99429-9d38-42b2-9dca-54031f383626,fair.uk,resell,106,31,4,"Dynadot, LLC t/a Dynadot",02/07/2019 13:00,02/07/2026 13:00
 9bad6b30-4928-4640-b1d1-b7746954b0e0,fairly.uk,resell,66,7,6,Mr Lee Owen,11/09/2023 13:43,11/09/2026 13:43
 a47dfbab-146f-428f-8f18-398988f3d498,faithful.uk,resell,92,12,8,JM Internet Ltd,18/04/2023 22:37,18/04/2027 22:37
 33e77b4e-1f34-47cf-ac29-eaf124c1d65c,falldown.uk,available,60,2,9,,,
@@ -1800,6 +1825,7 @@ d78b0e2e-8110-4b10-b9eb-02f9f101b66f,fallshort.uk,available,66,1,10,,,
 7871dec7-f5d5-4fa3-8cca-93c365e0d133,family.uk,resell,106,36,6,InterNetx GmbH,02/07/2019 13:00,02/07/2026 13:00
 66d5fa1c-97b7-45f5-9fc6-7712ed28861d,familyrestaurant.uk,available,70,1,17,,,
 18427fcf-2281-4df1-9806-1bf534f2c4b2,fanclub.uk,resell,80,17,8,Ionos SE,10/06/2014 08:09,10/06/2026 08:09
+23b368d2-f3d1-4cf1-8b34-793c7699de42,fanletter.uk,available,68,2,10,,,
 b8a5e787-c7b1-4363-8260-f667a12ecf81,fanny.uk,resell,44,8,5,Christopher Clark t/a Brand Selection - Domain Names For Sale,17/02/2016 21:34,17/02/2026 21:34
 3fd3f477-8c7c-4385-8445-b20b2c92c76b,FannyAdams.uk,available,56,2,11,,,
 e37eba08-a78e-477a-b124-e5a1a7ae26b5,farthest.uk,available,56,1,8,,,
@@ -1814,6 +1840,7 @@ f43b1281-9aa9-4308-8ffd-2ca87c51616a,favored.uk,available,76,4,7,,,
 fdcebb79-2e60-4306-9ea9-dfd86365afcf,fearful.uk,available,70,2,7,,,
 9f326e59-bd99-475b-9e83-c795381ec276,feature.uk,resell,94,13,7,Easyspace Ltd,08/11/2017 17:42,08/11/2026 17:42
 38170a1c-bffa-42b7-8a8c-b5f26c5ac622,febrifuge.uk,available,66,1,9,,,
+1bcebe5b-9364-4127-9071-9f8b4f39ddd7,fellowman.uk,available,66,2,10,,,
 4396926c-ff38-429d-85dd-d8feb99529c6,felt.uk,resell,76,12,4,"Dynadot, LLC t/a Dynadot",30/10/2017 09:22,30/10/2026 09:22
 f108a3bb-f4ab-4a85-8e98-898e81dab376,femalealpha.uk,available,68,1,12,,,
 68bfe50b-ef79-4dbe-bc7b-439147d9e158,feminism.uk,resell,68,7,8,Tool Domains EOOD t/a Edoms.com,02/07/2019 13:00,02/07/2026 13:00
@@ -1828,6 +1855,7 @@ bf9e82dd-1302-4b2b-8e7a-91fe68fcfed8,fiercely.uk,available,54,2,8,,,
 911c5419-cb6f-446f-92be-94b82211a88c,fig.uk,resell,66,25,3,"GoDaddy.com, LLC.",02/07/2019 13:00,02/07/2026 13:00
 941fa33b-6d2a-42f5-ad6c-ec526cda2c8a,figureout.uk,available,74,3,10,,,
 7de95825-c506-4375-93bd-d312b18dfb01,finalize.uk,available,74,3,8,,,
+9562c465-87b5-4351-8d8c-2eca434410ae,finalsay.uk,available,72,2,9,,,
 ebbfaa50-ac6a-4cf6-a142-ca389df17769,finalyearproject.uk,available,70,2,18,,,
 b96eae3a-e80c-4e68-a68c-e7cdf6d83959,financialmarket.uk,available,72,5,16,,,
 bccab5ad-e7b0-4d88-aa19-58830091cc97,finished.uk,resell,68,5,8,Presence Group Ltd t/a Presence,22/04/2024 16:56,22/04/2026 16:56
@@ -1861,7 +1889,7 @@ d47589b3-a144-4b74-b65b-afda93745cb8,footballer.uk,resell,76,5,10,Luke Coulton t
 6fbcc1da-6ad2-4e78-b53c-d98c3b69e24d,forecloser.uk,available,54,1,10,,,
 2e699b93-0c18-4691-9cc8-bc817d0c38ea,foreign.uk,resell,78,11,7,Self Storage Hire Ltd t/a Provide Domain Name Services,04/06/2019 09:39,04/06/2027 09:39
 d7c26ee6-b232-4db0-8ab2-21c16a1bc019,forestfire.uk,available,58,5,11,,,
-3b0a23a6-1cf9-40a0-a9c2-b35f3c43862b,forgiving.uk,resell,96,3,9,"GoDaddy.com, LLC.",05/02/2025 07:35,05/02/2026 07:35
+3b0a23a6-1cf9-40a0-a9c2-b35f3c43862b,forgiving.uk,resell,96,2,9,"GoDaddy.com, LLC.",05/02/2025 07:35,05/02/2026 07:35
 0a3fec01-f6bf-45f4-b29b-d1e15358647e,formal.uk,resell,94,10,6,Simon Fox,24/06/2019 11:56,24/06/2026 11:56
 6f47062a-7eb5-4c61-8f19-40bae3ad7b81,formerly.uk,available,58,4,8,,,
 de4b58f6-a334-4b2b-a4e8-f48f1bfe35e1,forthat.uk,available,54,1,8,,,
@@ -1881,6 +1909,7 @@ c3f43a7e-1b8a-4c6b-aefa-75e3093bae42,fourscore.uk,available,58,4,9,,,
 c89aa341-820c-4ea7-80c7-db0cd81ab471,fretful.uk,available,58,2,7,,,
 1196dc81-a8bc-4b10-a957-a351a0fb6bb4,friendship.uk,resell,76,21,10,Rubber Keys Ltd,29/03/2019 17:06,29/03/2026 16:06
 28d70409-ba7c-4ac5-a4f6-ff32d3a4ce85,fruitvegetable.uk,available,76,1,15,,,
+3c400ac9-3d9c-4491-9cc4-3650c06d67d6,fruitwine.uk,available,80,2,10,,,
 497d1d81-e55d-4c47-88e1-5431504e2a7c,frustrate.uk,available,74,2,9,,,
 1ab71099-b7a0-4240-9c25-6c50a62df5fc,frustrated.uk,available,54,4,10,,,
 bebb74a1-c9f4-45f7-b9ef-3574712d9fba,fuckinghell.uk,available,54,1,12,,,
@@ -1898,7 +1927,7 @@ b37d5bba-80da-4584-a46c-75b0f1763f1f,fundament.uk,available,38,9,9,,,
 f425485a-c353-498a-b2e4-09782b034181,furious.uk,resell,58,10,7,"GoDaddy.com, LLC.",02/07/2019 13:01,02/07/2026 13:01
 43126a50-eaaf-483b-b789-74c6d6b7df38,fussy.uk,resell,54,6,5,Andrew Bell,05/10/2023 13:00,05/10/2025 13:00
 43180bac-27ee-4cfe-b5d7-5b88a5bf2aa9,future.uk,resell,94,41,6,"GoDaddy.com, LLC.",26/02/2019 18:35,26/02/2026 18:35
-3befba12-3cdb-47d3-b4a2-182707c97024,fuzzy.uk,resell,80,21,5,Stephen Hall,10/09/2019 18:35,10/09/2026 18:35
+3befba12-3cdb-47d3-b4a2-182707c97024,fuzzy.uk,resell,80,20,5,Stephen Hall,10/09/2019 18:35,10/09/2026 18:35
 b90bcd86-aba9-4962-bf7f-1bd338c18327,galling.uk,available,76,2,7,,,
 916e2658-4e48-4c7c-83c6-9c1c0e286ddf,gaping.uk,available,76,2,6,,,
 add53fb7-dca5-4fce-a9d8-7c0a7d9a570e,garbed.uk,available,50,1,6,,,
@@ -1916,29 +1945,42 @@ e2f14f35-5713-40e4-8b18-83ef9c90e66d,gaydog.uk,available,66,3,7,,,
 21c2f92e-abf9-426f-af1a-7fb2fb77eefc,generically.uk,available,52,1,11,,,
 8bf4e19f-67b1-4287-b306-bb7e97702e4f,genuine.uk,resell,78,21,7,Graeme Wingate,06/07/2016 13:11,06/07/2026 13:11
 b139c437-4722-4a4c-8516-cede03cfd78e,Germanchamomile.uk,available,76,1,16,,,
+40195ade-ec43-4383-b9cb-5ee02eaa7a38,GermanEmpire.uk,available,56,1,13,,,
+022dbe95-0338-4f69-9033-92a72f1643bc,GermanReich.uk,available,52,1,12,,,
+ccc4b98c-257f-4f2f-ac6e-caa21f9a66ab,GermanRepublic.uk,available,46,1,15,,,
 11ec810a-36ab-4f7f-a89c-84dfc5bb357c,germicidal.uk,available,42,2,10,,,
 9962f9ed-dfd1-4d45-a81d-3f603183af22,germicide.uk,available,60,1,9,,,
 79fc1655-98a3-49fb-aa30-a3b52e0c78ab,getat.uk,available,76,4,6,,,
 7e23bd6d-244e-453d-b557-812dc91acb7d,getinto.uk,available,72,7,8,,,
 b293345b-0516-49a1-b439-feac54dbcb7e,getoff.uk,available,76,3,7,,,
+9cc0087b-6478-40a0-9964-df4f75b6dc77,getopen.uk,available,73,2,8,,,
 68af6e37-c896-42e5-8143-f5cfef719ba7,getoutofhere.uk,available,94,1,15,,,
+8709437c-90f5-4748-bbb0-fa35238b4eaa,getreligion.uk,available,73,1,12,,,
+8b53e609-f0b1-43f9-9778-6903f1e26233,gettakenin.uk,available,66,1,12,,,
+d9ceed2e-aa1c-4c5a-9249-f33fe3da462c,getthelastlaugh.uk,available,76,1,18,,,
+73ebc040-9866-4692-a995-00c9031d7f38,getthepoint.uk,available,75,2,13,,,
 a0a6ed5b-5d0c-4e28-8671-2c64827d74ee,getto.uk,available,76,6,6,,,
+9114a522-2842-40c3-8a75-d2692a7f1887,gettothepoint.uk,available,75,3,16,,,
+811501ee-52aa-4427-be82-88ca3bb9f1db,getworkdone.uk,available,76,3,13,,,
 222d5ec7-3dd2-4b98-baa8-136999e6db76,ghostlike.uk,available,44,2,9,,,
 9dc2cc4d-5976-471a-9d4b-84da763ef1b2,ghostly.uk,resell,52,10,7,"GoDaddy.com, LLC.",05/02/2025 07:35,05/02/2026 07:35
 6cf5ef67-ec95-4e63-8dd0-3fd36a60a9e4,giftcertificate.uk,available,76,2,16,,,
 9befaa4a-8c56-4fa8-9235-e4086688a673,gillless.uk,available,50,1,9,,,
+6ccd0825-4b7b-4be6-808a-c00609422221,gingerbreadman.uk,available,74,3,15,,,
+b0424ea8-0ef8-48fd-9064-125d02c37ab8,giveamanafish.uk,available,52,1,17,,,
+46aae6ea-7d47-4679-bf79-0e2e888eb88e,giveandtake.uk,available,70,5,13,,,
 cf8eb7f6-cd4e-4d1b-bacc-9fc11c0d16a2,givebirth.uk,available,78,1,10,,,
 ae7226b2-0886-4ef6-9964-cad4171c8a37,given.uk,resell,74,8,5,"Dynadot, LLC t/a Dynadot",03/02/2018 09:25,03/02/2026 09:25
 dd913d04-307b-4e75-84af-ad491ec1ece8,giveoff.uk,available,68,1,8,,,
 fb905453-a45a-40d8-89f8-c40bdeb1ab65,giveout.uk,available,72,4,8,,,
-765729b5-c3a3-4052-a604-966d7551b2f5,glad.uk,resell,80,14,4,Fasthosts Internet Ltd,03/07/2019 13:00,03/07/2032 13:00
+765729b5-c3a3-4052-a604-966d7551b2f5,glad.uk,resell,80,13,4,Fasthosts Internet Ltd,03/07/2019 13:00,03/07/2032 13:00
 5f0767e5-3d16-41c3-a450-4c5e4895face,glancing.uk,available,78,2,8,,,
 afa22bc1-401a-4764-90f9-49aec51499f8,glassceiling.uk,available,62,4,13,,,
 ce42f587-0811-4fe6-85d2-04c564b2e40c,glasses.uk,resell,70,14,7,Charles Scott t/a Domain Holdings UK,28/02/2019 10:29,28/02/2026 10:29
 181a1acd-1f61-481c-b10e-ff4344b3afb3,glinting.uk,available,64,1,8,,,
 1b91a828-77ce-4270-8cc0-13f637f70c68,glistering.uk,available,60,1,10,,,
 423366c9-055c-43e3-9c84-fc1350dcccc1,glitter.uk,resell,96,17,7,Dreamscape Networks International Pte Ltd,10/06/2015 10:03,10/06/2026 10:03
-eaf160b7-11ee-452c-8a2e-da1a9213101a,global.uk,resell,108,33,6,Alan Drury,01/10/2015 21:50,01/10/2026 21:50
+eaf160b7-11ee-452c-8a2e-da1a9213101a,global.uk,resell,108,37,6,Alan Drury,01/10/2015 21:50,01/10/2026 21:50
 6a6189b5-6549-4a33-8b27-a36a3473f07a,globose.uk,available,54,1,7,,,
 6441aae7-23db-41cc-b75b-74f25656e621,glossary.uk,resell,70,9,8,Namecamp Limited t/a Yay.com,18/09/2021 07:21,18/09/2026 07:21
 1d3b2e31-5359-44f9-bfaf-8d8cc412a07f,goalong.uk,available,72,1,8,,,
@@ -1956,6 +1998,10 @@ de4f2071-4483-4f27-a26c-68e45326fba8,goodrun.uk,available,72,3,8,,,
 c2a640b6-8949-4543-a3b9-d3be3904c190,gooff.uk,available,68,2,6,,,
 d6166b62-ae1f-4f6b-a8fd-7eb530c1cce5,gooutside.uk,resell,80,3,10,Rubber Keys Ltd,29/03/2019 17:56,29/03/2026 16:56
 56bd0c02-55a1-44bd-b212-9ebad3dc436f,gorgeous.uk,resell,76,10,8,"Dynadot, LLC t/a Dynadot",03/07/2019 13:00,03/07/2026 13:00
+4a347004-71cd-401a-8938-168e1502e9db,gotobedwith.uk,available,66,1,14,,,
+b19848b2-3f9f-4f16-987b-0322e31649db,gotowork.uk,available,68,4,10,,,
+701ee60b-bb44-4a97-8619-c8c8aa93e61e,gowith.uk,available,74,6,7,,,
+cdd284fb-6259-49e7-8f73-eb0d891fbe52,gowithoutsaying.uk,available,81,1,17,,,
 cdc84a86-5cee-494e-b72e-28b6dbe5e6bf,gracious.uk,resell,90,8,8,Dot UK Group Limited t/a BRANDABLE DOT UK,03/07/2019 13:00,03/07/2026 13:00
 a9cae48b-a6e9-4540-923f-842c21241b0b,gramme.uk,available,68,4,6,,,
 c6e2011a-f544-4865-b739-44bbcd0a2c21,grandad.uk,resell,80,3,7,Mr Chris Vaughan,03/07/2019 13:00,03/07/2027 13:00
@@ -1973,7 +2019,7 @@ e2dcba3b-51e7-407b-97b9-7bfdbc35ed9c,grasping.uk,available,68,2,8,,,
 3b9d2201-24ee-4d05-bc36-ac56fd34db02,greatgranddaughter.uk,available,72,1,19,,,
 06fcd129-3833-4c12-94e3-6f557a50f8bc,greatgrandson.uk,available,72,1,14,,,
 12e6e13a-0933-4cc5-8a16-1223963a007f,greatuncle.uk,available,52,1,11,,,
-32ae7822-ce13-4292-a7aa-e3a714cf0edb,green.uk,resell,108,33,5,Heart Internet Limited t/a Heart Internet,11/03/2016 11:37,11/03/2026 11:37
+32ae7822-ce13-4292-a7aa-e3a714cf0edb,green.uk,resell,108,32,5,Heart Internet Limited t/a Heart Internet,11/03/2016 11:37,11/03/2026 11:37
 247c8621-59c1-44dd-85e2-eae09a5eeec0,greet.uk,resell,72,11,5,ANY-Web Limited,21/03/2019 17:37,21/03/2026 17:37
 afdffeaf-5407-45f4-a121-71bfe4f1d71d,Greg.uk,resell,66,35,4,Stephen Hall,03/07/2019 13:00,03/07/2026 13:00
 0c7c2d16-37d6-4702-baaa-1cf9275008d9,Gregg.uk,resell,66,10,5,"GoDaddy.com, LLC.",03/07/2019 13:00,03/07/2026 13:00
@@ -2017,6 +2063,7 @@ cb8f811e-eff6-41ba-bcdd-7954b0ed1a0b,hanukah.uk,available,80,2,7,,,
 94ad7ed1-c052-4ffa-a6db-04cde1b27814,hard.uk,resell,50,17,4,"GoDaddy.com, LLC.",03/07/2019 13:00,03/07/2026 13:00
 7becf36d-7c66-4172-bed0-88a1e2a4943d,hardatit.uk,available,70,1,10,,,
 c72e21fa-1d14-4194-a65e-514c61a248a7,hardluck.uk,available,60,3,9,,,
+a599ad66-ea79-4a11-abcd-65da86c6d641,hardwork.uk,resell,72,9,9,Simon Fox,14/06/2019 14:51,14/06/2026 14:51
 d37c8877-87eb-4411-b344-dc5224329f4b,hardworking.uk,available,72,3,11,,,
 1fa282f6-2519-4e2a-94c7-b1a0e5529b6b,harrowing.uk,available,66,1,9,,,
 461926f8-7ab6-4144-9acd-7d3e141c7b38,hassle.uk,resell,99,4,6,Falbros Ltd,08/01/2021 10:01,08/01/2026 10:01
@@ -2025,7 +2072,10 @@ d37c8877-87eb-4411-b344-dc5224329f4b,hardworking.uk,available,72,3,11,,,
 93b2e82c-d532-43f8-9323-d04091b11260,hattrick.uk,resell,76,8,9,"Dynadot, LLC t/a Dynadot",03/07/2019 13:01,03/07/2026 13:01
 d958deed-e471-4cba-bc78-996a9c985d20,havegot.uk,available,70,1,8,,,
 17937526-0bb6-4d4c-805a-7f34020c0e75,haveonemoretime.uk,available,62,1,18,,,
+a3c2749e-622e-4e01-b130-3a017dea71a2,havesecondthoughts.uk,available,64,1,20,,,
+8b775238-e024-484e-93d7-2d76543f8bea,havethelastlaugh.uk,available,70,1,19,,,
 e4634df0-2cc8-425c-bda7-16fdebb34e4e,havewords.uk,available,64,1,10,,,
+2b881e67-3c64-45ed-825b-0853072e322d,haveworkdone.uk,available,66,1,14,,,
 f57401fc-376a-407b-a6ea-3207b2485276,having.uk,resell,86,5,6,Falbros Ltd,01/06/2020 13:41,01/06/2026 13:41
 b96c5acc-631d-468c-bcb7-aaa56aaf60f2,hawkeyed.uk,available,46,2,9,,,
 94fe168f-76c6-4e36-a7b7-77e7fe054df0,heal.uk,resell,70,26,4,Islam Hegazy,18/01/2020 05:29,18/01/2026 05:29
@@ -2043,6 +2093,7 @@ c2f28cf7-d69a-45ff-bd64-9772145be248,heedful.uk,available,66,1,7,,,
 6220a823-8cde-4af8-8ca6-2188265eccef,hence.uk,resell,64,7,5,Global Domains Limited t/a Global Domains Limited,24/04/2019 11:18,24/04/2027 11:18
 194f0bef-fd88-463c-abf6-dc1c64139fa6,henryford.uk,available,74,5,10,,,
 64ef53c7-06cb-4385-8c6b-262a0cba332d,heptad.uk,available,58,2,6,,,
+0c1f7fa4-39ed-4fe0-b083-4395d8860763,herbalmedicine.uk,available,74,4,15,,,
 261dcb92-f9aa-4c67-91bc-1921593e606a,hermitic.uk,available,46,1,8,,,
 9399e386-e1ee-49b9-b2cf-6b8c9cf5fbfb,hermitical.uk,available,46,1,10,,,
 9ce20763-47bb-4683-bb41-97daaec0d623,hic.uk,resell,70,12,3,Tool Domains EOOD t/a Edoms.com,03/07/2019 13:00,03/07/2026 13:00
@@ -2063,6 +2114,10 @@ d40fb849-1c95-4148-b066-da83835b79a7,hopedfor.uk,available,51,1,9,,,
 c4d38400-6061-47b4-8581-8d6147941f4f,horseback.uk,available,80,2,9,,,
 7a40098c-4fc8-4519-8063-01ec46b7e81b,howabout.uk,available,64,7,9,,,
 03710105-6e79-4b0a-a6ad-26817f8f1e4a,howaboutthat.uk,available,56,2,14,,,
+eb0fe9ed-51b0-49ec-bcdb-1caf4bf378e9,howgoesthewar.uk,available,46,1,16,,,
+699cbddb-7d62-46d7-8590-e53cb6cbec2d,howsayyou.uk,available,48,1,11,,,
+86d789f0-8926-4702-a635-22ee3ce667af,howthehell.uk,available,44,2,12,,,
+db486e36-633d-44e8-9efb-b43dbe38cc1b,howyousay.uk,available,52,1,11,,,
 ffb8667a-2282-407a-ba02-3b9ef818fbf2,humanities.uk,resell,70,6,10,Realtime Register BV,18/06/2021 10:30,18/06/2026 10:30
 34846c34-354f-45bb-b5fd-5b0647c47ffe,humanity.uk,resell,76,28,8,Stenning Limited t/a Client Domain Management,28/03/2018 17:36,28/03/2026 18:36
 73b80849-dc3b-42d1-8814-92be38d8d176,humanlike.uk,available,56,4,9,,,
@@ -2073,6 +2128,7 @@ e0e49bbc-deae-4b29-8437-c5855f7d4b06,humorous.uk,available,72,5,8,,,
 85ce2cc2-d869-4e89-ae2a-a0a4d8c698ad,hunger.uk,resell,82,14,6,Mr Chris Vaughan,03/07/2019 13:00,03/07/2027 13:00
 b66a7394-9e03-4527-b50a-a334292c9425,hungry.uk,resell,72,18,6,Mr Chris Vaughan,03/07/2019 13:00,03/07/2027 13:00
 71c05e7c-c4ef-43e5-badd-4312e26ab61b,husband.uk,resell,74,8,7,Vital Domains Ltd,27/03/2019 00:03,26/03/2028 23:03
+7f78a452-fc0f-4799-9955-1f6e21228e0d,husbandandwife.uk,available,74,1,16,,,
 423f2f11-5f8c-48b3-bedf-c08d3feaaf77,hybrid.uk,resell,88,21,6,Team Blue Internet Services UK Limited,26/06/2017 14:52,26/06/2027 14:52
 9339a593-fe13-4fae-9354-434e56c8867a,hydroponic.uk,resell,46,7,10,Christopher Clark t/a Brand Selection - Domain Names For Sale,29/09/2017 14:41,29/09/2025 14:41
 cadaa213-c6e7-4917-97cb-eccbf7202ac5,hypocritically.uk,available,42,1,14,,,
@@ -2084,6 +2140,7 @@ d09f4d31-6ecc-4bfe-b083-3bbbccdb0241,identify.uk,resell,74,15,8,ANY-Web Limited,
 097f77e7-8464-4c57-87cd-166eaf7c59f4,idiom.uk,resell,74,9,5,Lively Ltd,06/10/2023 13:01,06/10/2026 13:01
 466772f3-e227-42a3-95c9-d878b766cf02,idolised.uk,available,60,1,8,,,
 e136b9b9-14d5-4e41-afbe-76f87d654cb6,ifnot.uk,available,62,3,6,,,
+4e972b3b-8c0b-4efa-b059-2ccb5edae8d2,Ihearyousay.uk,available,54,1,14,,,
 be8548b9-0a66-4a27-89c8-377b75181a0b,IhopeImaybeshot.uk,available,48,1,20,,,
 5b904d68-d344-47f2-9e42-647e80271098,Ilikepie.uk,available,54,2,10,,,
 d744178d-636d-406b-82e4-f924af3ff6f4,illegal.uk,resell,80,16,7,Dot UK Group Limited t/a BRANDABLE DOT UK,03/10/2021 20:15,03/10/2026 20:15
@@ -2101,6 +2158,7 @@ f0f392b9-aa22-4285-8dc6-290a09583b85,ilxxx.uk,available,48,1,5,,,
 921706d9-47f0-4105-8345-361748c29a20,impromptu.uk,resell,82,16,9,UK Internet Services Ltd,27/12/2019 21:38,27/12/2025 21:38
 bb7e7001-137d-4a49-81d5-68165d6f3dbb,improvize.uk,available,72,1,9,,,
 5dd47547-f85c-43bc-9640-1357baf3a77e,imputable.uk,available,52,1,9,,,
+e7e06bb2-60ce-4372-92cf-7dc03f5fdbbd,Imustsay.uk,available,62,1,10,,,
 bc02528f-501b-49db-8519-d2f7f92a5f9b,inadvance.uk,available,36,3,10,,,
 3ae3ba4a-41ec-42f2-a51a-562c22d38687,inarrears.uk,available,36,2,10,,,
 b03f9c94-e2b7-4d0a-a491-999e61e1bb67,inaway.uk,available,56,1,8,,,
@@ -2111,11 +2169,12 @@ b03f9c94-e2b7-4d0a-a491-999e61e1bb67,inaway.uk,available,56,1,8,,,
 955f211c-bf0e-4d2c-acb9-9f9c4b7b7343,incompanywith.uk,available,56,1,15,,,
 efb657e2-a537-4eca-87e7-0008f3927329,incompletesentence.uk,available,64,1,19,,,
 fd5afe84-ae96-481c-9838-823699a96f93,inconsistent.uk,available,54,2,12,,,
+0dca5ade-39c2-4c46-9ee4-3b74bfe4a081,indate.uk,available,,3,7,,,
 61669ff8-c1db-4ec0-bd17-9fad27422343,indecent.uk,resell,56,4,8,"Namecheap, Inc.",05/02/2025 07:34,05/02/2026 07:34
 179dd5c9-ffa9-4882-a577-0feae0c5ed29,indefinite.uk,available,82,4,10,,,
 f612db66-cf8c-4e15-8602-f2138fd0247a,indentured.uk,available,61,3,10,,,
 08b4f349-e8a5-4556-b186-f580d935dea2,indespiteof.uk,available,45,1,13,,,
-a935fb4f-2cc7-4062-a230-39c5d8f92852,indian.uk,resell,86,25,6,Cloud Next Ltd,17/01/2020 06:59,17/01/2027 06:59
+a935fb4f-2cc7-4062-a230-39c5d8f92852,indian.uk,resell,86,24,6,Cloud Next Ltd,17/01/2020 06:59,17/01/2027 06:59
 f2bc5a5d-7f91-476e-9fb4-ad8d56396e78,indisposed.uk,available,56,1,10,,,
 319c1f6b-8246-4ec5-bcd2-ec82271331b2,indoaryan.uk,available,60,3,10,,,
 eb90bba4-95ee-4c4d-9534-4452f1812440,indorse.uk,available,58,3,7,,,
@@ -2158,12 +2217,14 @@ dd8e1b40-27c7-4171-b6fc-f3c91ad4fd72,intended.uk,available,84,3,8,,,
 dd4c2689-bc35-47d0-ba65-39ad8be62e02,intercultural.uk,available,72,6,13,,,
 d7f5670b-a45e-40f6-8acd-ebc01ffcea46,interested.uk,resell,75,11,10,Backorder Ltd,03/07/2019 13:02,03/07/2026 13:02
 d6da0513-a223-4553-9f3a-5eb6e51ecdaa,Internetlike.uk,available,66,1,12,,,
+eb87cc3a-23a6-4f45-a97c-debfd57003ec,interpersonal.uk,available,70,5,13,,,
 4e3604c1-a543-411d-957b-fe8ae7432b62,intervening.uk,available,60,1,11,,,
 2434c4cb-4382-47ee-ad37-ae8fb2eb25e6,interviewee.uk,available,64,2,11,,,
 b0cc8893-024f-4765-9f41-356990eccf97,inthat.uk,available,60,1,7,,,
 0ed0950d-b802-4988-9a48-6d6b330c30ca,inthecan.uk,available,46,2,10,,,
 f7bfeed7-6b4d-4c50-a54c-d0012b86d528,intheend.uk,available,63,2,10,,,
 43ecbdcb-f379-4503-bb79-a9bdba1ef24c,intheflesh.uk,available,70,2,12,,,
+eb24667f-a1ee-4d07-b9a1-4db42ddaf4f5,inthehell.uk,available,50,1,11,,,
 0df783f5-da5c-4d0a-9296-dbd745ce03cf,inthelightof.uk,available,56,1,15,,,
 7bb7257e-bd9f-4775-bbfd-5293bde61178,intheraw.uk,available,40,2,10,,,
 d0e3f63f-c934-407e-9d4f-003c4b637348,inthethickof.uk,available,54,1,15,,,
@@ -2172,10 +2233,13 @@ d0e3f63f-c934-407e-9d4f-003c4b637348,inthethickof.uk,available,54,1,15,,,
 6097feed-0a12-438f-83c4-163421c24ab3,intriguing.uk,available,90,2,10,,,
 0d9df440-0c58-4b50-be13-62dd9683b335,introduce.uk,resell,82,5,9,Enterfirst Ltd,03/07/2019 13:01,03/07/2026 13:01
 2aec7c9c-65af-42b3-95c3-cc54e76d3d37,inturn.uk,available,90,3,7,,,
+e032f9ab-a68d-441b-85ca-605ba981123d,intwominds.uk,available,62,1,12,,,
+36284bb5-3744-465d-b085-c84df72e42d1,intwoshakes.uk,available,46,1,13,,,
 59fe9e93-7897-4652-a680-974f10a999f0,inundated.uk,resell,54,2,9,ANY-Web Limited,21/03/2019 17:54,21/03/2026 17:54
 7b90f6e8-4f18-4be1-a5d5-022afdaa84a6,invariably.uk,available,62,1,10,,,
 b5177803-2cc1-49f2-a477-cc339c8728ce,inviting.uk,resell,88,4,8,Realtime Register BV,03/07/2019 13:03,03/07/2026 13:03
 15414201-554e-41bf-b5bf-20e07c993ae4,involved.uk,resell,71,5,8,Stenning Limited t/a Client Domain Management,22/03/2016 17:29,22/03/2026 17:29
+1bf43a4b-2d85-4d16-93e0-edbf05c95b81,Irishhospitality.uk,available,82,1,17,,,
 6c24698d-da22-47d9-a16c-5e1552bbbda7,irons.uk,resell,62,5,5,Sirius Telecom Ltd,31/10/2017 20:23,31/10/2026 20:23
 26efe687-ff9a-49aa-aedf-bb54c20013e6,irrational.uk,available,78,7,10,,,
 6416d9d6-3d67-44f3-9c99-39fdc5567d56,irregular.uk,available,78,8,9,,,
@@ -2184,6 +2248,7 @@ b5177803-2cc1-49f2-a477-cc339c8728ce,inviting.uk,resell,88,4,8,Realtime Register
 fac437b1-d315-456f-8376-21b5f7bfed9e,irritated.uk,available,36,2,9,,,
 1de50899-185d-4bc2-938a-1c916be4aee5,irritating.uk,available,36,2,10,,,
 1fed299e-9bd9-4b7a-a8ee-4ec2978fbee4,irritation.uk,available,56,2,10,,,
+ceb41216-6ce5-4f79-b61d-04d2b2a1668e,IsaidwhatIsaid.uk,available,54,2,18,,,
 46d77686-930e-4059-aca8-489f7504b97c,island.uk,resell,72,28,6,Mr Ryan Humenick,25/06/2019 00:51,25/06/2027 00:51
 dc422edd-093a-4875-9419-a76de14fb252,isolated.uk,available,56,6,8,,,
 b4226282-4284-49e9-8d36-2946a0c96d99,issuedate.uk,available,70,1,10,,,
@@ -2202,12 +2267,17 @@ cd71e777-859e-4957-8b21-c7ce6594d9b8,jetpack.uk,resell,96,21,8,Tool Domains EOOD
 62e4a782-0fc5-4816-ace6-3880240c5f53,jointly.uk,resell,66,4,7,ANY-Web Limited,21/03/2019 17:57,21/03/2027 17:57
 cd0b65db-3f42-4468-89e3-6a8ce944aa87,journey.uk,resell,72,33,7,Catch22 Media Limited,08/12/2016 13:16,08/12/2026 13:16
 9bb6096d-30ae-4054-b658-47e958f936dd,just.uk,resell,150,43,4,"GoDaddy.com, LLC.",03/07/2019 13:00,03/07/2027 13:00
-a15c657f-4117-4da4-9447-b5296cc9a51a,justabout.uk,available,58,10,10,,,
+a15c657f-4117-4da4-9447-b5296cc9a51a,justabout.uk,available,58,2,10,,,
+f651e33b-be4c-4797-846a-d6a2063816a4,JusticeofthePeace.uk,available,66,2,20,,,
+00d4a871-3368-4e03-b852-a7483b79d1b4,justsaying.uk,available,53,6,11,,,
 51a7dbb7-ef42-4316-b743-fbffb5ca350c,kangeroo.uk,available,76,2,8,,,
 68faa00a-20a6-4cde-a924-19b2da6ad8b0,kansas.uk,resell,66,11,6,"Namecheap, Inc.",03/10/2020 15:57,03/10/2026 15:57
 4ed3b7f3-392f-47f2-a622-39841eaa189f,keep.uk,resell,76,26,4,Backorder Ltd,03/07/2019 13:00,03/07/2026 13:00
+49923735-b823-48c3-bc7b-d4b98f4bdf56,keepcompany.uk,available,78,2,12,,,
 a5ab64b4-7fa4-4421-adb0-7d6f3595e996,keepon.uk,available,76,11,7,,,
 682968af-f6e8-4c1a-8479-5069ef752562,keepopen.uk,available,72,2,9,,,
+dc411eea-00f1-4905-8627-4f277c304a01,keepsomeonecompany.uk,available,76,1,20,,,
+43253ef5-a020-48af-8bf2-ce7da7c79150,keepthepeace.uk,available,72,2,14,,,
 1eb369ae-fe64-470b-9a19-c01514bad5f3,keister.uk,available,34,2,7,,,
 0ae10c69-b11d-48d0-95da-ed88eb6d1858,khakis.uk,available,74,2,6,,,
 17dc807a-cd87-401f-9dff-5d8356672178,kick.uk,resell,98,24,4,"Dynadot, LLC t/a Dynadot",06/12/2021 05:11,06/12/2026 05:11
@@ -2243,20 +2313,41 @@ f5c1c18d-acc3-4752-b18c-c15d7fece81d,lawn.uk,resell,64,18,4,"Dynadot, LLC t/a Dy
 814d79e3-23ca-47bc-96ad-ed94cab270d2,learned.uk,resell,71,6,7,Mr Chris Vaughan,03/07/2019 13:00,03/07/2027 13:00
 c0a17d24-76b0-428a-b478-3d0d4e3c149c,learning.uk,resell,76,32,8,Fasthosts Internet Ltd,20/04/2015 14:47,20/04/2026 14:47
 eb0b316d-50a8-469f-a0ca-f73ace5ce884,leaveout.uk,available,66,1,9,,,
+e87bc16b-b5f5-4276-8432-5e9b6915af2b,leavethedooropen.uk,available,80,1,19,,,
 5759e955-b799-4d6d-934a-c97b24585c2a,lecture.uk,resell,96,7,7,Fasthosts Internet Ltd,03/10/2020 01:28,03/10/2026 01:28
 b7a7c738-19f0-41c3-a70b-dba767e39a40,legalheir.uk,available,67,2,10,,,
 bad4add8-ba0b-48fa-96ab-5df38e107b44,lenitive.uk,available,84,1,8,,,
 0e0bc844-37d2-493f-a15e-1207ddfb6eeb,lens.uk,resell,62,21,4,"Dynadot, LLC t/a Dynadot",03/07/2019 13:00,03/07/2026 13:00
 7f64a668-42cd-4ced-9e1f-cfba87b680c0,let.uk,resell,106,18,3,Mr Ryan Humenick,25/06/2019 00:57,25/06/2027 00:57
 367991d8-453e-4662-8322-6427a2694468,letalone.uk,available,52,1,9,,,
+eb6f6c63-cc81-4823-9a5a-cf242bbf9182,letout.uk,resell,77,2,7,Sajid Mahmood t/a saj,12/04/2019 16:22,12/04/2026 16:22
+6cb8098d-c936-41ae-9381-7e03e4dc882e,letterart.uk,available,70,2,10,,,
+d20eda07-dff5-4208-9f13-558820eab9cf,letterofguarantee.uk,available,54,1,19,,,
+dc84fd2e-3de0-40a3-bf52-69367ff27de1,letterofindemnity.uk,available,50,1,19,,,
+595731d7-9a24-4d02-b08e-dd24b016855c,letterofintent.uk,available,74,2,16,,,
+16764cbe-95bb-4400-95db-1a263c71a3a8,letterofmotivation.uk,available,61,1,20,,,
+c7b5725e-4410-4202-ba24-b78a06652d28,letterofrecall.uk,available,67,1,16,,,
+65091137-ff31-4851-83b1-086601d693d7,letterofreference.uk,available,79,1,19,,,
+4f17e12b-57b6-4e98-9cc4-1c4319350e58,letterofthelaw.uk,available,69,2,17,,,
+1f329ffd-9841-4a9a-99a0-09c18ccfdf70,letterpaper.uk,available,54,1,12,,,
+62c3d0a5-a7ac-43c7-8667-47a674e5e7a8,letterpatent.uk,available,65,1,13,,,
+3f6115d4-7797-4d48-b4d2-a1b25c8c707b,letterperfect.uk,available,72,2,14,,,
+b4224f8d-3a0c-423d-964b-7d0245e9e8b6,letterruling.uk,available,49,1,13,,,
+673cd7de-50b2-4277-86a7-beceea2cf7cc,lettersize.uk,available,51,1,11,,,
+80dd4598-8d35-49d3-bf87-b2c791005a00,letterspacing.uk,available,67,1,14,,,
+b18d54f5-ff10-419b-95ee-7865ec04867d,letterspatent.uk,available,65,1,14,,,
+81273659-8261-4b0e-b9ed-9831ff8ac89b,letterspatents.uk,available,65,1,15,,,
+2b7a7b42-3457-4ec5-990b-2077b9419c67,lettertelegram.uk,available,49,1,15,,,
+be870d80-6053-4cab-b336-50afdab0d0fb,lettertotheeditor.uk,available,73,1,20,,,
 f7052acf-02a6-4973-b5f2-c9ca74f03c87,letthecatout.uk,available,71,1,15,,,
 89774b0c-97c7-456f-a2fc-2158566a3bfa,LGBTQ.uk,resell,86,20,5,"GoDaddy.com, LLC.",03/07/2019 13:00,03/07/2026 13:00
 88f4385c-fae3-4fb5-956c-49cf7de6425f,licenced.uk,resell,68,2,8,Private Equity Systems Ltd t/a British Hosting,15/02/2018 10:32,15/02/2027 10:32
 49646c5f-db73-4a55-97e2-b2ef289c557f,lifeprotip.uk,available,78,1,12,,,
 c85e89af-e29e-41ec-af42-3f2902c8e9d9,liii.uk,available,56,4,4,,,
 7e4edc08-c101-47da-8257-60474ad90ff5,liked.uk,resell,76,5,5,Richard Gray t/a Gray,10/06/2014 10:16,10/06/2026 10:16
+b96f930f-787f-4cec-80a8-d1184ed079a8,likehell.uk,available,40,1,9,,,
 c5399d6d-da27-4788-a048-a4a39ac14047,limestone.uk,resell,64,11,9,Janice Lyn M Stuka,27/11/2020 07:58,27/11/2026 07:58
-88c6cf33-2492-4c9b-988b-4a7cdb5b51c8,limiting.uk,available,65,2,8,,,
+88c6cf33-2492-4c9b-988b-4a7cdb5b51c8,limiting.uk,available,65,1,8,,,
 33a98688-fb9a-4433-a7f9-25da1eb0a0ff,links.uk,resell,70,33,5,Mr Ryan Humenick,25/06/2019 01:00,25/06/2027 01:00
 7f6b0d2d-d05f-4607-8759-9dbb9bd926ca,listenin.uk,available,68,4,9,,,
 0d86e76d-769a-49a0-8db4-cdc1a639f728,literal.uk,resell,82,9,7,ANY-Web Limited,11/07/2018 08:50,11/07/2026 08:50
@@ -2288,6 +2379,8 @@ d9ed754e-d472-4386-b750-78037ccd86c4,lovesome.uk,available,68,3,8,,,
 c69bb5c5-b09c-410b-a62c-cafaa90f45e8,lowlying.uk,available,56,1,9,,,
 6ff53eed-c509-4f0b-9eb7-566dc01584fd,lowrise.uk,available,84,2,8,,,
 2ba7fe35-e77b-4f89-9409-5fc00cfa94e6,luckout.uk,available,78,1,8,,,
+d436392c-2c4c-4880-a554-f8b5b34c20bf,luncheonmeat.uk,available,74,1,13,,,
+bf56f533-a2be-4f09-8f46-7a46defbe61a,lunchmeat.uk,available,74,2,10,,,
 e45ff2aa-968f-4f97-9088-6276a45edbcd,lvii.uk,available,56,2,4,,,
 e2488d21-b1a4-410f-9e17-f0606cbcf393,lviii.uk,available,56,1,5,,,
 55ca3f9d-80e4-47d0-b314-e1b974902bf3,lxii.uk,available,52,2,4,,,
@@ -2328,14 +2421,19 @@ a292a83f-f7d6-4169-89e9-5bc02d07fb87,magiccarpet.uk,resell,80,4,12,ANY-Web Limit
 3e7455f6-babe-4853-b59f-676cbf4d4544,mahfugga.uk,available,62,1,8,,,
 a4c8d0af-3225-43d2-a6ac-dbf9d366cfa0,Maidens.uk,resell,80,3,7,ANY-Web Limited,20/10/2014 12:00,20/10/2027 12:00
 2747a03e-cf7a-4657-8145-2e40061477c7,makefreeof.uk,available,72,1,12,,,
+01fb1f57-89f1-453d-bb81-724b2d14f6a2,makehaste.uk,available,74,1,10,,,
+c4e2d78a-fc56-44a2-94c0-4dc63b5679e6,makelove.uk,resell,84,9,9,Mr Joern Schillmann t/a schillmann.com,03/07/2019 13:04,03/07/2026 13:04
+90ecd9cc-d7f6-4faa-a471-d42f6031fa21,makethemostof.uk,available,76,1,16,,,
 8f562109-cc1c-43e9-bc75-512d37667842,malealpha.uk,available,68,1,10,,,
 f311f5d7-832e-4e62-8838-10e1a136b3d4,maledict.uk,available,56,2,8,,,
 44a7a308-1426-4b75-bb6e-8f2ea5355f15,mandatory.uk,available,84,5,9,,,
 51098c78-a10d-44eb-9239-80f7f0cadeeb,manila.uk,available,92,9,6,,,
+082cc274-72f4-45c6-a17a-6fc519b1ec82,manualwork.uk,available,64,1,11,,,
 d628729d-cbdf-40d7-b332-b03822f455ee,manya.uk,available,54,5,6,,,
 90d84f37-10b8-48bc-babe-b696028dcdc0,manythanks.uk,available,84,3,11,,,
 485688cf-35cb-4580-9f3e-77875cb5beff,mao.uk,resell,58,19,3,Andrew Bell,11/06/2019 13:12,11/06/2026 13:12
 3c211683-2f91-414b-84dd-d3eb3825aaf6,marchon.uk,available,68,6,8,,,
+525d3963-5b16-4f47-b7b4-97f4f415c70a,marginal.uk,resell,74,7,8,UK Internet Services Ltd,11/09/2020 20:57,11/09/2026 20:57
 52a9145f-15d7-4734-a9c8-cdcbf7e0b715,marines.uk,resell,82,8,7,Stenning Limited t/a Client Domain Management,14/03/2019 09:39,14/03/2026 09:39
 14279d0e-1cfd-4e5f-a30c-fdbaa42c52df,marktwain.uk,available,82,4,10,,,
 258fca94-3744-4a60-abb4-de6664021abe,marooned.uk,available,50,2,8,,,
@@ -2395,6 +2493,7 @@ bcce6ab1-a25f-4f74-a47a-e74ecbb2f261,mods.uk,resell,74,19,4,Andrew Bell,10/01/20
 2630a430-e55f-4559-918f-11f8ecc22c93,mojo.uk,resell,80,41,4,Hosting Concepts B.V.,03/07/2019 13:00,03/07/2026 13:00
 6a23de08-fa82-49f6-86ff-6776a1a8bf64,moldy.uk,available,52,9,5,,,
 6ae9d366-537d-4cc2-aede-9e8a740f555a,moneyed.uk,available,70,5,7,,,
+e8cf4c19-db69-4287-960b-5d45491e586f,moneymarketfund.uk,available,72,2,17,,,
 9739761e-a1d0-47fb-aafb-41075def04bd,moneysupply.uk,available,72,2,12,,,
 feddd235-b739-4a56-9948-1062e496dca3,monitory.uk,available,54,4,8,,,
 ddecc245-a379-42c5-b83a-a1eaab9b79a0,month.uk,resell,74,8,5,Lively Ltd,29/10/2017 21:08,29/10/2027 20:08
@@ -2423,6 +2522,7 @@ be6a22ab-09f5-480d-929a-948a254ffc8f,moveback.uk,available,70,1,9,,,
 8a0ed258-2c64-413b-8285-3697e09f2d87,moveinto.uk,available,75,1,9,,,
 2a3ea08b-fc29-4683-a676-6d8da20fff8c,moveover.uk,available,68,2,9,,,
 3fe897a4-162a-4843-88dd-fe8b2d5d2c84,moviefilm.uk,available,70,2,10,,,
+8b760974-9d02-4462-a44a-5e20d7e3a147,movies.uk,resell,,24,6,ANS Group Ltd,03/07/2019 13:00,03/07/2027 13:00
 e75ae359-dae5-42dc-88e8-a0f05e1d60e7,moving.uk,resell,90,23,6,Charles Scott t/a Domain Holdings UK,28/02/2019 11:58,28/02/2026 11:58
 4d2dd36a-2aac-492a-8215-242d1dd38392,msg.uk,resell,92,33,3,Catch22 Media Limited,03/07/2019 13:00,03/07/2026 13:00
 0b64a99e-0cd0-4c84-b90a-ad821e560ba6,muchas.uk,available,58,1,7,,,
@@ -2441,6 +2541,7 @@ abef6f16-5884-4ce7-98ff-aef396bf5539,musiccentre.uk,available,72,1,12,,,
 52b9c890-16aa-4bb8-8d1c-3dd75ebc723c,nailclipper.uk,available,68,1,12,,,
 6b32fda9-eb37-481a-ad32-dba6a8f48723,namenames.uk,available,,1,10,,,
 db89a8e2-2aea-4892-a7cb-0b1e426a0457,naming.uk,resell,92,10,6,"Dynadot, LLC t/a Dynadot",24/06/2020 21:35,24/06/2026 21:35
+b2717b5a-c633-4952-8550-a2e88cc76cb5,NASAsupported.uk,available,,1,14,,,
 132aa739-4380-437e-8d44-f0724255b0ef,nassau.uk,resell,84,8,6,John Thurlbeck,11/09/2021 20:20,11/09/2026 20:20
 a1058a0a-72fa-4be7-b118-82b3f0f086ce,nates.uk,available,42,9,5,,,
 251d7747-29d1-404a-a66e-221e81d32f83,nationalanthem.uk,available,82,2,15,,,
@@ -2485,6 +2586,10 @@ b8c33035-a356-4cd9-a19c-ac505b31a693,notatall.uk,available,74,2,10,,,
 87766399-dd95-42d2-8835-c1fc67227d76,notfor.uk,available,45,5,7,,,
 c3b2766b-ce82-4625-8740-e0e1380708f7,notwithstanding.uk,available,60,2,15,,,
 b15c6edb-ac58-4197-b68f-a78da1a4fa1d,november.uk,resell,72,13,8,Trifega Ltd,04/07/2019 13:00,04/07/2026 13:00
+62f201e8-c49a-4bd8-b430-6e2c58e4ac61,nowandagain.uk,available,,2,13,,,
+de467475-bcaa-415c-9926-5082f5b629d8,nowfor.uk,available,,2,7,,,
+0c509ae0-6c1a-4409-8300-8d79e513a818,nowornever.uk,resell,,10,12,UK Internet Services Ltd,30/01/2021 16:44,30/01/2026 16:44
+25fee95b-f088-4073-a111-d6ac9a29153a,nowthat.uk,available,,1,8,,,
 a064e575-d9f7-482b-b56a-de4668926afa,nude.uk,resell,86,21,4,"GoDaddy.com, LLC.",04/07/2019 13:00,04/07/2026 13:00
 a7555ab3-ef5c-46e1-95b9-013d486198a7,numb.uk,resell,74,5,4,Astutium Ltd,04/07/2019 13:00,04/07/2026 13:00
 ad6d24bc-d174-4910-8fa4-ec84028a05d7,nun.uk,resell,64,9,3,"GoDaddy.com, LLC.",04/07/2019 13:00,04/07/2026 13:00
@@ -2551,7 +2656,7 @@ ad3ca77d-d90f-40f0-9620-09bba7fa9151,operose.uk,available,54,3,7,,,
 4521fe10-49af-4e0e-b444-7111cd2e4e16,opportunityclass.uk,available,76,1,17,,,
 188a9b8f-a502-42b4-ad5d-e33ec5624089,opportunityroom.uk,available,74,1,16,,,
 b5c6fb0e-0306-4517-b1f1-c30645f8e808,oppositive.uk,available,74,1,10,,,
-6613859a-3733-4a48-a8a2-3ff711affcd9,option.uk,resell,104,16,6,Really Useful Domains Limited t/a Really Useful Domains,04/07/2019 13:00,04/07/2026 13:00
+6613859a-3733-4a48-a8a2-3ff711affcd9,option.uk,resell,104,15,6,Really Useful Domains Limited t/a Really Useful Domains,04/07/2019 13:00,04/07/2026 13:00
 5a2851a7-f9c4-4b2e-bc88-03212c05dfcc,optionally.uk,available,61,1,10,,,
 9cf6baed-02be-419a-b7c1-6ca879e48aa1,orangejuice.uk,resell,,7,12,Enterfirst Ltd,24/02/2015 00:57,24/02/2026 00:57
 102f4a53-511e-4336-b1be-80ebdc16df0e,orangenotice.uk,available,64,1,13,,,
@@ -2559,6 +2664,7 @@ b5c6fb0e-0306-4517-b1f1-c30645f8e808,oppositive.uk,available,74,1,10,,,
 5abe0d73-e963-49c0-90e6-2e3f0b8f0865,ordinarily.uk,resell,62,1,10,ANY-Web Limited,08/01/2017 22:01,08/01/2026 22:01
 07868a24-59d3-4b98-945f-89b15247b23f,oregon.uk,resell,64,18,6,InterNetx GmbH,04/07/2019 13:00,04/07/2026 13:00
 818b2734-f81f-4942-9308-02ad7d89971f,organic.uk,resell,93,25,7,Alan Drury,01/10/2015 21:53,01/10/2026 21:53
+74cf451d-7f6a-416f-ae01-ef42d9e752ca,organizations.uk,resell,,6,13,"Namecheap, Inc.",12/10/2020 13:43,12/10/2026 13:43
 c38f0ae0-eada-407d-9edb-4751e922b47f,orgiastic.uk,available,40,1,9,,,
 4dc6334d-597f-418b-ac3a-f77fa6fbb517,otherthan.uk,available,56,1,10,,,
 7309e053-e059-4791-af74-d627ac5a37b8,otic.uk,available,58,4,4,,,
@@ -2567,6 +2673,7 @@ c38f0ae0-eada-407d-9edb-4751e922b47f,orgiastic.uk,available,40,1,9,,,
 eeae0ed2-0616-4e62-a292-1fe3ca7067b9,outdated.uk,available,58,6,8,,,
 8645f7a8-dd51-4413-bdd0-d87c151c71b4,outdoor.uk,resell,98,31,7,Garner Media Ltd,07/05/2015 22:25,07/05/2026 22:25
 d22eeb98-62bc-469b-9df2-a6b3726ba7b2,outlet.uk,resell,70,16,6,ANY-Web Limited,09/12/2019 10:09,09/12/2026 10:09
+8f884112-ed78-463f-a247-4f3fbd01f6a3,outofdate.uk,available,,1,11,,,
 42add694-b156-45cb-9b72-a200970a3c53,outsideof.uk,available,48,1,10,,,
 26baafe4-8d8a-443c-a47b-9d512e428000,oval.uk,resell,60,18,4,Sirius Telecom Ltd,05/09/2020 12:23,05/09/2026 12:23
 21b94d7d-fddc-4c30-84fe-4bce7f091980,overhang.uk,available,70,4,8,,,
@@ -2608,6 +2715,7 @@ d52e43bd-cca2-4c94-919b-82ca69245538,pattycase.uk,available,64,1,10,,,
 9b361683-ef8e-4bc1-bc39-8991101932dd,paul.uk,resell,70,39,4,Cloud Next Ltd,18/01/2020 06:25,18/01/2027 06:25
 8fbc94d9-49da-4b78-a701-53a748e93f3f,pauliii.uk,available,64,1,8,,,
 3a570720-fb87-4e1a-b878-b11ce8b300d7,paunchy.uk,available,60,1,7,,,
+f4d2fce3-6155-4d5f-83ff-ffc612789eac,PeaceCorps.uk,available,,2,11,,,
 18bbeb4e-0d13-4047-a204-97046ee993d5,peacock.uk,resell,66,21,7,Domain Farm Limited,25/09/2020 15:17,25/09/2027 15:17
 fd65a1da-d0c1-4a0b-8c73-9f7ec763b067,peaking.uk,available,88,3,7,,,
 654b8ddf-38f8-4463-a2c7-a6fa6551a990,peeled.uk,available,54,3,6,,,
@@ -2622,6 +2730,7 @@ c6ead9b3-3b94-4c69-9d7b-10929b71cd17,perfected.uk,resell,70,4,9,Really Useful Do
 22b9af04-b57a-4edf-982a-eb5fba723b23,performing.uk,resell,66,6,10,Mr C Davies t/a parth.cymru,05/11/2021 12:00,05/11/2025 12:00
 be3eccea-9e33-4efe-b3a1-6f6bd0cfe44a,perhaps.uk,resell,84,7,7,Anthony Appleby,04/10/2020 03:53,04/10/2026 03:53
 4b7fa7f8-a6c6-4bcd-b793-f089718937ff,pernicious.uk,available,42,2,10,,,
+5a802972-0f8f-4b4a-9a3b-3416ae6bc9b3,perspective.uk,resell,88,25,11,Richard Kandler t/a Nameplace,29/12/2019 17:35,29/12/2026 17:35
 9d46571a-5e4d-4556-8c23-eed5c3b9d30e,pestering.uk,available,41,1,9,,,
 946f6c5b-7eb8-4751-acb1-ec9ad64625ae,pestilent.uk,available,38,2,9,,,
 c7b16c7f-0a6a-4b5a-a243-4c7efde300da,petalless.uk,available,37,1,9,,,
@@ -2637,6 +2746,7 @@ d5af6351-a637-43c5-a744-f2ef34a89e17,phoebe.uk,resell,41,14,6,Tool Domains EOOD 
 31f0fb68-2e20-406b-8440-742df47b1d25,photoartist.uk,available,72,2,12,,,
 f81034d4-50d2-4d22-a875-14160e0c0425,photographicmemory.uk,available,70,3,19,,,
 bbd94414-e426-444d-be55-aaa169378320,phrase.uk,resell,94,8,6,Sirius Telecom Ltd,30/10/2017 09:32,30/10/2026 09:32
+1b9be99f-8cc5-42d9-8165-069a82f2a122,phrases.uk,resell,,5,7,ANY-Web Limited,19/09/2023 12:13,19/09/2026 12:13
 de282ba2-43a4-4547-8540-c0b565f98af4,pickuptruck.uk,available,58,3,13,,,
 603b8264-e6e9-4073-9774-956088e0d58f,picture.uk,resell,100,20,7,Charles Scott t/a Domain Holdings UK,28/02/2019 11:58,28/02/2026 11:58
 ede8a25b-067d-44cf-b30d-62a4fd6d67fe,pig.uk,resell,70,20,3,Garner Media Ltd,04/07/2019 13:00,04/07/2026 13:00
@@ -2660,6 +2770,7 @@ b6da6276-e3f3-4ab4-9205-881b31c33d21,planning.uk,resell,70,22,8,"Dynadot, LLC t/
 560a4435-cb2b-4b5a-bc02-1d70cdc27618,plastic.uk,resell,86,22,7,Charles Scott t/a Domain Holdings UK,28/02/2019 11:58,28/02/2026 11:58
 1138a640-3a70-4244-bf77-74747e219c58,plausive.uk,available,46,1,8,,,
 3913e90f-5060-400b-9913-de867a3ab109,playacting.uk,available,62,1,10,,,
+d4cd4d41-d4f9-496a-b154-550403ddfed3,playdate.uk,resell,,14,9,Fidel Tech Ltd,13/09/2020 04:38,13/09/2026 04:38
 6e2e1f5d-1849-438c-9a40-5ff74a284bdc,playfield.uk,available,76,6,9,,,
 b4591da8-bee8-48bb-b407-b2b1cf901dc2,pleaseexplain.uk,available,72,2,14,,,
 8fde34c6-4dcb-4ad1-9ca7-41587b200acc,plier.uk,available,70,3,5,,,
@@ -2667,6 +2778,8 @@ b4591da8-bee8-48bb-b407-b2b1cf901dc2,pleaseexplain.uk,available,72,2,14,,,
 1460ee25-6b45-4ea9-b45b-2ef7dc327a2c,plumpfor.uk,available,54,1,9,,,
 0140463e-5b61-4e31-8af8-d05ce4a7b1fb,plunkfor.uk,available,54,1,9,,,
 5b1886c8-2a71-4d52-9df2-89e51dcd56b5,poignant.uk,available,68,3,8,,,
+af25db25-2e37-4866-b9da-b70112387f29,pointat.uk,available,,2,8,,,
+feb234fa-82ec-4c09-b4dd-f037a919715c,pointout.uk,available,,3,9,,,
 f0a2e4a1-199a-4e04-a129-c42c353913c7,Points.uk,resell,64,22,6,Tool Domains EOOD t/a Edoms.com,10/09/2020 16:14,10/09/2026 16:14
 0fdaf20d-1c44-453d-af4f-f9bbaf74bad9,pointy.uk,resell,84,7,6,ANY-Web Limited,11/07/2019 13:28,11/07/2026 13:28
 8258301a-ed16-4d55-9904-cac2a98217b5,poisoning.uk,available,56,1,9,,,
@@ -2680,6 +2793,8 @@ ec21c6f6-314a-498f-85c7-e511ef3f0425,poorly.uk,available,66,2,6,,,
 b77e5c4f-185a-4aef-9209-f0287d22ea9d,popcornmovie.uk,available,81,1,13,,,
 c5cd70bb-ad22-4b2f-a88d-b4e8b71d8598,popquiz.uk,available,,3,8,,,
 90b38f53-96ce-4637-b5f2-4d41d7a9d38e,porticoed.uk,available,42,1,9,,,
+ae2edd1f-4e2c-4ebe-bf83-1a6563dccd80,portofcall.uk,available,,2,12,,,
+9710952d-d47f-4657-a04e-9da79f7f4f9f,portofentry.uk,available,,1,13,,,
 6b3f8591-8fe7-4f5c-bf13-12dde46603fe,positive.uk,resell,84,28,8,Stephen Hall,04/07/2019 13:00,04/07/2026 13:00
 4a2f9e65-6022-4a6f-a5cf-f621193ea117,possession.uk,resell,88,4,10,Falbros Ltd,16/09/2023 11:33,16/09/2026 11:33
 0eb693a6-f6c2-40d8-86f5-6b0f43ef782b,possibly.uk,available,62,5,8,,,
@@ -2793,8 +2908,10 @@ a2252018-51ce-4254-8106-22555117a538,quintuplet.uk,available,54,1,10,,,
 9326df10-4802-4b66-a3dd-398833c298ca,quivive.uk,available,62,3,8,,,
 b0090f25-ec84-44c8-99e8-f78511c73738,quizbowl.uk,available,,3,9,,,
 c526d173-36dd-4dc2-85ca-ad1c17b74a5d,radical.uk,resell,72,33,7,Stephen Betley,04/07/2019 13:00,04/07/2026 13:00
+bca33bcd-8fef-4a11-8977-52829c94e2db,raisehell.uk,available,,1,10,,,
 2ae71d32-c98c-4971-9b6f-3257e57c8408,rake.uk,resell,60,11,4,ANY-Web Limited,21/03/2019 18:54,21/03/2026 18:54
 1ce9770d-a364-496e-8f10-a641e02dbb7d,rapidantigentest.uk,available,70,1,18,,,
+7cba0ded-6c72-4d55-ab64-9e3196c61d5b,rapmusic.uk,resell,,4,9,ANY-Web Limited,21/03/2019 18:55,21/03/2026 18:55
 71b47053-1983-4dea-9faf-b83e8f30eeed,ratter.uk,available,37,2,6,,,
 91452e3d-606c-4c90-a6c4-6cd66194b19b,rattleabout.uk,available,,1,12,,,
 b3996eed-586e-4f7d-9a1e-dbdba50eec7b,raunchy.uk,resell,44,3,7,Realtime Register BV,31/12/2024 05:58,31/12/2025 05:58
@@ -2816,6 +2933,7 @@ a81049b4-8c8b-437b-a126-e4ee3867adb4,receptionchair.uk,available,68,1,15,,,
 2d52d03c-4a3e-4f4f-869c-19e9d5f46835,recognized.uk,available,78,3,10,,,
 dff67e69-5db5-4a6d-ab6b-3d7090db0115,recordcompany.uk,available,70,1,14,,,
 fa46a093-a5fc-47ba-bcfb-bc2ea2a56ad5,recording.uk,resell,72,12,9,Sirius Telecom Ltd,13/06/2019 11:33,13/06/2026 11:33
+abde874e-19fb-461f-9be0-cbca424ce4be,records.uk,resell,,16,7,Envo Group Ltd,04/07/2019 13:00,04/07/2026 13:00
 ff223f67-3add-4000-bfdf-1eaceff7d3fb,recoveredmemory.uk,available,70,1,16,,,
 78604951-8fec-4373-a2be-efb5df6e43fc,recreant.uk,available,56,1,8,,,
 df91e775-72d4-4993-b93b-d98a6385b0d8,recreationroom.uk,available,76,1,15,,,
@@ -2883,8 +3001,9 @@ ced67d85-6b39-4987-830f-c315c7dfba86,riveting.uk,available,90,6,8,,,
 b933d524-9d0c-42cc-92c4-c0d949a0c896,roads.uk,resell,80,12,5,123-Reg Limited t/a 123-reg,13/08/2018 13:19,13/08/2027 13:19
 7b6be6e9-e4ca-4c30-930f-abdef9cda0a8,roar.uk,resell,93,23,4,Stephen Betley,04/07/2019 13:00,04/07/2026 13:00
 aaadd83c-1c08-4e0b-9116-58c1cad8a851,robed.uk,available,52,3,5,,,
-749bdda8-f1fc-45b7-8e6c-fd7484ed23f2,robotic.uk,resell,72,22,7,Enterfirst Ltd,28/03/2019 13:45,28/03/2026 13:45
+749bdda8-f1fc-45b7-8e6c-fd7484ed23f2,robotic.uk,resell,72,20,7,Enterfirst Ltd,28/03/2019 13:45,28/03/2026 13:45
 743283b3-de55-4d00-8a56-f4f61474a090,robotlike.uk,available,52,1,9,,,
+d36efee3-afc3-4dd9-b0ca-e289d5830a2b,rockmusic.uk,resell,,7,10,Premkumar Veerabadran t/a sitekart,14/01/2024 12:46,14/01/2026 12:46
 184069a8-d63d-44fc-b3e7-8a34b038cffe,rockrecord.uk,available,72,1,11,,,
 b88d11c4-beea-4102-8a76-2de0a2810b39,rodshaped.uk,available,42,1,10,,,
 69bc05cd-7e83-4491-ac02-ce1baae2aac8,roiled.uk,available,44,2,6,,,
@@ -2971,7 +3090,7 @@ e5cdcf91-277d-4243-8593-31e47785d5ce,seeingthat.uk,available,54,1,11,,,
 bf1fd388-1dd7-4d90-a283-d00fc8d322cc,seeming.uk,available,86,2,7,,,
 b70be58e-f431-4048-8590-788d35703b75,seemly.uk,available,58,4,6,,,
 68fa733a-f5de-40d8-a9b1-8b702ec315bb,seize.uk,resell,69,7,5,Self Storage Hire Ltd t/a Provide Domain Name Services,04/06/2019 09:39,04/06/2027 09:39
-e6b97d90-468c-452e-a751-2b98187321f0,select.uk,resell,74,30,6,Cloud Next Ltd,13/01/2020 13:30,13/01/2027 13:30
+e6b97d90-468c-452e-a751-2b98187321f0,select.uk,resell,74,29,6,Cloud Next Ltd,13/01/2020 13:30,13/01/2027 13:30
 737e8ecf-cab7-4b7c-9efe-f7c66c111808,selfconfident.uk,available,68,1,14,,,
 271a3ea0-b49a-4944-9af8-2a4a8031a83a,selfworth.uk,resell,78,4,10,ANY-Web Limited,26/04/2023 16:51,26/04/2026 16:51
 14f1ec4c-26ca-4d55-b266-3243c90a2bc4,senescent.uk,available,52,3,9,,,
@@ -3050,6 +3169,7 @@ d7e74d07-04e2-4e5a-98de-6decbe310527,sincerely.uk,resell,66,9,9,Stenning Limited
 3fdb726e-b382-4f33-b690-aa40e2643fee,sisterinlaw.uk,available,,1,13,,,
 f73dbbbe-4d55-4bff-9f67-754d6aad1b2c,sitabout.uk,available,,1,9,,,
 1fae7a0b-5791-43ff-aea1-e824c5e3a788,situated.uk,available,58,2,8,,,
+01fd2f78-19b5-471b-bfc3-616a918880c2,sixfeetunder.uk,available,,3,14,,,
 2d78877f-3efa-421c-a91c-92ac67e5966a,sixteenth.uk,resell,62,1,9,Mr Andrew Bennett t/a Andrew Bennett,28/10/2020 22:33,28/10/2025 22:33
 6383bbd1-b64d-4af4-82d3-10c21832ddaf,sixtieth.uk,available,72,1,8,,,
 90310938-8a38-4608-a27d-2fa8570237c7,sixtyone.uk,available,58,5,9,,,
@@ -3147,6 +3267,7 @@ af79cf0e-9b60-47f5-972b-222031411e28,stigmatic.uk,available,64,1,9,,,
 59987b50-b737-4fb3-9f38-60741b09e809,stillborn.uk,available,70,2,9,,,
 9c00ccb1-24cd-4e98-b33e-5a2d1583f145,stockholm.uk,resell,90,13,9,Lively Ltd,30/10/2017 09:36,30/10/2026 09:36
 9840ceae-82a8-465b-8cba-d2c3e4407a56,stockmarket.uk,resell,76,28,12,"Namecheap, Inc. t/a Spaceship",07/10/2023 13:00,07/10/2026 13:00
+ec2f149a-69e2-4be4-983d-ee1eb24ef196,stockupon.uk,available,,1,11,,,
 f029b0be-c9bf-4dc2-981c-173cdc219243,stopped.uk,resell,66,2,7,Global Domains Limited t/a Global Domains Limited,19/03/2019 11:52,19/03/2027 11:52
 5024f284-67f1-414b-b1d6-a366eba25eff,stopping.uk,available,66,2,8,,,
 310cee15-e04e-4619-ab7e-538acfe90d82,stove.uk,resell,88,11,5,Really Useful Domains Limited t/a Really Useful Domains,20/03/2021 23:03,20/03/2027 23:03
@@ -3214,6 +3335,7 @@ d072dfef-21c4-4c5d-b74c-06b6123aee68,tailend.uk,available,38,3,8,,,
 464e72c1-50db-495d-9018-fcff9ccfa72a,talkedabout.uk,available,62,1,12,,,
 bce9db7a-6a26-4430-b578-9f50be2e030c,tap.uk,resell,78,32,3,"GoDaddy.com, LLC.",05/07/2019 13:00,05/07/2026 13:00
 c1195e23-11b0-458e-92d5-a3cce130c1c2,tardy.uk,available,40,4,5,,,
+0386d06f-9d93-4d36-9dbb-7e3fb5de20e9,tatafornow.uk,available,,1,13,,,
 b81ee7fe-a9dd-4d3c-b90d-eb7de60908b4,taxshift.uk,available,56,1,9,,,
 3db53592-4ba3-4041-aa16-5230a5248714,taxswap.uk,available,56,1,8,,,
 d53775d0-e002-4da2-b172-8742ec3e525c,teammate.uk,resell,76,10,8,Tool Domains EOOD t/a Edoms.com,17/01/2020 13:04,17/01/2026 13:04
@@ -3230,7 +3352,7 @@ cfa4c38c-f195-4184-977e-2bef6aa384e9,televisionchannel.uk,available,70,1,18,,,
 16514ace-936e-4c2c-ad8c-7aad2fcebf4e,televisionprogram.uk,available,70,1,18,,,
 70b9cb16-1b14-4c2a-9f2b-a3c31a49b958,telloff.uk,available,62,1,8,,,
 b1a007c4-f2af-4dc2-8940-76e2652bccc6,temperature.uk,resell,,10,11,"Namecheap, Inc.",05/07/2019 13:00,05/07/2026 13:00
-c246f6d6-1b33-4bcc-baad-f85a99d53618,ten.uk,resell,88,26,3,123-Reg Limited t/a 123-reg,06/04/2015 00:31,06/04/2029 00:31
+c246f6d6-1b33-4bcc-baad-f85a99d53618,ten.uk,resell,88,25,3,123-Reg Limited t/a 123-reg,06/04/2015 00:31,06/04/2029 00:31
 47394150-3013-4ea8-927c-ce7dee4fed2c,tentbed.uk,available,72,1,8,,,
 608d615b-ab22-45e5-8156-3bb3d6a1349c,tercet.uk,available,59,3,6,,,
 bb023297-590c-4bf4-be30-3d4e6a99a802,termination.uk,resell,,2,11,Realtime Register BV,05/07/2019 13:00,05/07/2026 13:00
@@ -3254,6 +3376,7 @@ d0bf1001-9ce2-43d6-aafa-cce22022ed59,thee.uk,resell,60,14,4,"GoDaddy.com, LLC.",
 b075fb0d-6045-45b1-a305-4cd6a9f84b3e,themorethemerrier.uk,available,64,1,20,,,
 35ad5021-8370-46b3-a4a9-6cb96a04128b,thenagain.uk,available,56,3,10,,,
 521e308e-85d5-4704-a37b-e9243939b843,theones.uk,available,,6,8,,,
+413fa32c-227a-4973-a335-f2e5c1dd41ce,therealityis.uk,available,,1,14,,,
 1d18b46d-11bd-4eec-9228-c90af1982c6f,theseones.uk,available,,1,10,,,
 1af2d8c1-25ab-4641-8175-eb4a1f02f80b,they.uk,resell,72,14,4,Sirius Telecom Ltd,30/10/2017 09:37,30/10/2026 09:37
 16a5845e-feb1-4594-aac2-968508f07327,theyre.uk,available,62,2,6,,,
@@ -3266,7 +3389,7 @@ f8ce1dee-a3f1-4cfd-bdf7-11a5675e5aae,thirty.uk,resell,66,7,6,Christopher Clark t
 d8c8ccdc-5102-4f73-8e71-96d04a8387bc,thisminute.uk,available,,2,11,,,
 bd0debab-89cc-4ac3-af4d-be8f45b46489,thong.uk,resell,64,8,5,Presence Group Ltd t/a Presence,08/10/2023 13:00,08/10/2026 13:00
 30c2208f-4653-42dd-851f-61c6b813b998,thoseones.uk,available,,1,10,,,
-5e34e253-d203-45e0-8087-bb69fc1d899a,thou.uk,available,60,6,4,,,
+5e34e253-d203-45e0-8087-bb69fc1d899a,thou.uk,available,60,5,4,,,
 7f86ea2b-5e75-44d0-ba80-2e7b1acb02b9,thousandth.uk,available,76,1,10,,,
 b24adfb4-f9b7-4bf8-b689-02119bc0da9b,thrashabout.uk,available,,1,12,,,
 3323e225-d286-44ee-a770-9b0f43465d72,threatening.uk,available,70,2,11,,,
@@ -3277,7 +3400,9 @@ f220cf5e-6968-4183-b2dc-dce17c972ff9,thumping.uk,available,78,1,8,,,
 32aa20a7-a46e-45f5-966f-fb1689a59ad2,tiein.uk,available,54,3,6,,,
 bdcd0c9f-8197-47a1-8d44-58a961cdbbfd,tierce.uk,available,52,3,6,,,
 0ab13266-c103-40dd-8e30-68c6381101a3,tieup.uk,available,,3,6,,,
+b006eb9f-05a0-4fa2-a8e3-b775c47873e7,tightenup.uk,available,,2,10,,,
 f91ffed3-3bed-46de-8751-8627e0704a98,tightfitting.uk,available,60,1,13,,,
+a03d6f0e-088f-4a45-b88e-3bd0d5940b44,tilldate.uk,available,,1,9,,,
 286f6278-ec83-44f5-8ccb-a85d9935e243,timeabout.uk,available,,1,10,,,
 99393e50-da04-4ec7-8cbf-0f66a2d0476c,timeworn.uk,available,38,2,8,,,
 0ef66510-42ea-49cb-850c-8ada9bd8a832,tip.uk,resell,88,29,3,Global Domains Limited t/a Global Domains Limited,19/03/2019 11:52,19/03/2027 11:52
@@ -3288,6 +3413,9 @@ bf5565c2-6b0f-4b1f-8c2c-d34ef9e2c739,toad.uk,resell,76,13,4,Centraserve Ltd,12/0
 9c8a7c47-0a6b-4935-9e8f-3aba88196b67,todate.uk,resell,60,2,7,20i Ltd,22/09/2017 07:46,22/09/2026 07:46
 271eba1e-fd8f-4877-bba0-446540a6beef,todowith.uk,available,54,1,10,,,
 60d5c4d5-ec22-459d-8161-c50bf21c0121,toeachhisown.uk,available,62,1,15,,,
+d41c9f28-bd78-4677-907c-07e3ac734e02,togetherwith.uk,available,,3,13,,,
+c5fd6bf9-fae3-4ce8-bb70-2099b3ab3169,tohell.uk,available,,2,7,,,
+afa9a312-8938-4f5c-aa76-4e10ab2c882a,tohellwith.uk,available,,1,12,,,
 fe245331-ae6e-499d-a678-6f4a99c590a8,toilsome.uk,available,50,1,8,,,
 91ab2f63-3193-4188-8d5f-a3d9b916f3a8,tolerable.uk,available,68,2,9,,,
 7262a9a0-b959-48ea-8117-d7d4983f99aa,tomhanks.uk,available,76,3,9,,,
@@ -3347,6 +3475,7 @@ fec3af9f-8ddb-42dc-a5c9-6e4e5f6b0c49,twodozen.uk,available,62,1,9,,,
 e8fd9f88-20be-4a66-a173-eef8d9ef55ce,twohanded.uk,available,64,2,10,,,
 62295d3c-b2c4-49db-b9b5-2172e7a4eee5,twoscore.uk,available,54,2,8,,,
 c26a032e-0321-490c-9108-d967ddc2a77e,twothousand.uk,available,,1,12,,,
+321f686c-f3d3-4d85-b53a-6615d04a1e28,twothumbsup.uk,available,,2,13,,,
 d3a18acb-183f-4b19-aa1a-1fa62c191851,twoyearsago.uk,available,,1,13,,,
 67afdbc4-8ed0-47ca-b0d0-a0f9d4f02ab0,tylenol.uk,resell,78,7,7,Key-Systems GmbH,04/11/2025 02:21,04/11/2026 02:21
 18281bc0-bb35-4657-b8d0-37c0c410d11b,tyrannic.uk,available,48,1,8,,,
@@ -3396,6 +3525,7 @@ c5c75fd6-4899-4166-bff2-cf53c9a8819a,uphill.uk,resell,52,7,6,Stephen Hall,11/07/
 f98778d6-c0f2-4d3b-8761-6cc5f0bb47a3,upsidedowncake.uk,available,76,1,16,,,
 f0f1fee3-8ee7-4edd-828c-a4063a4a6076,upstairs.uk,resell,88,10,8,Potential Investments Ltd,05/07/2019 13:00,05/07/2026 13:00
 3126b628-ae90-49cf-8cda-8154d6c3ee08,uptodate.uk,resell,,7,10,Mr Joern Schillmann t/a schillmann.com,05/07/2019 13:02,05/07/2026 13:02
+1c6c29cf-a035-4db4-a736-9024c20be374,uptonow.uk,available,,1,9,,,
 6e4d3397-cfff-458d-b98e-01406775f108,uraemic.uk,available,56,0,7,,,
 8454de26-dd78-4a24-a72f-bc68f947dacf,uremic.uk,available,56,1,6,,,
 80ce48b3-960e-4614-bfec-577869c9333d,usa.uk,resell,88,33,3,Alan Drury,05/06/2019 18:35,05/06/2026 18:35
@@ -3446,6 +3576,7 @@ e0c6ae42-791d-409f-bad3-2fb74b442cc2,wakening.uk,available,75,1,8,,,
 b76c794c-e225-457b-8e5e-832e7beb625c,walloping.uk,available,70,1,9,,,
 2da9062d-db2e-46b5-8a1f-6430f9ebeacf,wannabee.uk,available,48,3,8,,,
 bb48e718-eb78-4445-8716-d0e0b32c0437,want.uk,resell,76,22,4,Heart Internet Limited t/a Heart Internet,03/03/2016 20:29,03/03/2026 20:29
+cb676aa7-8223-4d79-a6f5-8aaeea054512,warishell.uk,available,,1,11,,,
 a1d35730-371a-46b3-b6ae-aecd96c03a78,warm.uk,resell,112,13,4,Stephen Hall,10/06/2014 09:32,10/06/2026 09:32
 cf81d895-aa5c-4661-bf30-baf5cef63383,warofwords.uk,available,,3,12,,,
 081c050d-c5dd-4942-8c8e-21ea7245dbda,warrant.uk,resell,90,7,7,Sirius Telecom Ltd,30/10/2017 09:39,30/10/2026 09:39
@@ -3464,13 +3595,17 @@ d2ae9e81-518e-46c9-918e-18a87c52eb57,wearoff.uk,available,,1,8,,,
 31d6a95f-da32-4760-9b42-fbc8dc875b23,welfarecheck.uk,available,66,1,13,,,
 9ec9b94b-c8cf-4411-ac54-8443be3277b9,welltimed.uk,available,50,3,10,,,
 8eae858e-1d23-4d64-8d78-51a0ded73a0a,went.uk,resell,70,8,4,Stenning Limited t/a Client Domain Management,27/05/2016 13:32,27/05/2026 13:32
-9d87a673-78fd-4467-a126-8c6fc6ce82e6,wet.uk,resell,84,19,3,Stephen Hall,05/07/2019 13:00,05/07/2026 13:00
+9d87a673-78fd-4467-a126-8c6fc6ce82e6,wet.uk,resell,84,20,3,Stephen Hall,05/07/2019 13:00,05/07/2026 13:00
 51411cef-620c-49bd-81f4-29ed079f477a,whacky.uk,available,62,3,6,,,
 02f39e54-e2fb-4ee1-9db0-bd50db7a7c98,whatsoever.uk,available,60,3,10,,,
+9c40c0b5-c5d7-4439-a213-e3fd0dfbb001,whattheheck.uk,available,,3,13,,,
+853c7a8c-3982-4107-829d-f954b18db667,whatthehell.uk,available,,4,13,,,
 30ef4ff3-ec8b-4e6c-a7fc-48b35cb6f0f3,wheelabout.uk,available,,1,11,,,
 1eace0f6-29f7-4007-acad-477d81d0b9df,wheezing.uk,resell,44,2,8,Sav.com LLC t/a Sav,11/04/2025 17:17,11/04/2026 17:17
 adaeec1f-d70c-4e21-8471-8b2009708c1c,whereabouts.uk,available,,6,11,,,
 cfcb300b-be90-4c38-a4ee-b6a50beab5d6,whereas.uk,available,86,2,7,,,
+da55d857-7798-4db8-8a47-31c2f2e1898b,wheretheheck.uk,available,,1,14,,,
+04792ab7-3b60-4acc-a73d-7347b6226fd2,wherethehell.uk,available,,1,14,,,
 99a17a42-3681-4feb-99f8-21592ffb93a1,whether.uk,resell,80,5,7,"Namecheap, Inc.",05/08/2021 21:46,05/08/2026 21:46
 7de7fcee-5358-4aa8-94a5-c57ce814ea2a,whichever.uk,available,60,2,9,,,
 f61863f6-9fdc-47e6-a2b7-445bc45aa1fd,whilst.uk,resell,64,2,6,ANY-Web Limited,15/11/2016 15:03,15/11/2026 15:03
@@ -3482,7 +3617,9 @@ e20d0b36-afb4-4219-b233-3adde6271c7f,WhiteSox.uk,available,66,7,9,,,
 8ff9ea5f-5f80-49c7-bb8e-c09236561104,whiz.uk,resell,100,12,4,Websitebrokers Limited,13/06/2019 17:25,13/06/2026 17:25
 3c13814d-de39-47c8-8560-37b761ad3174,whopping.uk,resell,78,1,8,Stenning Limited t/a Client Domain Management,14/01/2022 13:10,14/01/2026 13:10
 5d063108-5df5-4550-a69c-e38f27ccee61,whoreson.uk,available,52,1,8,,,
-0448a820-d4ef-4580-a532-61e0c198243a,wide.uk,resell,88,17,4,Laughing Banana Enterprises Ltd,25/03/2019 10:38,25/03/2026 10:38
+5b932cf8-5ddb-4fc4-8501-f02361d8da99,whotheheck.uk,available,,1,12,,,
+ac8164ae-9aaa-4aad-8258-6648481c79ed,whothehell.uk,available,,1,12,,,
+0448a820-d4ef-4580-a532-61e0c198243a,wide.uk,resell,88,16,4,Laughing Banana Enterprises Ltd,25/03/2019 10:38,25/03/2026 10:38
 0878d3ad-7645-4fba-8e8f-5d011a7ce2f7,widespread.uk,available,66,4,10,,,
 89aa9b87-a99c-4435-b928-b2fe35520a61,window.uk,resell,102,19,6,Charles Scott t/a Domain Holdings UK,28/02/2019 12:22,28/02/2026 12:22
 994d92bd-6a48-490f-b424-b0d2bf1905fc,windowseat.uk,available,74,5,11,,,
@@ -3492,6 +3629,7 @@ ed0654d0-1d36-44ff-a7f8-8981cdb9624c,winterblues.uk,available,,1,12,,,
 a0de1cc5-6257-4adb-906e-2fb05c78ae4c,wintertire.uk,available,72,1,11,,,
 a339cf33-cc6d-4938-91e4-8c53f3aa4e74,wipeup.uk,available,70,1,7,,,
 ba816b1d-5f94-4d16-a90d-84908f0f5ac4,withering.uk,available,37,2,9,,,
+0df2c98d-810e-4dc2-9a13-f72bcc5a8553,withopenarms.uk,available,,1,14,,,
 73116245-b5c1-4ca1-9921-b0ea23795602,withoutfail.uk,available,74,2,12,,,
 4445cf67-6ecb-454b-97a3-f32a9dc64a95,withregardsto.uk,available,50,1,15,,,
 dc337cfc-9f6b-4ab3-a930-8e541ae678ce,won.uk,resell,108,15,3,Dulwich Storage Company Ltd t/a Giraffe.co.uk,30/10/2017 09:40,30/10/2026 09:40
@@ -3503,7 +3641,12 @@ ba9020a3-0edc-4bf3-bbf9-640c2ea07682,wordblind.uk,available,32,2,10,,,
 9b294e25-dc57-434f-bef9-91cd5ca3d55f,wordis.uk,available,,2,7,,,
 a8919252-4fb8-41a2-9f24-3c7d8c78b666,WordofAllah.uk,available,,1,13,,,
 ef8cc400-085d-48b5-98a4-c5f6daaa01ac,workethic.uk,available,70,4,10,,,
+5709065d-ec3c-46a9-bde2-4c57bba82445,workfare.uk,available,,2,8,,,
 dfdc3304-9d81-4025-b000-f9ab730ff15a,workings.uk,resell,72,2,8,Astutium Ltd,31/03/2019 20:15,31/03/2026 20:15
+af9d2c30-e8cf-473c-a6e3-e3fd636c0444,workoff.uk,available,,2,8,,,
+cac88e46-b20b-4f96-a7ba-7f637704f04f,WorldExpo.uk,available,,8,10,,,
+a7581bef-c3e0-4b5c-a292-fc5404a4a76e,WorldFair.uk,available,,3,10,,,
+f7380f77-6399-48e9-910a-5a76dbc2166e,WorldWarII.uk,available,,2,12,,,
 84d702ab-cb91-44f4-b90d-5e424444c071,worried.uk,resell,72,4,7,Namecamp Limited t/a Yay.com,10/02/2021 06:31,10/02/2026 06:31
 4abfa25c-a62e-4d24-a839-42aeb528530b,worsened.uk,available,54,1,8,,,
 4a766faf-0db9-4874-a9b5-cd3557e14cd7,worsening.uk,available,58,1,9,,,
@@ -3530,7 +3673,7 @@ d38e3a61-79a8-40d3-9ea5-79d7f244712d,xiv.uk,resell,86,11,3,ANY-Web Limited,30/10
 033b5bc6-a209-43d0-8e4a-d2ca218fa5af,xlviii.uk,available,56,1,6,,,
 8855c792-4817-4fb4-a7db-a0e698cfe409,xoxoxo.uk,available,88,6,6,,,
 b84a7b6f-489f-46a5-b1c6-a6e3a7a5b592,xvi.uk,resell,66,4,3,Existent Ltd,11/06/2019 08:36,11/06/2027 08:36
-e6d6abc5-12bb-48f4-863a-68e8dc51f008,xviii.uk,resell,66,5,5,Ionos SE,10/04/2020 21:28,10/04/2026 21:28
+e6d6abc5-12bb-48f4-863a-68e8dc51f008,xviii.uk,resell,66,4,5,Ionos SE,10/04/2020 21:28,10/04/2026 21:28
 c3eec98a-9ca9-4837-9355-05e30cbdc590,xxii.uk,available,66,6,4,,,
 cc49088f-3d06-455f-8840-89e4f77b942a,xxix.uk,available,56,4,4,,,
 b8420bd7-32ad-41af-a073-07ae81ebdc14,xxvii.uk,available,56,3,5,,,
