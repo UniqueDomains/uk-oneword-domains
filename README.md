@@ -16,7 +16,7 @@ Daily-updated dataset of available and resale .uk one-word domains from Unique D
 
 **Public extract:** 4,398 rows · **Live catalog:** 4,397 domains
 
-**Last updated:** 2026-04-12  
+**Last updated:** 2026-04-13  
 **Canonical page:** `https://unique.domains/domains/tld/uk`  
 **Best for:** founders, investors, studios
 
@@ -73,16 +73,16 @@ print(df.head())
 | aboriginal.uk | available | $9.48     | —             | 86             | 8      | 10     | namecheap                            |
 | singapore.uk  | resell    | —         | —             | 76             | 99     | 9      | Charles Scott t/a Domain Holdings UK |
 | affine.uk     | premium   | —         | —             | 94             | 14     | 6      | —                                    |
-| xxii.uk       | available | $9.98     | —             | 66             | 8      | 4      | namecheap                            |
+| mandatory.uk  | available | $9.98     | —             | 84             | 8      | 9      | namecheap                            |
 | select.uk     | resell    | —         | —             | 74             | 99     | 6      | Cloud Next Ltd                       |
 | cincinnati.uk | premium   | —         | —             | 86             | 14     | 10     | —                                    |
-| thou.uk       | available | $9.98     | —             | 60             | 8      | 4      | namecheap                            |
+| xxii.uk       | available | $9.98     | —             | 66             | 8      | 4      | namecheap                            |
 | sweet.uk      | resell    | —         | —             | 72             | 99     | 5      | Cloud Next Ltd                       |
 | manila.uk     | premium   | —         | —             | 92             | 13     | 6      | —                                    |
-| lousy.uk      | available | $9.98     | —             | 60             | 8      | 5      | namecheap                            |
+| thou.uk       | available | $9.98     | —             | 60             | 8      | 4      | namecheap                            |
 | nonstop.uk    | resell    | —         | —             | 98             | 98     | 7      | Lively Ltd                           |
 | nyse.uk       | premium   | —         | —             | 66             | 12     | 4      | —                                    |
-| riveting.uk   | available | $9.98     | —             | 90             | 7      | 8      | namecheap                            |
+| lousy.uk      | available | $9.98     | —             | 60             | 8      | 5      | namecheap                            |
 | aussie.uk     | resell    | —         | —             | 96             | 98     | 6      | Lively Ltd                           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .UK One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .UK One-Word Domains*. Version 2026-04-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
