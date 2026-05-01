@@ -4,15 +4,18 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 005b8150-c72b-4649-8f86-2d07070ee83c,dogsick.uk,available,9.98,,90,1,7,namecheap,,
 0086e357-70a3-4379-aae6-7b51b8b3b4be,grands.uk,available,6.49,6.49,66,8,6,namesilo,,
 0093fa5a-5f6e-4fd0-9f3a-e26871876b8d,decideon.uk,available,9.98,,76,2,9,namecheap,,
+00f4a38b-cf2c-46be-96ed-ef88ca2db592,fasttracks.uk,available,6.49,6.49,56,4,11,namesilo,,
 00f6b8c1-d407-4780-a312-660c7b9d4661,haveyoumetme.uk,available,9.98,,44,1,15,namecheap,,
 01141451-c3b9-41e5-b562-108ae5d1b693,coffeeroyal.uk,available,9.98,,80,1,12,namecheap,,
 01204810-44b3-4cab-9941-a76fa63ddac8,Ilostmyhandbag.uk,available,9.98,,50,1,17,namecheap,,
 0121d609-e16c-4020-b1b2-67fb71de92ad,havetheupperhand.uk,available,9.98,,46,1,19,namecheap,,
 016b3d54-0269-49cb-a6ce-a71f40e25fd5,pages.uk,resell,,,52,28,5,Dreamscape Networks International Pte Ltd,10/06/2019 10:27,10/06/2026 10:27
 0187ea04-7d1f-4e3e-9b58-226dad8debfb,nicelooking.uk,available,9.98,,72,2,12,namecheap,,
+0212892c-00b6-4fae-a517-a89166a5a1b9,cheesecakes.uk,resell,,,60,4,11,ANY-Web Limited,07/09/2024 16:28,07/09/2026 16:28
 023da55a-1427-471f-aeb2-edafeb3e21bb,publichousing.uk,available,9.98,,64,3,14,namecheap,,
 02424600-5d56-4da3-8939-d64c7fb3d2f7,lorditup.uk,available,9.98,,52,1,10,namecheap,,
 0244cf18-a767-4b02-8923-fd1c562cc49a,havea.uk,available,9.98,,60,7,6,namecheap,,
+0247392d-249f-4795-a9d3-8879b8288cb7,luncheonettes.uk,available,6.49,6.49,52,1,13,namesilo,,
 02ea8daa-b940-4186-a059-9d1202f96b06,gostrong.uk,available,9.98,,74,4,9,namecheap,,
 02f6bcfc-ed87-45ba-a0af-2b20352b46ff,fishtail.uk,available,9.98,,68,5,9,namecheap,,
 031caad1-e172-48fe-a950-a36310ee99a5,costeffectiveness.uk,available,9.98,,64,1,18,namecheap,,
@@ -30,13 +33,17 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 050fa6f4-0bd1-4a16-9b92-310b9134e9d0,disappointment.uk,available,9.98,,50,4,14,namecheap,,
 0514f132-2dec-4efd-9b22-d2ca6d16bd2e,keepwatch.uk,available,9.98,,70,5,10,namecheap,,
 0535f471-b583-4030-9b4e-1a128ccbf4c2,SpiritofGod.uk,available,9.98,,63,2,13,namecheap,,
+05362a28-1fc9-449e-b8f6-fe1ad136237c,neared.uk,available,9.98,,52,1,6,namecheap,,
 057c5441-a9ce-4a97-befe-7a64335e0686,fitinto.uk,available,9.98,,84,2,8,namecheap,,
+057c777b-fbaf-43f0-90ed-f03777a60d57,collarbones.uk,available,6.49,6.49,48,1,11,namesilo,,
 05833197-2fdc-454b-b6fd-dcbc920d2143,goround.uk,available,9.98,,68,3,8,namecheap,,
 058975b0-002a-4e19-986c-743791054dce,officeclerk.uk,available,9.98,,49,1,12,namecheap,,
+059d76f2-fcff-475c-8963-61e2c9db7a83,FabFour.uk,available,6.49,6.49,82,3,8,namesilo,,
 05a0a429-db1d-4776-9a22-77c08d006b77,teaspoonful.uk,available,9.98,,66,1,11,namecheap,,
 05a2fb6a-cb08-4f80-a8e0-340355b5b684,ideclension.uk,available,9.98,,58,1,12,namecheap,,
 05c58012-00da-4a16-a562-e27daf01e398,woodentruss.uk,available,9.98,,56,1,12,namecheap,,
 05d0cab0-a28e-40fa-b08c-35f93ce7712e,fillintheblanks.uk,available,9.98,,64,2,18,namecheap,,
+05e17fd1-0c61-4104-b05c-4d69941d8c9b,thickens.uk,available,6.49,6.49,48,1,8,namesilo,,
 060f5c92-aba6-4ebe-88cd-d0df750133a3,goonholiday.uk,available,9.98,,68,1,13,namecheap,,
 062614dd-c1b3-40d6-a189-c7d13c7aa554,Icouldeatahorse.uk,available,9.98,,50,1,19,namecheap,,
 0632b40b-b6ec-4895-9473-e71a0f9cba18,goAWOL.uk,available,9.98,,46,2,7,namecheap,,
@@ -53,20 +60,26 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 081a0f83-2b71-4bd5-800a-2b21db852c0b,truer.uk,available,6.49,6.49,57,8,5,namesilo,,
 084c0a50-9fc3-4e56-b1d4-7e1fa3e163aa,clearthetable.uk,available,9.98,,64,1,15,namecheap,,
 089d9f4a-fb7e-4687-900b-e0ab6f11fd83,urges.uk,available,9.98,,51,4,5,namecheap,,
+08bfebcf-e121-497b-8162-eb71dcbabd94,asquoted.uk,available,6.49,6.49,48,1,9,namesilo,,
 08ef3cb7-fcd6-470b-a09c-a45e754a729e,views.uk,resell,,,62,18,5,Islam Hegazy,12/06/2014 08:55,12/06/2026 08:55
+08f36579-a9d7-4470-9bba-62230242ad7e,mainlines.uk,available,6.49,6.49,52,2,10,namesilo,,
 09299ebe-a670-4ddb-b5e2-ea36bacb1db9,slampoetry.uk,available,9.98,,78,2,11,namecheap,,
 093e0455-c9c2-48b5-8d74-a5f4944f4d68,notleast.uk,available,9.98,,62,1,9,namecheap,,
 09479332-804e-4258-8670-773f9f0e0fb2,differed.uk,available,6.49,6.49,48,2,8,namesilo,,
 094ae9c2-7d6f-42a0-91b2-1ebdf2eb08e7,sedated.uk,available,9.98,,43,2,7,namecheap,,
 09758724-c19f-429d-a26a-d9921ad014dc,Lordknows.uk,available,9.98,,66,2,10,namecheap,,
+0a4fc124-f60b-4908-931f-87e45ffcea0e,arrests.uk,available,9.98,,46,5,7,namecheap,,
 0a519e28-d5f9-4add-9d86-9c7d777ac28f,finalsalary.uk,available,9.98,,66,1,12,namecheap,,
 0a628f7f-b578-419d-964d-da56aadc5d07,finaltest.uk,available,9.98,,58,2,10,namecheap,,
+0a7a9adb-29b9-4312-9bd8-cbb4a6db63ed,DalaiLamas.uk,available,6.49,6.49,62,0,11,namesilo,,
 0b22849f-04b0-41f3-917a-5e749adf5090,decideupon.uk,available,9.98,,76,0,11,namecheap,,
+0b820bfd-b150-4fc0-bc4a-9c1c5d191a25,smirks.uk,available,6.49,6.49,46,3,6,namesilo,,
 0ba1b751-6b18-4765-8f58-2ac1bc8184d7,Frenchicecream.uk,available,9.98,,72,1,16,namecheap,,
 0bca9ae5-8b56-4838-8499-7bbd3b9ba1de,cometolight.uk,available,9.98,,68,1,13,namecheap,,
 0be3ddbd-bc9f-40ee-beb4-b248d7edd508,segregation.uk,available,9.98,,62,2,11,namecheap,,
 0bf08bf4-e369-4696-91cc-5b1b55676bad,quitting.uk,resell,,,54,4,8,The Fluidconnections Co (UK) Ltd,04/07/2019 13:02,04/07/2028 13:02
 0c0410e8-fda1-4b23-b01c-adc127e1c61a,distinctions.uk,available,6.49,6.49,62,3,12,namesilo,,
+0c18d5ce-834b-46ea-a2aa-656ffd58501e,fellowed.uk,available,9.98,,52,1,8,namecheap,,
 0c229241-eddd-4ca0-b423-21f2c67b9607,explanations.uk,available,9.98,,50,2,12,namecheap,,
 0c2e9f5c-7d0c-483a-9ec3-427355ceabfa,wrists.uk,resell,,,49,3,6,ANY-Web Limited,07/09/2024 19:27,07/09/2026 19:27
 0c301170-ff0f-4903-a1ef-dbbcbb9b1380,gettingusedto.uk,available,9.98,,66,1,15,namecheap,,
@@ -80,6 +93,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 0d15e509-cf70-4d50-a3bb-8d93fb865972,reacted.uk,available,6.49,6.49,52,3,7,namesilo,,
 0dc51a82-b78b-4bbc-bac2-451b71d20d08,coffeesugar.uk,available,9.98,,62,0,12,namecheap,,
 0dcd2ec2-9eff-4f24-acff-8b66945acd69,lists.uk,resell,,,60,14,5,Backorder Ltd,03/07/2019 13:00,03/07/2026 13:00
+0dd6aebf-2813-487d-888b-45b3844f63aa,propagates.uk,available,6.49,6.49,49,1,10,namesilo,,
 0e265ce7-efd5-4b4e-8bcb-513a35e37e93,stared.uk,available,9.98,,56,4,6,namecheap,,
 0e2af7c4-1001-4c30-b8eb-b7a0b4f31bf0,thanksbe.uk,available,9.98,,60,1,9,namecheap,,
 0e42aaf3-4092-4e74-9869-873d4d5e835d,inhospital.uk,available,9.98,,60,1,11,namecheap,,
@@ -98,6 +112,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 109cc9e7-f44d-4fe6-971d-ab3347b76321,scoopthepool.uk,available,9.98,,44,1,14,namecheap,,
 10ac5855-62da-46d0-bc8c-773d1897542d,unsettles.uk,available,6.49,6.49,43,1,9,namesilo,,
 10c7e1bc-a1d5-4fd5-8415-392d2e814380,haveityourownway.uk,available,9.98,,50,1,20,namecheap,,
+10c91aa4-0f44-4d61-8eec-640b01b81bc7,diehards.uk,available,6.49,6.49,48,3,8,namesilo,,
 10ed3988-5649-4b5d-8d71-0d54b45616bb,thefixisin.uk,available,9.98,,38,1,13,namecheap,,
 1121e838-3b64-4199-ae1b-59adeb1b23b6,subsidiaries.uk,available,6.49,6.49,51,2,12,namesilo,,
 1144f739-b531-44ca-b837-96cb11e4c921,toexcess.uk,available,9.98,,55,0,9,namecheap,,
@@ -108,8 +123,14 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 11f0d0dc-23e6-4f7a-b645-4ff89e6424e6,terrifies.uk,available,9.98,,39,1,9,namecheap,,
 1244205c-5aef-4085-85aa-ca3ca1ed3d64,hillclimbing.uk,available,9.98,,68,2,13,namecheap,,
 128cd567-f2cd-4e6f-a34d-c41a1a43b7e1,designerstubble.uk,available,9.98,,66,1,16,namecheap,,
+1293e58f-5e0c-4cc1-b6a2-4d9ed763adbd,rioted.uk,available,9.98,,44,1,6,namecheap,,
+12a41dc1-6580-424d-8bc5-c710f9b37181,scoops.uk,resell,,,54,9,6,Laughing Banana Enterprises Ltd,21/11/2019 11:32,21/11/2026 11:32
 12fa4677-f22b-4541-9f26-323b72b0f030,hears.uk,resell,,,48,4,5,Ionos SE,03/07/2019 13:09,03/07/2026 13:09
+130957d1-adb9-474d-9e41-c6e8beca477a,turnedback.uk,available,6.49,6.49,53,1,11,namesilo,,
 133aa198-2868-4d8f-bc54-da15cbd29721,getthehint.uk,available,9.98,,74,1,12,namecheap,,
+135781bf-63f9-45aa-8c57-ad5a1011ccbf,generalformulae.uk,available,6.49,6.49,44,0,16,namesilo,,
+13ddf7ed-eacb-4fce-81be-28b74f45136b,tyres.uk,resell,,,52,13,5,Charles Scott t/a Domain Holdings UK,28/02/2019 12:22,29/02/2028 12:22
+1452052b-2a8f-465f-8990-459fb3fe56f2,alters.uk,available,9.98,,52,6,6,namecheap,,
 145ad0c7-afa9-46c4-8971-c4a1ce85e180,gowiththewind.uk,available,9.98,,74,1,16,namecheap,,
 1479e979-3418-4f7f-a774-ca7d1e824804,fellowhumanbeing.uk,available,9.98,,44,1,18,namecheap,,
 14899f21-6654-4fd4-ab56-b20e492fd383,fundamentalism.uk,available,9.98,,58,2,14,namecheap,,
@@ -123,16 +144,22 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 153d3a32-6be8-4369-9cc1-426ae32b58d1,icons.uk,resell,,,68,19,5,Find Your Domain LLC t/a FYD,03/07/2019 13:00,03/07/2027 13:00
 15a76f2f-7b92-4873-a376-632adf928af2,propranolol.uk,available,6.49,6.49,68,5,11,namesilo,,
 15bc5097-975e-4d64-ab45-b37bd4f81d1c,subsequently.uk,available,9.98,,58,1,12,namecheap,,
+15f9bfcc-c452-41fe-b28c-9dba5cfb3e60,tothe.uk,available,6.49,6.49,54,7,6,namesilo,,
+15fcb0b7-30a7-41e1-8241-8eef83542fc0,chiefsofstate.uk,available,6.49,6.49,42,1,15,namesilo,,
 161f4998-d638-4822-9530-91f884cbfde6,gettheballrolling.uk,available,9.98,,72,1,20,namecheap,,
 166f0813-43d1-464f-9721-bdf3026a10d6,platearmour.uk,available,9.99,,65,1,12,name.com,,
 169d3ffb-2fbe-4b2b-b776-80fa28546d66,turnovers.uk,available,6.49,6.49,50,2,9,namesilo,,
 16c0f596-a30f-4c04-a613-35c9fb487c11,intermittently.uk,available,9.98,,48,1,14,namecheap,,
+16f89c18-93bd-4d2c-a78c-414b7dee8c67,expires.uk,resell,,,50,4,7,Falbros Ltd,08/07/2018 16:08,08/07/2026 16:08
 170c620f-ea00-4c5c-bfe7-7705bcd847b8,thefactthat.uk,available,9.98,,47,1,13,namecheap,,
+17110d21-912a-4e69-9081-7f834503c021,tillers.uk,available,9.98,,51,3,7,namecheap,,
 1714317c-bfe6-4fb8-87ac-7b668aeb3661,glanced.uk,available,9.98,,52,4,7,namecheap,,
 1754b27e-e50b-431d-a00c-c4359f5fc175,dates.uk,resell,,,56,15,5,Entorno Digital S.A t/a Entorno,02/07/2019 13:00,02/07/2026 13:00
 176357a1-94ac-43f1-9370-dbe4b912c1a0,highpolitics.uk,available,9.98,,62,0,13,namecheap,,
 179f42a4-5f0f-4949-8fbe-3d0e3d9359e1,comeondown.uk,available,9.98,,76,1,12,namecheap,,
+17ae1b6e-8ac8-4faf-a7d3-28ca6f8651be,settingup.uk,available,6.49,6.49,54,1,10,namesilo,,
 17b134cc-5fa6-4be5-9bf0-94ca26a9d16c,receptions.uk,resell,,,53,4,10,Websitebrokers Limited,13/06/2019 11:21,13/06/2033 11:21
+17c6ca55-e263-44c0-a2b9-83696b446498,establishments.uk,available,6.49,6.49,42,3,14,namesilo,,
 17c81b13-b048-4b23-af80-114eece8dcea,protocols.uk,resell,,,50,17,9,UK Internet Services Ltd,04/10/2021 06:06,04/10/2026 06:06
 17e6c4c4-4810-47b3-a4ec-da4a1d8004e6,ohmygoodness.uk,available,9.98,,50,4,14,namecheap,,
 17e9ab81-4bb6-43ee-993b-bb8aa296c392,sexlife.uk,available,9.98,,74,6,8,namecheap,,
@@ -146,10 +173,12 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 194f4fd7-50b1-4ed4-a0dc-41d0411affd9,midautumn.uk,available,9.98,,80,2,9,namecheap,,
 1955ffca-162d-4db9-9c61-2741641d8937,havenousefor.uk,available,9.98,,56,0,15,namecheap,,
 197281b0-3618-4170-8063-981085a3341e,seekfor.uk,available,9.98,,74,2,8,namecheap,,
+197aca0f-ffd5-4264-a3ff-f03ffbeae9bb,goinon.uk,available,6.49,6.49,74,2,8,namesilo,,
 198f34d6-a9f1-4d3a-ae9a-f118beccf9bc,godeep.uk,available,9.98,,74,7,7,namecheap,,
 19c270eb-4cf2-4500-a9fe-08f81825c4bf,velocities.uk,available,9.98,,52,4,10,namecheap,,
 19d495fc-1d5e-409e-b3d2-f005e0830924,negotiations.uk,resell,,,56,6,12,Shores Ltd,07/11/2015 02:52,07/11/2026 02:52
 19f22323-92cf-45cf-842b-71b729419077,makeitmakesense.uk,available,9.98,,50,7,18,namecheap,,
+19f344ee-e677-4f7e-8ca2-77d74c01a24b,seconded.uk,available,9.98,,53,2,8,namecheap,,
 1a31546f-de85-49fa-9290-2aae843f837c,getlaid.uk,available,9.98,,76,6,8,namecheap,,
 1a6ce8b6-dd87-4918-bc29-8d39fd2daa2f,beridof.uk,available,9.98,,46,1,9,namecheap,,
 1ac5f14f-fa2b-4384-9dc1-63100fcb2841,inorderfor.uk,available,9.98,,60,0,12,namecheap,,
@@ -159,12 +188,14 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 1b5c8c8a-1a31-4724-b80c-fdfd242b9003,stuffyou.uk,available,9.98,,44,1,9,namecheap,,
 1b6452b1-a276-4d1a-bc9d-7a88fe932dc0,trailers.uk,resell,,,54,15,8,Dreamscape Networks International Pte Ltd,10/06/2019 10:47,10/06/2026 10:47
 1bdcfbfc-e547-4210-91a1-59982cfe7882,keepsomebodyposted.uk,available,9.98,,46,0,20,namecheap,,
+1c31815c-0765-4150-ac35-95fe23a938ca,coffeehousing.uk,available,6.49,6.49,72,1,13,namesilo,,
 1c362435-7af3-43d6-8c0e-98beded7de64,gobelow.uk,available,9.98,,72,0,8,namecheap,,
 1c89f6ad-f272-4da4-a3e1-f80593b5e4ff,aspertheusual.uk,available,9.98,,40,1,16,namecheap,,
 1d53593a-ec45-4079-bcb9-468057b31bbb,clearoff.uk,available,9.98,,72,1,9,namecheap,,
 1d67c10d-c7f5-4553-a6b0-eb068de47916,majorityproblem.uk,available,9.98,,50,0,16,namecheap,,
 1d927ec0-0f88-466d-9b92-f847e6fdfeb2,gettingeven.uk,available,9.98,,48,1,12,namecheap,,
 1dd44aa5-13fc-4e99-a044-ea10eb3d67bc,murmured.uk,available,9.98,,56,2,8,namecheap,,
+1e152dc5-0a7e-4e96-af52-9915f8aefe61,tempers.uk,available,9.98,,56,2,7,namecheap,,
 1e2eab7f-eefa-484c-b3f7-aad29805407c,ifthecapfits.uk,available,9.98,,55,1,15,namecheap,,
 1e8337c8-ad18-44bc-9e4b-a62d64e411a3,commonyears.uk,available,6.49,6.49,54,1,12,namesilo,,
 1f1b6ba3-f5ad-4ad4-871f-fed43760f559,basedon.uk,available,9.98,,50,4,8,namecheap,,
@@ -176,7 +207,9 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 20a172bd-dc39-4d7b-8895-f3606f467d5f,feellike.uk,available,9.98,,74,3,9,namecheap,,
 20b6dd62-6577-4516-bf9f-145ef3a8ce01,softenup.uk,available,9.98,,68,1,9,namecheap,,
 20e5a690-8855-44a6-8c52-e416ced4200f,rakeout.uk,available,9.98,,66,1,8,namecheap,,
+21106137-ac23-4596-ad7d-d4d632d7d7d0,vetoed.uk,available,9.98,,50,2,6,namecheap,,
 21205c8b-5b44-48e5-83c4-8cc4a1fa4da0,lunchwards.uk,available,9.98,,68,1,10,namecheap,,
+21289f88-67e8-4d55-8228-93664b8efcc0,daydreamed.uk,available,9.98,,62,1,10,namecheap,,
 215356bd-dc95-4524-ba99-1de4276b18cd,steponit.uk,available,9.98,,75,2,10,namecheap,,
 21592c40-f7fe-48c7-94fd-28666e48708d,havingamoment.uk,available,9.98,,40,2,15,namecheap,,
 2159f9cd-6915-4859-85b4-33be1ac7f35e,leaveover.uk,available,9.98,,70,1,10,namecheap,,
@@ -185,17 +218,21 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 21738ecf-2757-4740-a5d8-c74c2bc12ab4,scallops.uk,available,6.49,6.49,52,3,8,namesilo,,
 218492c9-5705-487f-9d8b-8bc5bac8ebc7,synthesized.uk,available,9.98,,57,3,11,namecheap,,
 218c6143-1d0d-49a8-a3b2-9c419ba88e01,thereaway.uk,available,9.98,,58,1,10,namecheap,,
+21f79b73-f73a-47fa-93d7-f1bb6af27081,affirmatives.uk,available,6.49,6.49,64,1,12,namesilo,,
 2212518c-a4c3-4656-b976-e5f9b0dc8723,beonto.uk,available,9.98,,74,1,8,namecheap,,
+222ed1f3-a642-4d61-9d31-87f134648754,informs.uk,resell,,,62,6,7,Ionos SE,03/07/2019 13:12,03/07/2026 13:12
 22a2870f-05a3-4ecb-a737-ed1158bf729d,suggested.uk,resell,,,64,5,9,NameSilo LLC,01/07/2024 10:45,01/07/2026 10:45
 22aab12c-5d91-46d2-b97d-586ca90b9cd7,revenues.uk,resell,,,54,6,8,Anthony Appleby,11/10/2019 03:41,11/10/2027 03:41
 22e491ad-f755-479a-9f56-67dd6bcbb9f8,RiceBubbles.uk,available,9.98,,60,1,12,namecheap,,
 22f7f124-9661-41fa-b452-4c8af2bd7be0,inshortorder.uk,available,9.98,,52,0,14,namecheap,,
 230a4bb9-e418-4f04-a4dc-e678fee95532,keepitdown.uk,available,9.98,,46,0,12,namecheap,,
 23265f15-2faf-41d9-b2fe-498694bb8a01,notsomuch.uk,available,9.98,,46,1,11,namecheap,,
+233d9802-761d-494d-b08b-e204018af897,communitycolleges.uk,available,6.49,6.49,54,2,18,namesilo,,
 23733abc-b82a-43d0-a693-963c4334d67d,SwedishEmpire.uk,available,9.98,,58,1,14,namecheap,,
 2375fae2-2518-48e5-85af-97543d11af1a,intrinsicvalue.uk,available,9.98,,66,4,15,namecheap,,
 23a2f70f-947b-47ee-bf60-efe3861eb020,commonterm.uk,available,9.98,,68,1,11,namecheap,,
 24180ee9-c7c3-4a33-b219-3b67b617fde3,pans.uk,resell,,,52,8,4,Vital Domains Ltd,27/03/2019 00:09,26/03/2028 23:09
+243fbdae-cd1c-4eaf-9a44-491872e09e08,collapsing.uk,available,6.49,6.49,38,3,10,namesilo,,
 2451f6bf-e4a5-42e7-9a1c-e1324c983b9f,inthepipeline.uk,available,9.98,,42,2,15,namecheap,,
 24a4e68c-954f-4b8f-9467-04e9c9902e08,partwith.uk,available,9.98,,68,1,9,namecheap,,
 24b9fb96-34a3-42a0-92a5-76f30021fe51,intheprocess.uk,available,9.98,,52,1,14,namecheap,,
@@ -209,6 +246,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 26391808-b744-4785-a532-58cf6e754d49,justthesame.uk,available,9.98,,46,1,13,namecheap,,
 26399de7-c87e-4360-abee-ff3ad8ba8242,manycoloured.uk,available,9.98,,60,1,13,namecheap,,
 26468736-345a-4a55-8b15-264f4b67a022,advantageground.uk,available,9.98,,48,0,16,namecheap,,
+2649953a-52ea-4d90-b30a-e7d20a6932a7,coffeepots.uk,available,6.49,6.49,62,2,10,namesilo,,
 26689dfa-c765-4b8a-a17d-84ea84083384,getitoverwith.uk,available,9.98,,50,1,16,namecheap,,
 268f2e14-8a96-45d0-86e2-bab8c32765bc,beawake.uk,available,9.98,,84,3,8,namecheap,,
 26a27477-3bdb-4278-b3ac-3d89ec3c9d70,newsarticle.uk,available,9.98,,46,2,12,namecheap,,
@@ -222,6 +260,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 277484d3-c59f-4326-aa88-6ba0301ddbef,Iswear.uk,available,9.98,,58,2,7,namecheap,,
 27aee7d8-41da-4e60-8225-11325d606536,gooverboard.uk,available,9.98,,64,1,12,namecheap,,
 27b2f472-2ca4-4d65-bad1-475146f1e321,cheesedown.uk,available,9.98,,62,0,11,namecheap,,
+27ba60c7-7f5b-4df5-ba65-a01d5314a7fc,pertained.uk,available,9.98,,52,1,9,namecheap,,
 27c27f25-7a13-47ed-a9dd-836c53da9b15,VirginiaBeach.uk,available,9.98,,58,9,14,namecheap,,
 27c6696b-7191-4e0d-8b39-21c929816e6f,peed.uk,available,9.98,,54,4,4,namecheap,,
 2838d92d-7832-4417-91c0-c62889e71906,tonedown.uk,available,9.98,,72,1,9,namecheap,,
@@ -233,6 +272,8 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 289a392d-7974-4910-b4fc-fdaacf673d4e,executivecontrol.uk,available,9.98,,64,1,17,namecheap,,
 28a96e46-0429-43e6-8cfa-2e35a8e686a1,getoutsideof.uk,available,9.98,,66,1,14,namecheap,,
 28d4aabc-74ae-4963-9103-d38fa6b14591,spellitout.uk,available,9.98,,74,2,12,namecheap,,
+28e25557-110a-424b-8695-acd21f580292,thundered.uk,available,6.49,6.49,49,2,9,namesilo,,
+291b23b7-4b48-4f5a-b7ae-0202aae55c0d,alcohols.uk,resell,,,50,4,8,Coaley Peak Ltd t/a Coaley Peak,23/01/2020 21:41,23/01/2027 21:41
 2920655c-a16d-412d-b0e8-1628d31e83c3,workingorder.uk,available,9.98,,64,1,13,namecheap,,
 2926df7c-3476-4c60-a826-dfac4c0462c6,goastray.uk,available,9.98,,66,1,9,namecheap,,
 294a6bb2-4796-4f1f-a092-6b4e9b21d239,arrived.uk,resell,,,50,12,7,Scott McBride,24/09/2021 14:02,24/09/2026 14:02
@@ -246,6 +287,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 2a6b1d70-0816-466a-8a5a-4b5ee90db521,makesaneffort.uk,available,6.49,6.49,52,1,15,namesilo,,
 2a981d98-4b8a-479f-86f3-f173893906b5,manysplendored.uk,available,9.98,,60,2,15,namecheap,,
 2aa3e9b7-e2fb-41dc-8f84-977779d3fa18,distinctivepaper.uk,available,9.98,,72,1,17,namecheap,,
+2ad77b32-c47d-4b8b-8d66-351c315017be,theatres.uk,resell,,,62,5,8,Global Domains Limited t/a Global Domains Limited,19/03/2019 11:52,19/03/2027 11:52
 2b138ea1-fa82-40b4-a316-7cc8b38cf278,translating.uk,resell,,,54,7,11,"Dynadot, LLC t/a Dynadot",12/09/2020 05:31,12/09/2026 05:31
 2b769e58-e6a1-4097-8505-8369ebaed279,letslide.uk,available,9.98,,76,1,9,namecheap,,
 2b7d3025-b686-4698-82f9-ae17534b2e2e,goingover.uk,available,9.98,,72,1,10,namecheap,,
@@ -258,11 +300,14 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 2c0fcd94-2a7c-445d-9b36-b0be65a6eb06,getthegreenlight.uk,available,9.98,,52,1,19,namecheap,,
 2c42c48d-3d65-4a11-90c1-4126844308b7,stabilization.uk,available,9.98,,66,3,13,namecheap,,
 2c6a94fc-63d6-4848-8074-5cda88dce97b,ventilators.uk,resell,,,48,4,11,ANY-Web Limited,03/04/2024 12:20,03/04/2027 12:20
+2c721b6c-040b-437a-8fa9-96461ee66fc4,videocameras.uk,available,6.49,6.49,52,3,13,namesilo,,
 2cca0823-26bc-466e-ad51-2eb45502a249,plateglass.uk,available,9.98,,60,1,11,namecheap,,
 2cf11e14-9d30-4dd7-b3d5-ec7e15fead0d,reflexes.uk,available,6.49,6.49,55,4,8,namesilo,,
+2cf4595c-2cc5-4537-994f-123e34ce50c5,reassures.uk,available,6.49,6.49,56,1,9,namesilo,,
 2d1b5962-73e6-421d-bc98-d7eae8cca291,barup.uk,available,9.98,,82,2,6,namecheap,,
 2d1d75a3-516c-49cf-9626-a35e708abea7,Americanway.uk,available,9.98,,72,4,12,namecheap,,
 2d262ab1-d452-4a66-8e6f-8d9ca7726a31,getpast.uk,available,9.98,,76,1,8,namecheap,,
+2d467f06-7407-43de-a3d2-f7b89c6fb193,decidedness.uk,available,6.49,6.49,74,1,11,namesilo,,
 2d4b8b76-122e-457e-8de9-016dbcf30cad,assuch.uk,available,9.98,,66,1,7,namecheap,,
 2db3093d-5976-4381-808e-c25eb866e591,fights.uk,resell,,,55,9,6,Global Domains Limited t/a Global Domains Limited,24/04/2019 11:18,24/04/2027 11:18
 2db79660-92ca-4100-84a2-a1f8384bdcc8,adverbs.uk,resell,,,50,3,7,"Dynadot, LLC t/a Dynadot",17/07/2018 09:46,17/07/2026 09:46
@@ -272,8 +317,10 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 2eb72272-6cd5-498d-9e5e-d656c00f2d0d,hitwith.uk,available,9.98,,76,2,8,namecheap,,
 2ebb2db8-b1b0-4082-9153-dbe0f4841b68,Ikidyounot.uk,available,9.98,,50,2,13,namecheap,,
 2eda12cf-b9bd-4770-a83b-98425ef84a69,letoffthehook.uk,available,9.98,,53,0,16,namecheap,,
+2f20ccf5-1206-4855-a403-5c14894bc7fe,dropsoff.uk,available,6.49,6.49,52,1,9,namesilo,,
 2f42afba-9e55-47ae-b7e5-f441949311e3,skies.uk,resell,,,63,11,5,Addactive Limited,30/10/2017 09:36,30/10/2026 09:36
 2f63cd8a-7415-4ad4-a721-13e058692830,howlout.uk,available,9.98,,70,1,8,namecheap,,
+2f9b3f79-6080-4154-88cf-4341872dd3e9,vales.uk,available,6.49,6.49,56,9,5,namesilo,,
 2fb75135-ccae-4a46-9b0c-24d298e42774,blowingup.uk,available,9.98,,64,1,10,namecheap,,
 2fb86be3-424f-4298-a333-7f509b48d409,lookingforwardto.uk,available,9.98,,54,2,18,namecheap,,
 2fbc6f8a-9485-4a88-91e0-1273d1583f5a,happens.uk,resell,,,52,8,7,David Worth,18/01/2019 15:48,18/01/2027 15:48
@@ -282,6 +329,8 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 304ca117-8600-446a-916b-a838a493db46,getoneselftogether.uk,available,9.98,,49,1,20,namecheap,,
 3074371c-d077-4004-a0f8-d0f47a84e562,singleout.uk,available,9.98,,72,1,10,namecheap,,
 30c33e0d-4eee-422b-b7b4-5b7d52bb86a2,continentalplate.uk,available,9.98,,42,1,17,namecheap,,
+317515c7-a8ae-48d3-9adc-4c2bb40a817a,counseled.uk,available,9.98,,59,1,9,namecheap,,
+319da14f-801d-4f62-adad-cc71ec579ed6,demotions.uk,available,6.49,6.49,46,1,9,namesilo,,
 31ff4a5b-c284-4374-9b70-7bb226b3a2f5,intheeventof.uk,available,9.98,,46,2,15,namecheap,,
 32040018-93e4-43fd-aeb3-b87077cea011,commonhall.uk,available,9.98,,58,1,11,namecheap,,
 322a7eb9-3535-4782-a7c8-9b825493e0f7,establishedorder.uk,available,9.98,,60,1,17,namecheap,,
@@ -304,6 +353,8 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 342998b5-0d28-43a3-be09-d6b64afa652a,costsaving.uk,available,9.98,,68,2,11,namecheap,,
 3440597c-0614-41ca-a1cd-de87cef0c085,specializing.uk,available,6.49,6.49,52,2,12,namesilo,,
 34565df1-d407-4a71-857b-9dca6be9d8f9,keepquiet.uk,available,9.98,,74,1,10,namecheap,,
+34621f5d-066a-40a6-9a21-492adaed7f44,Godknew.uk,available,6.49,6.49,60,1,8,namesilo,,
+347d1cd1-ea76-4f64-aae2-e452ce26f0d3,denominations.uk,available,6.49,6.49,42,2,13,namesilo,,
 349d25d0-31f2-4ada-99c9-c7d1c4388944,makethebestof.uk,available,9.98,,72,1,16,namecheap,,
 34a2a38e-f50b-4d45-af62-159569cbc95a,believes.uk,available,6.49,6.49,64,4,8,namesilo,,
 34ac8450-81ac-47d8-8b4e-75fcd464c940,midbreakfast.uk,available,9.98,,70,1,12,namecheap,,
@@ -321,8 +372,11 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 35c214db-4e6b-42e7-98e9-0db048e8e7b4,owns.uk,resell,,,56,8,4,Global Domains Limited t/a Global Domains Limited,19/03/2019 10:02,19/03/2027 10:02
 35c2aaef-e354-467d-915f-d3d84c18e318,proteins.uk,resell,,,52,8,8,Simon Fox,30/10/2014 14:07,30/10/2026 14:07
 35e9da2a-d975-43e8-80fa-5456e93d3170,postponement.uk,available,9.98,,57,1,12,namecheap,,
+35f16247-50bb-4f4b-91e3-1096ba99afda,turningback.uk,available,6.49,6.49,53,2,12,namesilo,,
 35f7d788-dafe-45ef-b789-4a5a2407f18f,paced.uk,available,9.98,,49,5,5,namecheap,,
+365a849d-a759-4c68-8234-867911523a3c,checksandbalances.uk,available,6.49,6.49,66,3,19,namesilo,,
 366fdc8f-d364-40c3-a94e-a1e077de8c60,goawry.uk,available,9.98,,66,0,7,namecheap,,
+36a88fac-3c54-4015-be57-5fe555a4beb6,disappointments.uk,available,6.49,6.49,30,1,15,namesilo,,
 36ad30bf-f0a6-41db-946b-653d0fc6ebb0,shoparound.uk,resell,,,80,3,11,Stephen Betley,14/06/2019 11:59,14/06/2026 11:59
 36fe6089-bd9a-407e-8c20-7db0dd064005,thanksaton.uk,available,9.98,,62,1,12,namecheap,,
 37330fa8-c8d1-4a3a-ac52-122add155c2b,accountpayable.uk,available,9.98,,62,2,15,namecheap,,
@@ -336,6 +390,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 37dd042e-7aa1-47ec-a9e8-35e2bbddd607,maketheheadlines.uk,available,9.98,,72,0,18,namecheap,,
 381382c5-09a3-4b5e-859a-52d1e7f97918,clearthrough.uk,available,9.98,,44,0,13,namecheap,,
 384888f7-0f44-4e14-a2a4-ab1f8f0789f3,smashinto.uk,available,9.98,,38,0,10,namecheap,,
+384e2eb1-6046-40db-a3ea-12858e421a76,behaviours.uk,available,6.49,6.49,54,3,10,namesilo,,
 3887f719-6db6-42d3-8499-90bce100a724,mothers.uk,resell,,,68,12,7,Backorder Ltd,12/09/2021 16:10,12/09/2026 16:10
 3896c0f9-609d-4854-b47e-452a3f89b52e,goaroundincircles.uk,available,9.98,,62,0,20,namecheap,,
 38b2db57-46da-4e47-b7fb-b5db8216b07f,stepinto.uk,available,9.98,,52,5,9,namecheap,,
@@ -346,10 +401,12 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 39aad599-4904-4810-9493-f13056051a59,surprises.uk,resell,,,64,4,9,Domain Farm Limited,11/07/2014 19:56,11/07/2026 19:56
 39b1dfc4-22f3-45cd-a1f0-6ad69eb558f9,mistakenidentity.uk,available,9.98,,52,2,17,namecheap,,
 39b5f9f0-42c0-4356-a90c-5a0af7bac7d7,Wikipedias.uk,available,9.98,,53,2,10,namecheap,,
+39caeac3-b9b6-450a-aea8-7895496f1b56,granddaughters.uk,available,6.49,6.49,60,1,14,namesilo,,
 39d83a92-9c53-4f5a-95fd-d7afd1eee320,waitup.uk,available,9.98,,63,2,7,namecheap,,
 39e29db0-3e09-4113-bf06-868c3a545f9a,searches.uk,resell,,,50,9,8,Backorder Ltd,04/07/2019 13:00,04/07/2026 13:00
 3a13da90-22e4-456b-92f5-e69c15cd2068,ambled.uk,available,6.49,6.49,58,2,6,namesilo,,
 3a210758-a28e-4b9c-b573-8546125e2e04,cuddleup.uk,available,9.98,,89,4,9,namecheap,,
+3a4438e4-205e-4bd8-88ad-cb86364024e8,plusses.uk,available,6.49,6.49,56,1,7,namesilo,,
 3a4a3614-281d-4e84-8c2f-b48a04eb582b,electricaltape.uk,available,9.98,,64,1,15,namecheap,,
 3a4a848b-09ba-4500-a274-3b4b5a1d9f10,tospare.uk,available,9.98,,54,0,8,namecheap,,
 3a54e822-b135-4462-ac65-2ca6646a40d9,fellowfeel.uk,available,9.98,,72,1,10,namecheap,,
@@ -358,6 +415,8 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 3a75c5a7-ee49-4ed6-a1da-07555a8f432a,makefor.uk,available,9.98,,74,2,8,namecheap,,
 3ab1a53d-201c-46cd-a1b1-2facd0899e0d,thumbs.uk,resell,,,56,7,6,ANY-Web Limited,22/03/2019 07:41,22/03/2027 07:41
 3ad719f2-724e-40c8-aca9-1ae5e4af7683,goonrecord.uk,available,9.98,,70,1,12,namecheap,,
+3afe883e-f9ce-4f0d-abce-00d500c1a193,radioed.uk,available,9.98,,50,1,7,namecheap,,
+3b051a18-815b-4e2b-b7e8-9605d417b621,visioned.uk,available,9.98,,71,4,8,namecheap,,
 3b1eb53a-acbe-4152-9354-de7a68383a2c,keepto.uk,available,9.98,,72,2,7,namecheap,,
 3b410cdf-2fd7-45c8-964c-054443dd9664,goaround.uk,available,9.98,,74,4,9,namecheap,,
 3b5b814f-3124-4a6a-b596-65511d8fd2f7,tablespoonful.uk,available,9.98,,58,1,13,namecheap,,
@@ -367,6 +426,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 3bcf0ab6-d75e-400b-98d9-66ba6882c963,getoutta.uk,available,9.98,,54,1,9,namecheap,,
 3bf29482-7881-4b26-bc22-6820a4961ddf,keepnote.uk,available,9.98,,48,2,9,namecheap,,
 3c2edc80-6038-48f1-93c1-e682eb783732,astheycome.uk,available,9.98,,56,1,12,namecheap,,
+3c3155c6-f381-42ce-a28a-70d3319179dd,turningup.uk,available,6.49,6.49,56,1,10,namesilo,,
 3c4c12ce-e580-47d5-aef9-0762de45b65e,getthedrift.uk,available,9.98,,66,1,13,namecheap,,
 3c53ab29-68d8-4e85-a9ad-9d69877c9ae2,teenyweeny.uk,available,9.98,,78,2,11,namecheap,,
 3c622931-fd25-4e13-a98e-0dbe86bee8ed,textmessages.uk,available,9.98,,52,3,13,namecheap,,
@@ -380,10 +440,13 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 3cfee4d5-1cc0-49e3-931f-201ac68e91c7,oars.uk,resell,,,56,6,4,ANY-Web Limited,09/12/2025 14:15,09/12/2026 14:15
 3d051ff3-08b3-42fb-bf23-5de643fd7a40,prefers.uk,available,6.49,6.49,52,3,7,namesilo,,
 3d0cf4ab-5de2-4be3-8026-4f594302844b,niches.uk,resell,,,53,6,6,ANY-Web Limited,09/01/2026 17:04,09/01/2027 17:04
+3d2c1927-6935-4d80-8c1d-0ca07f790198,polled.uk,available,9.98,,69,3,6,namecheap,,
+3d795933-d305-4555-98a2-1ce770a856f2,manyonereducible.uk,available,6.49,6.49,46,1,18,namesilo,,
 3d7c9551-ca0c-4512-b76c-372f1e3ee6f7,getthemeaning.uk,available,9.98,,69,0,15,namecheap,,
 3dc58208-9863-44aa-91e1-a0e14b93cc34,counted.uk,resell,,,58,5,7,Global Domains Limited t/a Global Domains Limited,18/03/2019 18:05,18/03/2027 18:05
 3dccaace-ee10-42f6-a497-a33644b07c5b,muscletone.uk,available,9.98,,77,2,11,namecheap,,
 3def16e9-7583-469a-806e-978a7e4f2a9f,havenoidea.uk,available,9.98,,74,1,12,namecheap,,
+3e0952da-96f1-4945-92e4-7144ba8cde11,keyboards.uk,resell,,,56,9,9,"Namecheap, Inc.",23/05/2018 00:34,23/05/2027 00:34
 3e80bcaf-096c-4bb2-a04b-0232a6f42a7a,Ihaveasthma.uk,available,9.98,,50,1,13,namecheap,,
 3e8715ec-95e7-4ef4-8a8c-147880122038,havethefoggiest.uk,available,6.49,6.49,54,1,17,namesilo,,
 3e8d7787-9221-46dd-8fac-6bcaedf3161f,responded.uk,available,9.98,,52,2,9,namecheap,,
@@ -391,6 +454,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 3eb94e7b-d01d-4361-bb18-341cb068ed24,necks.uk,resell,,,52,3,5,David Worth,09/06/2019 16:56,09/06/2026 16:56
 3eca115e-de26-4dcf-9191-7a01bdfd594c,doesnotcompute.uk,available,9.98,,40,3,16,namecheap,,
 3eea4215-e2b5-401b-9fed-2d78b95633a8,radios.uk,resell,,,55,13,6,Vital Domains Ltd,30/10/2017 09:34,30/10/2027 08:34
+3eefb8ea-5460-4b81-819d-bcf5c6237c32,motorrace.uk,available,6.49,6.49,56,2,10,namesilo,,
 3f20723b-e44b-41c1-a6b1-03181eeb2e4c,sizes.uk,resell,,,50,5,5,Shores Ltd,19/11/2015 07:53,19/11/2026 07:53
 3f2fde45-2d2e-4531-9f07-de963f4a7907,somewhereelse.uk,available,9.98,,60,3,14,namecheap,,
 3f3e8980-46ec-4f9b-906c-55bd5dc82803,getroundto.uk,available,9.98,,74,1,12,namecheap,,
@@ -423,6 +487,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 447e2d85-9bb6-4ed9-aa00-8e35927e620e,publicoffice.uk,available,9.98,,69,2,13,namecheap,,
 449017ac-7279-4cb6-905d-ec7b36a9c9ba,proxycard.uk,available,9.98,,44,2,10,namecheap,,
 44e123a6-d703-4ed3-a592-e1a8044da473,financeindustry.uk,available,9.98,,44,1,16,namecheap,,
+4506a6cd-68fe-4fb8-9a30-3e5b308e443c,recessions.uk,available,6.49,6.49,46,2,10,namesilo,,
 452415d4-d417-4bf0-9cb6-fe8c8aa5cf06,estateforlife.uk,available,9.98,,60,1,15,namecheap,,
 458ba454-39ee-4200-a726-387fb1e92deb,strapup.uk,available,9.98,,68,1,8,namecheap,,
 45be1a99-7814-466e-ae3e-b51b18ba559f,makefriendly.uk,available,9.98,,72,1,13,namecheap,,
@@ -439,9 +504,13 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 471f59cc-e56c-4931-9957-c3c5bf8b94fd,inchargeof.uk,available,9.98,,49,1,12,namecheap,,
 473ab41f-d35a-4612-a119-937a69ecf401,coffeeaulait.uk,available,9.98,,72,1,14,namecheap,,
 477e9a94-7189-47e8-91fa-78417c5de92d,likemad.uk,available,9.98,,70,0,8,namecheap,,
+47cd6d30-c998-4e52-87a6-9895797fe8bf,squealed.uk,available,9.98,,40,1,8,namecheap,,
 47f5bf69-c275-4923-82ce-b31f9a6cc1ec,arguments.uk,available,9.98,,54,7,9,namecheap,,
+480137fe-974b-45e7-adbd-007a22fde2df,fasttracking.uk,available,6.49,6.49,48,3,13,namesilo,,
 481b6300-304d-4690-b0cd-49dfac0816c4,passed.uk,resell,,,62,6,6,JM Internet Ltd t/a Domain Manage,14/03/2019 09:42,14/03/2028 09:42
 4854f348-9bd3-4b20-b1db-a60d3987b270,Lordonlyknows.uk,available,9.98,,58,1,15,namecheap,,
+4858e1f8-3752-46ed-aab1-642b32c70d2b,snuck.uk,available,6.49,6.49,46,3,5,namesilo,,
+488cc2b5-48eb-4ff9-b474-e680dfa59869,keepbooks.uk,available,6.49,6.49,52,2,10,namesilo,,
 48b02afa-c23e-4d6f-bba3-deafe330e988,Itellalie.uk,available,9.98,,58,1,12,namecheap,,
 48dce8fa-0f8a-47d5-83d7-e5666f646f8a,secondarycare.uk,available,9.98,,69,1,14,namecheap,,
 49488cc5-96e8-4f1a-aa86-bd6e66797aba,Ihavecancer.uk,available,9.98,,44,2,13,namecheap,,
@@ -449,10 +518,14 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 49a167bd-1ee1-480b-a4eb-38acdcf51512,believeitornot.uk,available,9.98,,54,3,17,namecheap,,
 49af3298-f34c-47a6-9492-443057360edc,inthesameboat.uk,available,9.98,,48,2,16,namecheap,,
 49b664a1-991a-42a0-96be-f5fd7e48f3a4,letoneselfgo.uk,available,9.98,,72,0,14,namecheap,,
+49cd8b55-a4f5-4203-9022-5d3d597a3371,reunions.uk,available,6.49,6.49,58,5,8,namesilo,,
+49e8aa71-9e89-4e10-bf8c-628340cdc7f2,showsup.uk,available,6.49,6.49,59,1,8,namesilo,,
 49f077ce-65f7-43f9-8ce5-ac79debc0718,semifinal.uk,available,9.98,,72,2,10,namecheap,,
 4a16ff9f-d765-4d01-9015-5b030079c99c,eyeshadow.uk,resell,,,74,3,10,BHT Ltd,29/03/2019 15:32,29/03/2027 14:32
 4a4a95c9-eefa-4371-ba84-2ee206cdf6be,deepinthought.uk,available,9.98,,52,1,15,namecheap,,
+4a54a78b-3663-41e9-9082-02a4ac76a65b,Serbs.uk,available,6.49,6.49,51,2,5,namesilo,,
 4aa1098c-106c-4fb3-83d2-be5ed25e88a4,makeupremover.uk,available,9.98,,70,2,14,namecheap,,
+4ab56eed-7987-4c8e-8a0f-2d6a55f0f4d4,prowlers.uk,available,6.49,6.49,40,2,8,namesilo,,
 4ac32208-8318-4813-b0bd-b53af8f75639,scoopin.uk,available,9.98,,68,1,8,namecheap,,
 4ad46366-71b6-4aef-b255-ba611a8690bf,SaintNicholas.uk,resell,,,64,4,14,Websitebrokers Limited,13/06/2019 15:57,13/06/2026 15:57
 4b0ef388-83aa-4b1c-bf93-c6ac2312638b,manuals.uk,resell,,,54,13,7,Gandi,03/07/2019 13:00,03/07/2026 13:00
@@ -460,6 +533,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 4b485571-9171-4c52-9371-f660fefe040d,berries.uk,resell,,,60,13,7,Vital Domains Ltd,27/03/2019 00:15,26/03/2028 23:15
 4bb9c267-44dc-45d7-8e79-c085b4902e8c,verbalization.uk,available,9.98,,58,1,13,namecheap,,
 4bbfd235-ee91-4162-8576-1a43d945618e,suggestions.uk,available,9.98,,56,5,11,namecheap,,
+4c105fe2-994b-4776-9cec-09b9d5040351,licensinglaw.uk,available,6.49,6.49,42,2,13,namesilo,,
 4c23b3cf-f255-41cb-89eb-92af6f4735ca,collapses.uk,available,6.49,6.49,38,1,9,namesilo,,
 4c61484d-f422-41fb-a93c-3e5d81afb0b1,revisions.uk,resell,,,52,5,9,ANY-Web Limited,21/03/2019 18:56,21/03/2027 18:56
 4c6c71f1-7f2c-473c-9221-74f9bacda6ab,holdingtheman.uk,available,9.98,,42,1,15,namecheap,,
@@ -469,6 +543,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 4da18e9b-fa54-450f-935d-7f23724420f1,windowblind.uk,available,9.98,,48,1,12,namecheap,,
 4da39254-6992-46a6-8641-5c92787148ba,CountyofRussell.uk,available,9.98,,42,1,17,namecheap,,
 4da4f3fe-4241-4169-babd-49e243f97100,asoftenasnot.uk,available,9.98,,40,1,15,namecheap,,
+4db5f929-49a5-43d9-aea0-2eff4cdcf514,lentils.uk,resell,,,56,4,7,Vital Domains Ltd,26/03/2019 23:49,26/03/2028 22:49
 4dc33eeb-46bd-4819-9723-596f8350ac4d,likeashot.uk,available,9.98,,56,1,11,namecheap,,
 4ddf9f39-5b7f-4245-9b2d-af7aefda1c67,decidence.uk,available,9.98,,74,1,9,namecheap,,
 4deac155-87ec-4da3-b602-2e59253b8cb6,mouldbreaking.uk,available,9.98,,64,1,14,namecheap,,
@@ -484,7 +559,11 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 4f5231e1-0777-4df5-9eff-16bb5166681d,lordover.uk,available,9.98,,72,1,9,namecheap,,
 4f7125bf-4474-4f7a-8545-40c9d9db1e09,regionalism.uk,available,9.98,,64,1,11,namecheap,,
 4f811bcf-46d7-434f-aadd-cb793f4b1512,Frenchthyme.uk,available,9.98,,74,1,12,namecheap,,
+4f838354-07db-4541-bc47-2f43b9687661,rumoured.uk,available,9.98,,50,2,8,namecheap,,
 4fa4d527-1e09-4791-b306-03f2143cc3de,getmedieval.uk,available,9.98,,70,1,12,namecheap,,
+4fd1e94f-fb7b-4271-ae23-ad1d69051829,footballpools.uk,resell,,,46,2,14,"GoDaddy.com, LLC.",02/07/2019 13:00,02/07/2026 13:00
+4ff3b7ca-0390-450e-833c-1992d000de59,floodwaters.uk,available,6.49,6.49,56,2,11,namesilo,,
+500b9072-19d2-426f-a1cb-794801159b82,childsafetyseats.uk,available,6.49,6.49,42,1,18,namesilo,,
 500ca406-e6ed-4c8a-9c32-bc439161659e,goberserk.uk,available,9.98,,68,1,10,namecheap,,
 50286357-a9b2-42be-85ca-d718875ea426,variations.uk,available,9.98,,46,5,10,namecheap,,
 505726bd-81d9-43c4-a5a8-1ff70edd1a5f,standardizing.uk,available,6.49,6.49,43,1,13,namesilo,,
@@ -495,13 +574,16 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 50c219ba-8459-4238-bcd8-14c40ab0f93d,cometofindout.uk,available,9.98,,42,1,16,namecheap,,
 50c97a44-db3d-490b-825e-2de43e3e0ed6,sucks.uk,resell,,,48,11,5,Vital Domains Ltd,26/03/2019 23:49,26/03/2028 22:49
 50fe6a52-4b32-4d5f-9f2b-8d2d2212e5b4,makesenseof.uk,available,9.98,,52,1,13,namecheap,,
+511eca82-19e0-413e-9804-024e4e591b54,focuses.uk,available,6.49,6.49,56,4,7,namesilo,,
 512ec6aa-71c3-4a1e-8e56-da31682dbe62,pizzatopping.uk,available,6.49,6.49,48,1,13,namesilo,,
 51ab5774-30ca-4d85-ac42-80347b4e8abe,statehood.uk,available,9.98,,70,2,9,namecheap,,
 51ba0046-7c27-43a1-b28e-b0cc20d3a65b,occurred.uk,available,9.98,,60,3,8,namecheap,,
 51dbf64c-05ab-46d4-b5ad-678f3b66a837,tostartwith.uk,available,9.98,,52,1,13,namecheap,,
 51e23af2-ded0-4e9e-9598-0ec717ff4ebb,madewaves.uk,available,6.49,6.49,54,1,10,namesilo,,
 51eb6fe2-faf1-4a9e-b010-13f3c4873a07,makeuse.uk,available,9.98,,78,1,8,namecheap,,
+520407b8-24fa-4bfd-8402-a2bf7453828e,keyset.uk,available,6.49,6.49,52,3,7,namesilo,,
 5213679f-6678-48be-830b-a6bf09355c33,lunchmoney.uk,available,9.98,,78,7,11,namecheap,,
+52178e57-33d0-49d7-a5e7-f64156f69d0d,ushered.uk,available,9.98,,54,1,7,namecheap,,
 522ab0ba-8eb1-4c78-8d80-3ce76efa7e6c,officials.uk,available,9.98,,49,8,9,namecheap,,
 5268167d-c52c-4c1c-a757-c9bac4b280a7,underprotest.uk,available,9.98,,30,1,13,namecheap,,
 5298a067-ad40-4cd0-add1-3dab87fe055c,poured.uk,resell,,,56,4,6,Interweb Media Limited,06/06/2019 11:46,06/06/2026 11:46
@@ -516,27 +598,35 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 53940fb4-70e1-4ea6-b976-74a2d7e6731d,ontheropes.uk,available,9.98,,59,2,12,namecheap,,
 53d0dd79-5536-42c9-919d-cceeb719fbe8,portholes.uk,resell,,,46,2,9,Falbros Ltd,12/09/2020 18:25,12/09/2026 18:25
 53e3a8f0-7985-4d1f-927a-14ae12aa33ce,grandparents.uk,resell,,,68,5,12,Miles Conway,17/12/2024 06:44,17/12/2027 06:44
+54037b17-db0c-472f-993c-f21baf61bee7,monopolizing.uk,available,6.49,6.49,40,1,12,namesilo,,
 5410169b-4923-4e5f-aac9-d46d88ed5078,popup.uk,resell,,,84,29,6,Heart Internet Limited t/a Heart Internet,23/06/2019 22:55,23/06/2027 22:55
+542f46ab-33cf-4f7d-b4b2-65d076da1197,timetables.uk,resell,,,50,4,10,Shores Ltd,31/08/2017 12:07,31/08/2026 12:07
+544d2328-d56a-4b97-b7b3-5f2f9983be94,droppingoff.uk,available,6.49,6.49,52,1,12,namesilo,,
 547fe96d-d510-4c56-a6cb-6da6a153b7b5,surebet.uk,resell,,,82,8,8,Premkumar Veerabadran t/a sitekart,24/10/2023 12:45,24/10/2026 12:45
 5480185d-fa1d-4dd3-ad28-1c702b13eda1,online.uk,resell,,,70,62,7,CSL Computer Service Langenbach Gmbh t/a Joker.com,17/11/2015 10:32,17/11/2026 10:32
 54933d7a-3a38-4f35-b7a7-18a899176b68,generalrank.uk,available,9.98,,50,1,12,namecheap,,
+54a29b90-8770-414f-9191-4c90973d0b03,droppedoff.uk,available,6.49,6.49,52,1,11,namesilo,,
 54b4d2ec-3434-4d69-b513-50fdf2e53df5,affections.uk,available,9.98,,62,2,10,namecheap,,
 54c2b486-3a65-49a2-8056-40e92e5e3fc6,leavetochance.uk,available,9.98,,64,1,15,namecheap,,
 54ee18d3-8be2-48b2-ab26-f3c27a82c738,enterthelists.uk,available,9.98,,62,0,15,namecheap,,
 5505992f-1bf0-4867-9541-d0ca00b29a74,YankeeDoodle.uk,available,9.98,,63,2,13,namecheap,,
 55170dd7-8a1b-405f-ab84-e537705969d9,thieves.uk,resell,,,45,8,7,InterNetx GmbH,26/03/2018 23:37,27/03/2027 00:37
 552cd79b-d574-403c-9a70-dd16ed94b3bb,generallyspeaking.uk,available,9.98,,58,2,18,namecheap,,
+5535ee97-7cba-41ae-855f-5f24c44c8b11,storyboards.uk,resell,,,58,7,11,The Bank Agency Ltd,22/06/2017 07:40,22/06/2026 07:40
 553f59ef-713a-4499-aede-6ae5e68d0921,boilingpoint.uk,resell,,,60,3,13,Stephen Hall,01/07/2019 13:01,01/07/2026 13:01
+55612889-48f9-4ffb-ab88-6709ae46a112,childsextourism.uk,available,6.49,6.49,30,1,17,namesilo,,
 55a282e9-9b9d-4c2d-957a-cc9867681b29,hangwith.uk,available,9.98,,70,2,9,namecheap,,
 5604fd4f-7841-4d15-865a-db97142bdb74,operators.uk,resell,,,52,13,9,Richard Kandler t/a Nameplace,04/10/2021 11:02,04/10/2026 11:02
 560982a6-4aff-49fc-8efd-fb777c1a245e,spellingbook.uk,available,9.98,,48,1,13,namecheap,,
 5617671d-7863-422c-827f-fb662654ac3a,highresolution.uk,available,9.98,,64,3,15,namecheap,,
 561c5ff5-e714-472e-a086-83f9033738c3,GuptaEmpire.uk,available,9.98,,64,1,12,namecheap,,
+56210482-4d87-4e67-a345-63b9c6efe033,deteriorates.uk,available,6.49,6.49,38,1,12,namesilo,,
 564df2ef-56a5-490f-a3a7-814ac468fb0e,manyeyed.uk,available,9.98,,68,1,9,namecheap,,
 56509839-d426-401e-9b87-90e2ac2ec502,gothewholehog.uk,available,9.98,,62,1,16,namecheap,,
 56700251-2da7-4602-8734-6026c759c39c,grandchildren.uk,resell,,,60,3,13,ANY-Web Limited,30/09/2022 21:37,30/09/2026 21:37
 56a20020-2976-412e-b1b2-4f3254341e6d,hitormiss.uk,available,9.98,,66,3,11,namecheap,,
 56dddaf3-81a3-47a8-9173-85ea638c71d3,cometogripswith.uk,available,9.98,,62,1,18,namecheap,,
+56e423c5-8ed8-40e5-acc9-6ec7273c6331,estatesforlife.uk,available,6.49,6.49,42,1,16,namesilo,,
 5700c31c-6e07-4cb5-bdcb-db6bc759534d,swishing.uk,available,9.98,,74,3,8,namecheap,,
 571dd6dd-9430-43f4-a3bd-1cdd125d8416,backsomersault.uk,available,9.98,,50,1,15,namecheap,,
 572aa19b-c10a-4dcb-b686-4439dd7f8680,rakeover.uk,available,9.98,,66,1,9,namecheap,,
@@ -548,6 +638,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 578923c2-4f33-45c3-bb51-e9ba2b694baf,thrilly.uk,available,9.98,,71,2,7,namecheap,,
 57b26c67-a390-4c92-8d95-785889bc60b2,expectedreturn.uk,available,9.98,,48,2,15,namecheap,,
 57e2a246-8e86-40d1-87c3-e1a4158a572b,sqft.uk,resell,,,72,9,5,Premkumar Veerabadran t/a sitekart,21/10/2021 04:59,21/10/2026 04:59
+57f1ffcf-73e3-4e8d-a166-63d40d8d20b6,lunched.uk,available,6.49,6.49,60,2,7,namesilo,,
 582cd334-b6b2-47fa-aa0c-64f66a92b4d4,puts.uk,available,9.98,,58,7,4,namecheap,,
 583879b6-a834-4685-aa99-25b76332e642,cometotermswith.uk,available,9.98,,66,1,18,namecheap,,
 585a0a3b-c5a5-4429-851d-f9ed51aab43b,reports.uk,resell,,,58,24,7,ANY-Web Limited,18/12/2016 23:51,18/12/2026 23:51
@@ -568,10 +659,13 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5b170a83-5ff9-4808-8fa5-4a8d856370a6,standingout.uk,available,9.98,,62,2,12,namecheap,,
 5b572c91-31f8-4c55-ad23-c89b7fa742cd,commonheather.uk,available,6.49,6.49,64,1,14,namesilo,,
 5b6b1bc9-bfdf-4439-9bd5-d976e4c0ccc5,commonhippopotamus.uk,available,9.98,,66,1,19,namecheap,,
+5ba40a00-b00c-49f0-b9c0-520b28029868,stints.uk,available,9.98,,52,3,6,namecheap,,
 5c0bf12b-16bc-4ae4-8816-3156ecb30fa2,ballplayer.uk,available,9.98,,74,3,11,namecheap,,
 5c28dfe9-48a0-4881-a4d1-4b4be4b72f34,dogsledmail.uk,available,9.98,,94,0,12,namecheap,,
 5c2d533f-cdbf-4649-8170-a79e88736289,Imissyou.uk,available,9.98,,58,7,10,namecheap,,
+5c462832-9524-4ec3-ae29-17d1d0cf639d,commonpurposes.uk,available,6.49,6.49,48,2,15,namesilo,,
 5c50e153-557d-4de6-82f5-533a82a42933,mountains.uk,resell,,,54,14,9,Backorder Ltd,03/07/2019 13:00,03/07/2026 13:00
+5c5c0902-a550-4202-b83c-1deec114f4e9,precursors.uk,available,6.49,6.49,50,2,10,namesilo,,
 5cce9758-e05f-47c2-90cd-12dc2d8cf7c8,seems.uk,available,9.98,,58,8,5,namecheap,,
 5ce96ebb-a904-4a91-b900-f41ab9c74e8c,manypartedness.uk,available,9.98,,64,1,15,namecheap,,
 5d38d44c-12c2-4cba-bb70-256fe14c27fc,manybodied.uk,available,9.98,,68,1,11,namecheap,,
@@ -580,6 +674,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5da234ff-5d3b-48c9-b0bf-ddfc3e52312f,gummybear.uk,resell,,,89,7,10,Domeneshop AS t/a Domain Name Shop,02/10/2025 10:34,02/10/2026 10:34
 5dbb7fe6-fac0-4d89-b1af-b81d04e76856,barbecuedpork.uk,available,9.98,,58,0,14,namecheap,,
 5dc14e67-3bce-4fc5-bad2-9d5bd73880e1,contemplation.uk,resell,,,66,6,13,Catch22 Media Limited,28/03/2019 21:55,28/03/2027 20:55
+5df02463-d853-4ef6-aa4d-443aa3dfec96,demonstrates.uk,available,6.49,6.49,56,2,12,namesilo,,
 5e0d7c6b-0d48-414b-ad19-087759adbbd1,getoveroneself.uk,available,9.98,,62,1,16,namecheap,,
 5e1d621a-223d-4ca7-ac03-0f7269a63895,induecourse.uk,available,9.98,,57,0,13,namecheap,,
 5e33f482-1311-467c-90c1-90316c92b4a7,tapon.uk,available,9.98,,48,5,6,namecheap,,
@@ -594,7 +689,9 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 5f2a5a4b-f590-4d6b-9f3f-26c1407b9d2a,Ihaveafever.uk,available,9.98,,50,1,14,namecheap,,
 5f3c55a8-8af9-4fea-89a8-a79456d3489f,remedied.uk,available,9.98,,58,1,8,namecheap,,
 5f4b10a7-9530-4e81-a599-5c5aeec17686,demonstrations.uk,available,6.49,6.49,48,4,14,namesilo,,
+5f55742f-d9d5-450c-b989-62ff01ea2c43,makesout.uk,available,6.49,6.49,56,1,9,namesilo,,
 5f561113-2092-4d11-b141-69037a8832a8,estatebottled.uk,available,9.98,,56,0,14,namecheap,,
+5f653d09-19e1-4763-978d-3889ca2f97a9,busoperator.uk,available,6.49,6.49,50,2,12,namesilo,,
 5f7eb280-6653-480c-82c4-c3f44c7daf42,baseplate.uk,available,9.98,,66,7,10,namecheap,,
 601fff56-b5be-4e15-9984-6a5f1e4b0339,comeundone.uk,available,9.98,,66,2,11,namecheap,,
 60c3078b-de97-41a4-8106-ad99021e3dd1,WorldWarIV.uk,available,9.98,,52,1,12,namecheap,,
@@ -602,6 +699,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 61413e71-d69d-47fc-aa75-14b2064e668d,changeup.uk,available,9.98,,70,8,9,namecheap,,
 614c10ad-247a-42c3-bb38-385e92b4c0f6,sophistication.uk,available,9.98,,70,3,14,namecheap,,
 61538493-cdb9-4083-b9d3-dcb720e7384f,has.uk,resell,,,60,26,3,Tool Domains EOOD t/a Edoms.com,03/07/2019 13:00,03/07/2026 13:00
+61952b2f-5c8b-43a9-aec7-28d791d95886,announces.uk,available,6.49,6.49,58,2,9,namesilo,,
 61be3349-9d41-49c7-b11b-1866c6a43fbb,Iwish.uk,resell,,,58,12,6,BHT Ltd,29/03/2019 15:37,29/03/2027 14:37
 61e40643-34cc-4039-a3d0-9151f5c7bd43,JusticeSociety.uk,available,9.98,,48,1,15,namecheap,,
 61e9a986-58ab-4c90-b85a-93f336833631,macaroniandcheese.uk,available,9.98,,72,2,19,namecheap,,
@@ -613,9 +711,11 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 63f5111a-bc15-421a-a298-edc84264dce5,coffeesenna.uk,available,9.98,,80,1,12,namecheap,,
 63f6ba0a-e206-464a-b85b-06fed2adcfc0,BigMacsauce.uk,available,9.98,,70,1,13,namecheap,,
 6403cad1-174d-4d5c-81d5-bc6c36b1363c,sources.uk,resell,,,48,14,7,ANY-Web Limited,21/03/2019 19:12,21/03/2027 19:12
+640a93e2-464e-4442-b491-a4ae25595ac8,inlaws.uk,available,9.98,,56,2,7,namecheap,,
 64304f6a-6fe5-4fd4-8e28-9c2379058a1e,recaptured.uk,available,9.98,,48,2,10,namecheap,,
 648773a0-52a3-4063-b1d6-a6ad95863dc9,getthenod.uk,available,9.98,,77,2,11,namecheap,,
 64a0a2a0-746b-40de-9a42-55b73597c78d,practices.uk,resell,,,52,6,9,UK Internet Services Ltd,04/10/2021 12:27,04/10/2026 12:27
+64bd8142-93d1-4ce1-b79a-0fe88cb655c4,satisfies.uk,available,9.98,,67,2,9,namecheap,,
 65479935-8641-42df-adfc-16df589c8118,flashfloods.uk,available,6.49,6.49,42,1,12,namesilo,,
 65855065-7c7a-4b3e-837e-1aa6afc18477,Ifeelyou.uk,available,9.98,,58,4,10,namecheap,,
 65b6b649-b8c1-4916-80ec-8a798cc2c66e,divinegrace.uk,available,9.98,,68,3,12,namecheap,,
@@ -625,23 +725,31 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 6628d0e0-c2dd-4898-971e-7bcafd2eece8,referredto.uk,available,9.98,,46,1,11,namecheap,,
 6629b77b-9f68-457d-a224-1a5c9e76d5f4,uncared.uk,available,9.98,,57,1,7,namecheap,,
 662cec6c-a39d-452d-9e0e-3925c1199606,coffeeandcakes.uk,available,9.98,,72,2,16,namecheap,,
+6642d758-e386-4b27-af51-ae8cf2f4c7c3,eachtime.uk,available,6.49,6.49,56,2,9,namesilo,,
 6656272e-0b51-4209-8d03-2c85ed403410,keepin.uk,available,9.98,,72,6,7,namecheap,,
 665e3326-7c4e-4369-a747-00b9db6af18e,OpiumWar.uk,available,9.98,,52,1,9,namecheap,,
+66ba45b3-abc0-4c9e-922f-795f17f13986,supervillains.uk,available,6.49,6.49,46,2,13,namesilo,,
 67aae70e-4eec-40ec-9ebc-beb3041142e1,getoffeasy.uk,available,9.98,,58,1,12,namecheap,,
 67d3724d-50c8-4d8d-8cdb-2d4f65121f22,comeunder.uk,available,9.98,,70,1,10,namecheap,,
 67d6dca3-7cc0-4674-af68-4479e828eee1,haveto.uk,available,9.98,,78,3,7,namecheap,,
 67f468d4-ad30-4461-a725-220b36642003,incheck.uk,available,9.98,,46,5,8,namecheap,,
+6824de71-8719-4819-88cc-651fae2c1e14,coupons.uk,resell,,,52,24,7,Team Blue Internet Services UK Limited t/a Team Blue Internet Services Limited t/a names.co.uk,05/07/2018 14:53,05/07/2029 14:53
+685aff7e-ff15-45a3-ae47-c3dd8a8ed25b,setsup.uk,available,6.49,6.49,54,1,7,namesilo,,
 689e6dae-fe04-4e4b-8838-7ac7409d2316,manycore.uk,available,9.98,,68,3,8,namecheap,,
 68d22ebd-9801-4190-9d73-23d9ff4c3cb5,LordofChristmas.uk,available,9.98,,54,1,17,namecheap,,
+68dc04b2-f2a5-414a-a180-1484ee89917d,sanded.uk,available,9.98,,66,1,6,namecheap,,
 68f29aca-adba-4982-b1ca-226e1e156ce1,slipin.uk,available,9.98,,65,2,7,namecheap,,
 6918318f-a7f6-44cb-8801-1727d887cf27,comeupagainst.uk,available,6.49,6.49,38,1,15,namesilo,,
 6929eaa7-68bc-4e7a-86a7-f75ec5ac0e97,filets.uk,available,6.49,6.49,66,2,6,namesilo,,
 6930e16a-796e-44d4-84f0-d63326981457,ballplaying.uk,available,9.98,,70,1,12,namecheap,,
 6933bfac-6cee-4517-bbd4-ed70e52b3fe3,vacations.uk,resell,,,56,19,9,Global Domains Limited t/a Global Domains Limited,19/03/2019 12:11,19/03/2027 12:11
+69724427-3271-4947-998a-6be3836ff265,goingdown.uk,available,6.49,6.49,50,2,10,namesilo,,
 69a554a4-f6df-41b9-ad1c-4ccc9d079a04,SaintGeorge.uk,resell,,,54,6,12,ANY-Web Limited,07/10/2024 13:01,07/10/2026 13:01
 69da0cf4-86c4-43cc-8485-15d8ad22d984,Qtips.uk,available,9.98,,60,4,6,namecheap,,
+69f6890f-78c0-454c-bb0b-7baec031b6c5,topfive.uk,resell,,,52,9,8,"Dynadot, LLC t/a Dynadot",23/06/2019 21:38,23/06/2026 21:38
 69f72d82-8bee-4893-9b25-a7bcdcbc4991,haveon.uk,available,9.98,,76,2,7,namecheap,,
 6a237a0d-9c72-44be-8258-80844d18c9c3,demonstrated.uk,available,9.98,,68,3,12,namecheap,,
+6a560c26-9a3a-47a3-937c-55f7ebc8e035,establishes.uk,available,6.49,6.49,50,1,11,namesilo,,
 6b7e86a2-9c8b-4b42-ba5f-c62869668a26,twentyeight.uk,available,9.98,,65,8,12,namecheap,,
 6baf162d-b1e1-42f3-918b-3598a8a1094e,vegetables.uk,resell,,,64,8,10,Vital Domains Ltd,30/10/2017 09:38,30/10/2027 08:38
 6bdccb19-249f-492d-a12b-6578f72a8ae8,uptill.uk,available,9.98,,50,1,7,namecheap,,
@@ -663,8 +771,10 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 6d6eddc0-7917-400b-91d5-9b918164c11d,arrested.uk,resell,,,60,7,8,Scott McBride,13/10/2021 07:23,13/10/2026 07:23
 6db57c8d-4071-476a-bbf7-9551e30fa36e,comics.uk,resell,,,68,24,6,Charles Scott t/a Domain Holdings UK,28/02/2019 10:21,29/02/2028 10:21
 6dff9c09-1fc8-47a5-9e0c-3182ea0adbc3,getthrough.uk,available,9.98,,79,2,11,namecheap,,
+6e072763-5e9c-45d0-8b9a-57bf36d03500,havingsex.uk,available,6.49,6.49,58,1,10,namesilo,,
 6e659692-e0bd-4943-8da3-091125ac8833,deepbreathing.uk,available,9.98,,74,2,14,namecheap,,
 6e95642d-8d4b-4130-a226-f214f54d1c38,makeof.uk,available,9.98,,76,1,7,namecheap,,
+6eae9a0f-ea46-4bb1-8ae2-38a5bd540fdd,grandfathers.uk,available,6.49,6.49,68,3,12,namesilo,,
 6edc1245-96d9-4bfc-b0e4-09d1cb7322b5,placeupon.uk,available,9.98,,48,1,10,namecheap,,
 6ef1ae33-1e7a-4246-9f5c-3890c9d7251e,strikeablow.uk,available,9.98,,70,0,13,namecheap,,
 6f134cae-ffed-413e-bc25-f924cf853bde,pairofpliers.uk,available,9.98,,62,0,14,namecheap,,
@@ -674,6 +784,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 6fb19420-9297-412a-a6f8-c46505396e8d,practicality.uk,available,9.98,,72,3,12,namecheap,,
 6fcd1269-c260-4438-aeea-68446b2ec0d9,strapin.uk,available,9.98,,68,1,8,namecheap,,
 6ffdac14-7777-403b-94cc-5f34c3915c55,getsick.uk,available,9.98,,72,1,8,namecheap,,
+700dfcb1-bdfe-45b6-9363-5797ebe7c0f0,cashiers.uk,available,6.49,6.49,50,7,8,namesilo,,
 7013fc61-2199-48b8-b5e9-3d7276cbcc99,sorethroat.uk,resell,,,64,2,11,ANY-Web Limited,23/11/2024 17:34,23/11/2026 17:34
 70180fc2-38aa-4cb2-9796-ee91be9c56e2,iftruthbetold.uk,available,9.98,,54,1,16,namecheap,,
 703b75bb-1071-4d13-8b23-e20fcd441a68,chickenroll.uk,available,9.98,,76,2,12,namecheap,,
@@ -682,13 +793,21 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 70efa1a3-f9bf-4790-8d28-e2f8ea2e4aaf,pairofspecs.uk,available,9.98,,62,1,13,namecheap,,
 71445857-187b-446b-b758-99f317ce0c76,shares.uk,resell,,,58,18,6,Charles Scott t/a Domain Holdings UK,28/02/2019 12:10,29/02/2028 12:10
 7159d4f3-8b19-4a0e-8b81-11fd113fc95c,getoneoveron.uk,available,9.98,,64,0,15,namecheap,,
+715fd5db-57a0-4cc4-b3f0-d7352a380da8,dogsleds.uk,available,6.49,6.49,76,1,8,namesilo,,
 71626841-4dee-4476-b003-a06cf5c9e1b0,FinalJudgment.uk,available,9.98,,54,2,14,namecheap,,
+717c8190-77a7-45d7-bc07-40d1c8e098e3,breastfeeds.uk,available,6.49,6.49,56,1,11,namesilo,,
 718323ac-0cb9-44bd-9b23-e6c4d127f413,Ihaveadisability.uk,available,9.98,,50,1,19,namecheap,,
 71920670-1095-416b-8f25-9e4ad3fa9915,attentions.uk,available,6.49,6.49,54,4,10,namesilo,,
 71dfa711-ffcd-49a7-aff7-48e6afa7a7a1,nothanksto.uk,available,9.98,,58,0,12,namecheap,,
+72246758-b6d0-4cfa-96c8-27a8f0396c81,practitioners.uk,resell,,,48,5,13,Team Blue Internet Services UK Limited t/a Team Blue Internet Services Limited t/a names.co.uk,26/09/2017 17:44,26/09/2026 17:44
+729f2465-cb63-4f6f-b787-7eb4e53f4e8a,stoppers.uk,available,6.49,6.49,52,3,8,namesilo,,
+72a64493-ae67-4b24-955d-160c2d9914c7,organisations.uk,resell,,,52,3,13,Enterfirst Ltd,29/06/2022 15:17,29/06/2026 15:17
+72ce80a4-f3f8-48fe-8200-ba73a0f7516d,shrugs.uk,resell,,,50,2,6,ANY-Web Limited,24/11/2025 17:26,24/11/2026 17:26
 732ff140-fbc3-4b63-bcbf-b6937a8c841a,justifications.uk,available,6.49,6.49,44,1,14,namesilo,,
 7343650b-c974-47a6-be6e-466c0724246d,coffeecupful.uk,available,6.49,6.49,80,1,12,namesilo,,
+7348445c-5fb0-4239-93d7-50eba8cdab1b,coffeecakes.uk,available,6.49,6.49,62,2,11,namesilo,,
 736cefb7-1efe-4f8f-aff8-6b2b224bc4c3,accountreceivable.uk,available,9.98,,62,1,18,namecheap,,
+73820187-51c0-4b37-bd83-0311098c1a27,OKs.uk,resell,,,68,13,3,"GoDaddy.com, LLC.",04/07/2019 13:00,04/07/2026 13:00
 7391e1b1-8d08-40e7-a315-4eae6ad58a7a,attendto.uk,available,9.98,,70,1,9,namecheap,,
 739aac39-fe48-4bac-b5a9-89c075a858c5,letrip.uk,available,9.98,,75,2,7,namecheap,,
 73b3d9fa-de1c-495c-8535-c91251e577f6,nauseousness.uk,available,6.49,6.49,58,1,12,namesilo,,
@@ -700,9 +819,11 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 74b08d17-673a-4a21-b911-ba0a2f0c70ab,keeppace.uk,available,9.98,,74,3,9,namecheap,,
 7508809b-b675-4272-b81a-3da3ebb22aa7,volunteering.uk,resell,,,74,7,12,ANY-Web Limited,10/09/2018 14:37,10/09/2026 14:37
 75233dca-3ec5-46f8-8441-c1b624fd1571,justyouwait.uk,available,9.98,,46,1,13,namecheap,,
+75377d5e-5894-468f-afba-0860a25c47c2,lunchtimes.uk,resell,,,60,1,10,BHT Ltd,29/03/2019 15:37,29/03/2027 14:37
 7557d2dc-9cb1-4255-914c-96a470713e63,LordofHosts.uk,available,9.98,,54,2,13,namecheap,,
 75a23f48-b23b-4b5a-9766-8ea54fac2975,prettywell.uk,available,9.98,,60,2,11,namecheap,,
 75cceed8-d4bf-40de-a17b-882f1fc9822e,thesame.uk,available,9.98,,54,5,8,namecheap,,
+7662ff10-1829-4ea3-aca9-f1bdb63376b1,generalmeeting.uk,available,6.49,6.49,46,2,15,namesilo,,
 767099f1-2eab-4e2d-bc54-2b35f639a076,cometopass.uk,available,9.98,,74,1,12,namecheap,,
 76762f7d-b3e2-411f-97b1-69b369b9293e,partners.uk,resell,,,61,32,8,Backorder Ltd,04/07/2019 13:00,04/07/2026 13:00
 7687b951-8fe6-4129-bdfb-d795788ec905,chickenliver.uk,available,9.98,,64,1,13,namecheap,,
@@ -710,6 +831,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 769abbcc-d15f-4197-9a0c-9bcf4509267a,accountsreceivable.uk,available,9.98,,62,5,19,namecheap,,
 76a81fac-7691-4512-b100-1ed95cb6612b,keepfaith.uk,available,9.98,,82,3,10,namecheap,,
 76c01cf3-6360-47f0-bbfe-a2a142438482,Ideclare.uk,available,9.98,,58,3,9,namecheap,,
+76dc36e5-d9ee-4377-9f54-d9ab1533e275,grandnieces.uk,available,6.49,6.49,66,1,11,namesilo,,
 76dea5f4-8cdd-48a6-87aa-8d3ac1efebbd,IliveinMelbourne.uk,available,9.98,,50,0,19,namecheap,,
 770e6963-2cf2-40a7-8ccc-f220e3d77665,spillover.uk,available,9.98,,68,4,10,namecheap,,
 7712335c-370d-4568-bad5-e36c328deed7,dropabombshell.uk,available,9.98,,58,0,16,namecheap,,
@@ -720,8 +842,10 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 782e48d5-b964-4366-9f18-66f831577f6c,Ihaveatoothache.uk,available,9.98,,50,1,18,namecheap,,
 78356447-fe14-473c-a67b-a7f6c5d5891e,sawoff.uk,available,9.98,,60,1,7,namecheap,,
 78391736-0bea-424c-ba8d-296952ec67bc,manages.uk,resell,,,56,3,7,David Worth,11/06/2019 19:55,11/06/2026 19:55
+78dba79d-0cbe-4195-a43b-7d16bcf16cb2,gonedownthetube.uk,available,6.49,6.49,30,1,18,namesilo,,
 78e11f6e-c677-47da-b802-c590c615bcc6,midmorning.uk,available,9.98,,80,1,11,namecheap,,
 79208188-29fd-43b9-a253-a0ee8d83140e,throws.uk,resell,,,52,5,6,ANY-Web Limited,22/03/2019 07:41,22/03/2027 07:41
+795c6998-c237-4a9b-b12d-be8af9a21d24,outofmyway.uk,available,6.49,6.49,34,1,13,namesilo,,
 795e47c3-7552-4edc-afa4-46e2429754f0,hammeraway.uk,available,9.98,,66,0,11,namecheap,,
 7982d0cf-9d56-45f7-94cb-5efc698c9926,havenoneofit.uk,available,9.98,,56,1,15,namecheap,,
 7984feaa-bec8-465a-9d5f-447f4eaa6203,inmyview.uk,available,9.98,,48,2,10,namecheap,,
@@ -737,6 +861,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 7a672d68-9401-4906-ac7a-346c2a26bac2,divinejudgment.uk,available,9.98,,47,1,15,namecheap,,
 7aa9ec9d-4208-4f92-9d49-6ef295a22388,nonsmoking.uk,available,9.98,,68,3,11,namecheap,,
 7ab47830-586c-4ed2-afb5-37b72054ff70,thenandthere.uk,available,6.49,6.49,54,2,14,namesilo,,
+7ab9880a-9b35-4b13-b3c5-884e93dc4b63,MiddleAmerica.uk,available,6.49,6.49,54,2,14,namesilo,,
 7ae84f65-ab68-4d35-8e13-25db81eeeb16,getontheendof.uk,available,9.98,,64,0,17,namecheap,,
 7b0e2954-622c-42dc-b907-c6d567199265,gothrough.uk,available,9.98,,70,2,10,namecheap,,
 7b28f007-5ad1-4556-9366-028654b01372,holdingtheball.uk,available,9.98,,62,1,16,namecheap,,
@@ -751,6 +876,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 7c97a3e8-5c96-40b7-9438-f4ac61331ccc,Ineedtovomit.uk,available,9.98,,50,1,15,namecheap,,
 7cbcad6f-f17a-4317-aa76-880f42ef077d,neckrest.uk,available,9.98,,56,1,9,namecheap,,
 7ced710d-0ffe-4e06-9ca8-8f3c33f99327,leaveon.uk,available,9.98,,80,1,8,namecheap,,
+7cf66f4e-4ef4-4f5a-9bef-e56df6c7b8a6,CountyofMeath.uk,available,6.49,6.49,42,1,15,namesilo,,
 7d269d4a-97f8-4202-9ca5-792985965ac4,sterilization.uk,available,9.98,,66,3,13,namecheap,,
 7db73d8c-6103-44d6-8f53-5762e543f4cc,approached.uk,available,9.98,,50,2,10,namecheap,,
 7dde4efd-a7a2-4767-806f-607306e61327,conductcode.uk,available,9.98,,50,1,12,namecheap,,
@@ -762,8 +888,10 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 7ee6c42f-e329-448f-9757-87bc2e639f0e,manytoone.uk,available,9.98,,68,2,11,namecheap,,
 7eeaa32e-529d-46e2-a7ff-e8f206c151d5,CountyofMitchell.uk,available,6.49,6.49,42,0,18,namesilo,,
 7efa9899-5480-4aa3-a758-39e81a84e2a2,officeroutine.uk,available,9.98,,43,0,14,namecheap,,
+7f594f05-42c7-40a6-9abd-1662caae784f,constraints.uk,available,6.49,6.49,44,2,11,namesilo,,
 7fb237c9-7a4f-496b-aaec-c439e2646d0c,zoomed.uk,resell,,,60,5,6,Namecamp Limited t/a Yay.com,14/07/2025 07:29,14/07/2026 07:29
 7fd2470b-162d-4185-9248-aac69e2dd435,thewholeshop.uk,available,9.98,,42,1,14,namecheap,,
+7fdb29d5-41be-4d62-83ce-7bdf8cb449b7,chefs.uk,resell,,,68,18,5,Trifega Ltd,02/07/2019 13:00,02/07/2026 13:00
 800eb6b0-f01e-408f-9228-9dee4aa3c543,filetype.uk,available,9.98,,64,3,9,namecheap,,
 803a694a-e334-42cb-bc36-756bb2078724,datadomain.uk,available,9.98,,52,4,11,namecheap,,
 8060239e-999d-4dae-a8a3-57c9654eeb68,muttered.uk,available,9.98,,56,1,8,namecheap,,
@@ -776,7 +904,9 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 822a32a1-ebba-4be4-918f-5fc9f8b2daa9,childrapist.uk,available,9.98,,38,1,12,namecheap,,
 822d031d-287a-4bb8-aaf1-c4d3f31280cf,sitaround.uk,available,9.98,,66,1,10,namecheap,,
 8230e60a-0f58-489b-8dd6-da03bb2300e3,distinctiveness.uk,available,6.49,6.49,72,1,15,namesilo,,
+827ff93c-2624-4af2-91d8-b9786130e23d,hookedup.uk,available,9.98,,56,6,9,namecheap,,
 828bac8f-e872-4640-a6e3-ce42cf22ccdf,splits.uk,available,6.49,6.49,70,9,6,namesilo,,
+82c3c728-f0cf-4abc-8c23-3206daa8413d,demotes.uk,available,6.49,6.49,46,1,7,namesilo,,
 82df6651-9a48-4c92-89b4-7df2ddc54bb5,suspecting.uk,available,9.98,,48,1,10,namecheap,,
 82e1df1e-9576-4fac-81b8-d00de0433ac4,CountyofYoung.uk,available,9.98,,42,1,15,namecheap,,
 82ef3321-2631-4496-8d1d-6c40238f551d,godown.uk,available,9.98,,74,5,7,namecheap,,
@@ -791,7 +921,10 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 83bfaf3f-91ce-46dd-aa80-9cfe21aa0eb8,gooutwithabang.uk,available,9.98,,66,1,18,namecheap,,
 83cf5978-5349-4427-88b7-a9c07c80a611,finalstraw.uk,available,9.98,,66,2,11,namecheap,,
 842ce495-8273-4b73-960e-0461b079ac22,mentioning.uk,available,9.98,,52,2,10,namecheap,,
+8430f5ca-34d2-4c40-946a-e67c519f9161,tightened.uk,available,9.98,,50,1,9,namecheap,,
 84358b2a-85f1-4f09-a3f4-62c5a77f96f2,rained.uk,available,6.49,6.49,50,4,6,namesilo,,
+8477d241-4bf3-4bd3-a757-7d0a4e435c55,clipboards.uk,available,6.49,6.49,56,4,10,namesilo,,
+84cc4fa5-0db9-411a-98c3-1d087ed85fa0,bandits.uk,resell,,,40,10,7,Websitebrokers Limited,12/06/2019 10:20,12/06/2033 10:20
 84ff61fe-135c-440d-9072-0941adc6d48b,makefirstbase.uk,available,9.98,,42,1,15,namecheap,,
 852bac71-97f8-4f9b-8502-106a188231f9,dropsomeonealine.uk,available,9.98,,70,0,19,namecheap,,
 85742f39-e9fb-410b-b342-6990802215cd,leavethenest.uk,available,9.98,,70,1,14,namecheap,,
@@ -803,17 +936,22 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 867c95b7-8ee4-4271-8283-bf6931927798,letthebuyerbeware.uk,available,9.98,,67,0,20,namecheap,,
 869c4406-aa33-4624-8ad2-25634a7d80ef,vergeon.uk,available,9.98,,68,1,8,namecheap,,
 86dcac55-ca83-40ab-96be-57ac394d2e2f,overs.uk,resell,,,49,6,5,UK Internet Services Ltd,15/12/2023 22:58,15/12/2026 22:58
+873dd30c-6ace-4a38-970e-e98ed7585195,minimumwages.uk,available,6.49,6.49,52,1,13,namesilo,,
 8776ce95-e76a-49eb-a692-7cfd3b3782ee,keepsomeoneposted.uk,available,9.98,,66,0,19,namecheap,,
+878c1dc7-c830-4ec7-847b-a0303448a614,deciders.uk,available,6.49,6.49,56,3,8,namesilo,,
 87eb798e-a20a-473d-a4d8-106d78c34f06,shortest.uk,resell,,,54,6,8,Global Domains Limited t/a Global Domains Limited,19/03/2019 11:52,19/03/2027 11:52
 88567327-8111-4c6d-874a-a9e88138f3d1,cometoaboil.uk,available,9.98,,62,1,14,namecheap,,
 8858b2ee-7bd4-48cf-bc88-292bc41d4faf,parkertruss.uk,available,9.98,,48,1,12,namecheap,,
+887266f4-0de4-4f2a-8e6e-5ae79898c7e4,flightattendants.uk,available,6.49,6.49,40,2,17,namesilo,,
 888c06d3-5a7d-45a5-bd64-322fea2a89e9,highseas.uk,available,9.98,,74,6,9,namecheap,,
 88bbfa91-dade-478c-8538-c6de2f820ae8,toburn.uk,available,9.98,,50,1,7,namecheap,,
 88edb585-c70e-4a57-af46-214167579f2e,gomissing.uk,available,9.98,,70,1,10,namecheap,,
 88ef8505-a577-482a-9098-836af0dbf0f1,devotions.uk,resell,,,56,5,9,ANY-Web Limited,04/01/2024 16:03,04/01/2027 16:03
+88f78f49-8c52-442b-a2dd-3bcef1917e87,mouthed.uk,available,6.49,6.49,63,1,7,namesilo,,
 89175d8a-6c18-453b-8505-34a3d9f4368d,letpast.uk,available,9.98,,75,1,8,namecheap,,
 89853c1d-0a96-416d-b0c6-bb2903f02796,gonegative.uk,available,9.98,,66,1,11,namecheap,,
 899612ab-07a0-43e6-aee3-5deb23ca4119,devoting.uk,available,9.98,,56,2,8,namecheap,,
+89a9b0b7-657e-4a27-b5bc-059d2501879a,overcasted.uk,available,6.49,6.49,48,1,10,namesilo,,
 89c5e1e6-ce4a-40c2-a9c5-b2d1dbc4e01e,manuallabour.uk,available,9.98,,58,1,13,namecheap,,
 89cc37e9-2477-44fb-afb8-9bb770458956,coins.uk,resell,,,56,41,5,"Dynadot, LLC t/a Dynadot",01/02/2016 04:50,01/02/2027 04:50
 8a14215b-0eb3-4b82-89df-c395a0a93208,happier.uk,resell,,,62,16,7,Find Your Domain LLC t/a FYD,03/07/2019 13:00,03/07/2027 13:00
@@ -825,6 +963,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 8a659d69-898c-4c04-b3fe-5ec0f0420276,fellowmelad.uk,available,9.98,,62,1,13,namecheap,,
 8a808569-2cf7-4ef1-b706-d59d06180ee6,letthemhaveit.uk,available,9.98,,47,1,16,namecheap,,
 8a81e316-b774-42fb-84da-8a10156abc2d,coffeeglass.uk,available,9.98,,80,1,12,namecheap,,
+8aca6e65-85c1-47d7-8685-46bf6962020b,goesthewholehog.uk,available,6.49,6.49,46,0,18,namesilo,,
 8ae8d514-3a49-4b77-8c73-3e2078e3b05c,keepunder.uk,available,9.98,,66,1,10,namecheap,,
 8b25f4a9-4bed-43e0-998d-da62f280aac6,mouths.uk,available,9.98,,49,3,6,namecheap,,
 8b2744e9-5a88-440c-8afb-6c356aeb601d,alcoholbyvolume.uk,available,9.98,,58,1,17,namecheap,,
@@ -834,13 +973,19 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 8b879e25-82b0-46cf-93e9-3a1731b840a5,Icouldeatabrick.uk,available,9.98,,50,1,19,namecheap,,
 8b91e004-d9cb-455d-866b-53b3eef66158,herbaltea.uk,available,9.98,,80,5,10,namecheap,,
 8bd8b226-d7b6-4a42-898c-cbc7f9723118,takeoffice.uk,available,9.98,,77,2,11,namecheap,,
+8beb519e-fa2b-4cc3-9a1d-3c30db201049,inpatient.uk,available,6.49,6.49,68,3,10,namesilo,,
 8bf70139-cdd7-4a96-ae2c-ca6c985602a2,estimationtheory.uk,available,9.98,,60,1,17,namecheap,,
 8c08e66b-b218-4f3f-b002-7c63b7cdb101,specialed.uk,available,9.98,,76,6,10,namecheap,,
 8c1fe2a1-728e-4ac4-9f9c-b19cd6ea9dd5,replying.uk,available,9.98,,52,3,8,namecheap,,
+8c283640-eead-4e94-8ad0-7e85a56cae26,fellowships.uk,available,6.49,6.49,52,4,11,namesilo,,
+8ca5ca15-dab0-497d-8288-988276c7e610,paradoxes.uk,available,6.49,6.49,70,3,9,namesilo,,
 8cc2bda0-28a2-4a83-86c8-5cff142688af,reckoned.uk,available,9.98,,50,1,8,namecheap,,
+8d0afa84-7b98-49cd-94cd-d2351544a8f3,collapsed.uk,available,9.98,,38,3,9,namecheap,,
 8d7b129f-3ae5-4a77-8b67-3c6adca85fb1,gobonkers.uk,available,9.98,,70,1,10,namecheap,,
+8dae58f7-c704-48b7-99c0-684402885cbb,devours.uk,available,6.49,6.49,40,2,7,namesilo,,
 8db7d4e6-c2b8-43ff-af2c-3cfe9b3f4196,havetheheart.uk,available,9.98,,66,1,14,namecheap,,
 8dd01bc9-8d4b-4b27-9eaf-dcd68ae1af1c,hanginthere.uk,available,9.98,,54,3,13,namecheap,,
+8df7775d-2e63-4fe1-b618-00561988ec35,turnsup.uk,available,6.49,6.49,56,1,8,namesilo,,
 8e6c473c-ca31-433c-b352-bd258a04c779,gods.uk,resell,,,72,27,4,Presence Group Ltd t/a Presence,30/10/2017 09:23,30/10/2026 09:23
 8e846ca0-52d8-44e4-a14c-553e679479ae,stretches.uk,available,9.98,,50,2,9,namecheap,,
 8e90f838-766b-4b3c-9571-88c7ca95d5d0,suppresses.uk,available,9.98,,44,1,10,namecheap,,
@@ -854,148 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 8f878ec9-d1a9-4c29-8219-2c0b2aa5e4de,comeoff.uk,available,9.98,,72,1,8,namecheap,,
 8f999526-ff22-443c-bfa2-2c270303d0bb,changeplaces.uk,available,9.98,,62,0,13,namecheap,,
 8faec132-62a0-4976-a2fd-987dd3fd1fc9,childmarriage.uk,available,9.98,,48,2,14,namecheap,,
-90e20ceb-b25b-4aa6-a9a4-5168a609eca6,keeptrackof.uk,available,9.98,,48,1,13,namecheap,,
-9119a9ea-969b-4342-9f7b-b44403acb104,thereandback.uk,available,9.98,,44,4,14,namecheap,,
-9140b522-4697-4253-9d0b-5f7c9809ccd8,comeonover.uk,available,9.98,,78,2,12,namecheap,,
-91494741-90b6-4527-bcd4-5c88bae82037,chickpeas.uk,available,6.49,6.49,62,3,9,namesilo,,
-91bb85bc-c745-42be-a51b-7a6f1bd0b85d,aswespeak.uk,available,9.98,,58,2,11,namecheap,,
-9215dfad-d27d-43eb-a6a5-43f91c2207ed,ofan.uk,available,9.98,,44,4,5,namecheap,,
-925b6611-b85f-4595-b55d-6c55d23dc1fd,manyandvarious.uk,available,9.98,,46,2,16,namecheap,,
-9269c699-f20b-4293-bf77-c2e481da18ca,havetherunof.uk,available,9.98,,60,1,15,namecheap,,
-92af6d4c-9611-4373-a568-4d0f6159a508,comeonstrong.uk,available,9.98,,66,2,14,namecheap,,
-92b34e96-bb2d-4d95-bd2c-d221826b2a89,pickover.uk,available,9.98,,62,1,9,namecheap,,
-92fbb47d-9494-4241-b9a2-0474f6ea10b0,soothes.uk,available,6.49,6.49,61,2,7,namesilo,,
-93bd8418-3ea6-4673-9429-d78c49d751ad,prettier.uk,available,9.98,,62,5,8,namecheap,,
-93cc1bf5-acca-49d2-9716-19d0e17797e7,failed.uk,resell,,,60,11,6,Realtime Register BV,05/08/2022 22:38,05/08/2026 22:38
-93ceba7a-5e91-4e63-8ad4-2cf3265f28a2,nodded.uk,available,9.98,,56,2,6,namecheap,,
-93e286e9-6db7-4c60-953a-842b8d91237c,centuries.uk,resell,,,56,2,9,UK Internet Services Ltd,29/08/2022 11:10,29/08/2026 11:10
-94171a61-2bf9-42d7-8bde-8d474b5e583b,SantaClara.uk,available,9.98,,75,9,11,namecheap,,
-9418bc12-c1d8-40ea-8f6a-148eabf8eed8,lunches.uk,resell,,,60,4,7,Miss Ann-marie Morgan,10/06/2014 12:38,10/06/2026 12:38
-94523c02-eddf-4571-8958-1e4eb0f16278,cops.uk,resell,,,74,13,4,Laughing Banana Enterprises Ltd,25/03/2019 10:10,25/03/2027 10:10
-945aefcb-b3f9-46cd-8874-79681851da0c,refused.uk,resell,,,50,4,7,UK Internet Services Ltd,04/10/2021 05:38,04/10/2026 05:38
-946048b2-f74b-4517-bcf1-aae43a4af75c,onlyjust.uk,available,9.98,,49,2,9,namecheap,,
-9463e339-3018-4cf7-a8e4-1b8ebd50eefd,getmarried.uk,available,9.98,,88,5,11,namecheap,,
-949762c1-feee-44bf-a5dd-f42aad972699,placeanorder.uk,available,9.98,,72,0,14,namecheap,,
-94bd9349-cec7-4089-afe9-a5b79bf4a5ed,dogsbark.uk,available,9.98,,76,1,9,namecheap,,
-94dc2827-3ccf-4493-97e7-4c3ffbd21625,potatochips.uk,available,9.98,,54,5,12,namecheap,,
-95094851-e591-48eb-85f7-371434d6c40e,commonland.uk,available,9.98,,74,2,11,namecheap,,
-951dd4b5-6378-45a7-98df-173db271e06c,officecleaner.uk,resell,,,41,1,14,UK Internet Services Ltd,29/09/2021 10:29,29/09/2026 10:29
-9535bd89-cb06-4fdb-9dfa-6e54eb7236e1,remained.uk,available,9.98,,50,2,8,namecheap,,
-953b53af-7e26-4ca7-a65d-07039a84ce85,poreover.uk,available,9.98,,62,1,9,namecheap,,
-9553cfe2-ef57-49bd-bd99-22c17cd3e966,comeintobeing.uk,available,9.98,,68,1,15,namecheap,,
-9580637d-cef0-4866-b5df-fc468ad9b98c,manyhandedness.uk,available,9.98,,64,1,15,namecheap,,
-95ae40bc-10ab-44f4-aca2-d7dc7a18df44,doctoralthesis.uk,available,9.98,,68,1,15,namecheap,,
-95afedbe-9344-46e5-8c38-3058964f7a65,IsleofWightCounty.uk,available,9.98,,52,2,20,namecheap,,
-95b14d2d-4162-4717-a955-b62c9083e741,AcademyAwards.uk,available,9.98,,68,3,14,namecheap,,
-95ce9e62-d59a-4144-a755-b778024a5b09,runon.uk,available,9.98,,67,4,6,namecheap,,
-95d4e06b-9a98-4dc8-9e8e-9c4d720609a1,stepbystep.uk,resell,,,62,14,12,Premkumar Veerabadran t/a sitekart,04/10/2020 04:48,04/10/2026 04:48
-95ef6686-a541-425b-8506-f2608d00e20e,CountyofKings.uk,available,9.98,,54,2,15,namecheap,,
-95ef7571-a761-4adc-b384-7d86e50381d8,leavewellalone.uk,available,9.98,,68,1,16,namecheap,,
-96ac3cd9-a0ac-4068-9492-1595980af6ff,committees.uk,available,6.49,6.49,48,3,10,namesilo,,
-96dec916-783d-47f2-8738-c32f14d7b641,commonlog.uk,available,9.98,,50,1,10,namecheap,,
-96f5baf6-ae91-44dd-b54c-ad4c6da82094,comeoutwith.uk,available,9.98,,68,1,13,namecheap,,
-9763a9e5-6e8b-4192-bbed-b08f285f8bb7,inoperation.uk,available,9.98,,74,1,12,namecheap,,
-97641f27-504d-4140-a51b-25e0d502515c,makeinteresting.uk,available,9.98,,72,1,16,namecheap,,
-97bd84fe-c056-467c-b711-31e978642c03,commonleopard.uk,available,9.98,,46,0,14,namecheap,,
-97cc220a-ac8f-44fd-a039-fcef4c765f32,potatosalad.uk,available,9.98,,70,2,12,namecheap,,
-980bacec-5721-4a20-9c9a-7edef30a0ca2,gettosecondbase.uk,available,9.98,,47,1,18,namecheap,,
-989bf14a-27e8-4cad-8eaf-b0513dd3be1d,manyandvaried.uk,available,9.98,,46,1,15,namecheap,,
-98c20e0b-72a7-4896-a4dc-fa43ffa17356,rashes.uk,available,6.49,6.49,40,3,6,namesilo,,
-98dc3787-7956-4609-ae96-275d2efca95d,thebird.uk,available,6.49,6.49,58,6,8,namesilo,,
-98f94e5a-f6bc-4921-a60f-47c440886ef2,CountyofJefferson.uk,available,6.49,6.49,44,0,19,namesilo,,
-9985d406-a830-42b7-8d7e-1f64368b5283,comewith.uk,available,9.98,,72,3,9,namecheap,,
-99d4603d-bfce-4570-89ba-92b508850870,blazeaway.uk,available,9.98,,76,1,10,namecheap,,
-9adc28d1-1e42-4f71-9469-95f0a12a99fc,goaroundthehouses.uk,available,9.98,,60,0,20,namecheap,,
-9ae4b052-8d97-4476-be23-eb53552d7c1b,coffeebush.uk,available,9.98,,80,1,11,namecheap,,
-9b09d77f-4a12-44a3-be9e-664f2b50a57b,cometoahalt.uk,available,9.98,,62,0,14,namecheap,,
-9b1f21a1-9f81-4ada-a756-f310b7a7d4aa,coffeepotful.uk,available,9.98,,72,1,13,namecheap,,
-9b7ad8b1-b04d-4dc8-8c99-d6c4942f5d62,closeout.uk,resell,,,76,6,9,Premkumar Veerabadran t/a sitekart,02/07/2019 13:02,02/07/2026 13:02
-9b91ff85-6184-4935-890c-8c122b597f1e,pumpup.uk,resell,,,76,5,7,Falbros Ltd,26/03/2019 17:01,26/03/2027 17:01
-9bc9823a-8b23-4451-90c8-1802ed89b2d9,Imustgo.uk,available,9.98,,58,1,9,namecheap,,
-9bee9cb7-7c81-4305-819f-db7a58f057df,slightest.uk,available,9.98,,56,1,9,namecheap,,
-9c40c550-0ebb-4c19-8c16-65c1f8175c1e,strips.uk,resell,,,51,7,6,ANY-Web Limited,15/11/2024 20:14,15/11/2026 20:14
-9c7d744a-05d1-4156-9cb0-5863bfeb6504,commonhousefly.uk,available,9.98,,42,1,15,namecheap,,
-9ca6253b-416d-4436-a990-3b335d566fff,hasto.uk,available,6.49,6.49,56,3,6,namesilo,,
-9cb7dd42-6e2a-41cd-bdf0-d75b453fced9,rumorhasit.uk,available,9.98,,47,2,12,namecheap,,
-9cf80577-36c6-48d6-acc9-e6d59ef3808c,Ihateyou.uk,available,9.98,,52,4,10,namecheap,,
-9cfafead-51a9-4312-8400-9d77c372eef1,paperingover.uk,available,9.98,,53,1,13,namecheap,,
-9d14a074-6a2b-4d2f-a64c-28f3e8b5c219,keephouse.uk,available,9.98,,70,2,10,namecheap,,
-9d36d5e2-b5d3-4e97-8e3c-8f52b16c2299,gonuclear.uk,available,9.98,,68,3,10,namecheap,,
-9d5f51a7-2580-4f80-bcd9-fadf77e726d3,roofs.uk,resell,,,50,11,5,Charles Scott t/a Domain Holdings UK,28/02/2019 12:10,29/02/2028 12:10
-9d7b80dd-82ed-42aa-b77f-de31f9924706,asperusual.uk,available,9.98,,48,1,12,namecheap,,
-9d8ff1d0-6896-4192-90e3-f694d457b618,ibanking.uk,available,6.49,6.49,76,7,9,namesilo,,
-9d9817fb-0bac-404c-88b0-7e59a1765301,playarole.uk,available,9.98,,68,1,11,namecheap,,
-9d9d04d2-64ef-4c5a-b0cc-1f436acc51b4,pastasauce.uk,available,9.98,,79,2,11,namecheap,,
-9da26217-1b84-4d74-bcd0-539e166f4808,roses.uk,resell,,,68,16,5,Laughing Banana Enterprises Ltd,04/07/2019 13:00,04/07/2026 13:00
-9dc3935b-30ee-4890-921c-cfc9df4da974,procedures.uk,available,9.98,,50,5,10,namecheap,,
-9dd78810-4cc0-4efe-b8b7-4fb2794b515b,pierogi.uk,available,9.98,,82,7,7,namecheap,,
-9df042ce-efe3-4eb1-916f-af7b7a9385a2,partitioned.uk,available,9.98,,48,2,11,namecheap,,
-9e3401af-861f-4aae-8d9f-206a84ce4428,bedamned.uk,available,9.98,,38,1,9,namecheap,,
-9e593221-bc37-48d0-b7a0-2ecb73c0ca5f,cuttherug.uk,available,9.98,,76,1,11,namecheap,,
-9e8ab9ec-2b57-4444-8b5b-e64c3b6ef1bb,inthisinstance.uk,available,9.98,,44,1,16,namecheap,,
-9e9f2822-bd74-4a40-ae2b-c1aade1f6ea2,commonnouns.uk,available,6.49,6.49,54,0,12,namesilo,,
-9ecb8bd1-0ac2-4e82-8d34-dac956c3700f,cuts.uk,resell,,,72,10,4,Realtime Register BV,02/07/2019 13:00,02/07/2026 13:00
-9eecdf4b-7a8c-473a-9bd9-285f54892167,getstraight.uk,available,9.98,,77,1,12,namecheap,,
-9ef8a27b-ca4b-4e70-9101-18467b00d23a,manytomany.uk,available,9.98,,68,2,12,namecheap,,
-9f3fa8d0-9e5e-48ca-af70-fbd8888c0101,hangonto.uk,available,9.98,,70,1,9,namecheap,,
-9f432941-5ffd-4853-8458-c6c5757360ac,divinejustice.uk,available,9.98,,49,2,14,namecheap,,
-9f5a875a-159f-439a-8e9f-29fc9621f29d,FinalFour.uk,available,9.98,,82,3,10,namecheap,,
-9f5b2003-33c4-47e4-a304-e704517b47dd,gobythewayside.uk,available,9.98,,62,1,17,namecheap,,
-9f9664be-aa26-4897-a4cd-ed92ab29b61a,CountyofHawaii.uk,available,9.98,,50,1,16,namecheap,,
-9fb2e48f-5717-4c4d-b4af-ccb7fd2f8792,letterofdismissal.uk,available,9.98,,44,1,19,namecheap,,
-a0aa7d27-381b-4308-9f6c-478b1b8865cb,spinydogfish.uk,available,9.98,,60,1,13,namecheap,,
-a0b487ac-1f3b-4401-a4a6-496f4925ed1c,plateout.uk,available,9.99,,65,1,9,name.com,,
-a0e9da24-ed6c-4b5b-9e9e-73ddef01a8a5,filetypes.uk,available,6.49,6.49,46,3,9,namesilo,,
-a0f0fe42-dbc4-4a3f-a8a4-8188f6c93e99,getrid.uk,available,6.49,6.49,56,3,7,namesilo,,
-a10e5e74-192c-4bcf-bde6-f1ee348b7608,pairoftongs.uk,available,9.98,,65,0,13,namecheap,,
-a11545e6-acd8-4435-a04a-23771f395126,ponders.uk,resell,,,54,5,7,ANY-Web Limited,21/03/2019 18:49,21/03/2027 18:49
-a15d71a2-9670-4e43-9adc-db84a9bbe207,settlefor.uk,available,9.98,,76,0,10,namecheap,,
-a1ba16b8-6364-4f12-9b35-dc40878c1636,joiningin.uk,available,9.98,,52,2,10,namecheap,,
-a23b7868-0ec7-4e22-a681-9fa254927366,coulduse.uk,available,9.98,,56,1,9,namecheap,,
-a2468426-8ee0-4a6a-87e6-1bf914ab6f44,mentalnote.uk,available,9.98,,54,3,11,namecheap,,
-a24844da-a672-42b5-a292-eae757d134c5,porkrib.uk,available,9.98,,55,0,8,namecheap,,
-a259d960-52b8-40d0-9165-a1decd2053f3,inspiteofoneself.uk,available,9.98,,48,1,19,namecheap,,
-a266bcbb-b88a-4d4f-b936-128d8938aa52,inthedock.uk,available,9.98,,50,1,11,namecheap,,
-a26d9892-47e5-4ae8-b93b-7dcb1b0a4e19,goquietly.uk,available,9.98,,66,1,10,namecheap,,
-a27e175d-16e9-4433-8801-72053f7446c5,gobackto.uk,available,9.98,,76,2,10,namecheap,,
-a296fab7-3f12-419f-bd3c-14f85449c56f,getonto.uk,available,9.98,,74,3,9,namecheap,,
-a29b7e77-2215-4224-a8b1-98de983ca30c,printmedia.uk,resell,,,78,6,11,Premkumar Veerabadran t/a sitekart,06/12/2019 07:45,06/12/2026 07:45
-a2c2af96-49d9-4b5b-a772-c1f3fd2c54bb,AcademyAward.uk,available,9.98,,76,1,13,namecheap,,
-a2cc0b64-9dfd-4e95-956e-2244e68991d2,bluecheckmark.uk,available,9.98,,70,2,15,namecheap,,
-a2eb56fb-e016-4bb3-83a4-3118612de12b,proxymurder.uk,available,9.98,,36,1,12,namecheap,,
-a2ebe33b-bd1a-433a-8403-9ac324339df7,Iamadoctor.uk,available,9.98,,50,1,13,namecheap,,
-a2eda899-72e8-4851-a4b9-d844b7f0c1c2,overwhelmed.uk,available,9.98,,48,5,11,namecheap,,
-a30532bc-a264-44b0-a762-e78f143b4476,nowonder.uk,available,9.98,,78,3,9,namecheap,,
-a311c792-3d65-4304-ad95-62ee223cf4d3,talked.uk,resell,,,62,6,6,Global Domains Limited t/a Global Domains Limited,19/03/2019 11:52,19/03/2027 11:52
-a3166660-8d4e-4564-9e76-5eb7f26fa6ff,gotothewashroom.uk,available,9.98,,56,1,18,namecheap,,
-a32158d4-f361-45e5-aea2-875b94a220ee,majorityleader.uk,available,9.98,,54,1,15,namecheap,,
-a346fe21-d148-45d2-8a4e-6a5d84dded57,alcoholproblem.uk,available,9.98,,30,1,15,namecheap,,
-a350c8d9-0258-42e4-a817-ab8d46bd2495,makeoneselfathome.uk,available,9.98,,72,1,20,namecheap,,
-a35607ae-3125-4df5-92d0-997a54923f7d,turndown.uk,available,9.98,,74,4,9,namecheap,,
-a3622f3a-09a3-457f-a669-f710cf8611f1,excitingness.uk,available,9.98,,68,1,12,namecheap,,
-a365908c-48dd-43e6-9581-697f0f8c0681,searched.uk,resell,,,60,7,8,Sirius Telecom Ltd,12/09/2020 20:33,12/09/2026 20:33
-a3e5be6b-22f8-4b2c-a0bf-01920ebfe594,estatetrustee.uk,available,9.98,,42,2,14,namecheap,,
-a3ec61aa-e448-4ba9-82dc-4613952b81af,Ichooseviolence.uk,available,9.98,,44,1,17,namecheap,,
-a490d701-eee0-49b8-94c1-a218877ac0a5,largeandincharge.uk,available,9.98,,62,1,19,namecheap,,
-a5c0d90e-8905-4f0e-adf8-b27ff16206f4,theories.uk,resell,,,58,6,8,Global Domains Limited t/a Global Domains Limited,19/03/2019 11:52,19/03/2027 11:52
-a606a8a2-4551-481d-8155-2df20a39e87e,comethrough.uk,available,9.98,,78,1,12,namecheap,,
-a60a43a8-e36e-48ee-94b8-a5b365e69ebe,getupto.uk,available,9.98,,74,2,9,namecheap,,
-a6c61ef3-8bc8-4f77-887c-0af9ad231913,headout.uk,resell,,,82,6,8,Realtime Register BV,08/09/2021 17:09,08/09/2027 17:09
-a6f3a3c1-b46b-4910-9096-1897722342cf,gobackon.uk,available,9.98,,72,2,10,namecheap,,
-a709a3ac-bd64-449c-bd77-a9386d7eaed7,comeof.uk,available,9.98,,74,1,7,namecheap,,
-a73c9498-f52d-4c17-94d5-c1a1bb1dc37f,brosbeforehos.uk,available,9.98,,38,1,15,namecheap,,
-a743de7f-bf97-4146-9d7d-250d0c880e7f,chiefofpolice.uk,available,9.98,,42,0,15,namecheap,,
-a748528e-2965-42fd-9cc3-f226a6fe1661,gonewiththewind.uk,available,9.98,,40,4,18,namecheap,,
-a793f14c-b98e-4b82-a5d2-bd36b16c50a5,advertises.uk,available,9.98,,56,3,10,namecheap,,
-a7e16699-60db-437c-b7bf-f7f52587c1a4,getround.uk,available,9.98,,74,0,9,namecheap,,
-a826f385-d196-4af4-9743-3a58d07ab589,possesses.uk,available,9.98,,48,1,9,namecheap,,
-a832a35a-383a-4174-8f56-70da196b4b4c,paintthinner.uk,available,9.98,,56,1,13,namecheap,,
-a845f787-805f-45f2-8a46-835e0a99045a,leavetown.uk,available,9.98,,58,1,10,namecheap,,
-a8b0002d-4ec6-463d-a058-b2dec37e08bf,overwith.uk,available,9.98,,60,1,9,namecheap,,
-a8c7c088-a4a7-4d99-a92d-bd8919c001ae,couldhavesworn.uk,available,9.98,,44,0,16,namecheap,,
-a8d5ffac-789c-4164-8316-daab9932020a,alternatively.uk,available,9.98,,58,9,13,namecheap,,
-a8e12c7d-8783-47fe-9c32-8422fa8c1fc9,uponthewhole.uk,available,9.98,,46,1,14,namecheap,,
-a90a6a56-ab54-423b-98e8-6265b079f28b,introduces.uk,available,9.98,,58,2,10,namecheap,,
-a92e73b8-f621-4fa2-b0f0-4f6d6599a4d8,proxybullying.uk,available,9.98,,28,1,14,namecheap,,
-a93df217-b0e9-47fc-854f-2eeb9d7b1d53,overstatement.uk,available,9.98,,54,2,13,namecheap,,
-a963bd45-ff56-44ef-b155-ce5eac54d81a,slipthrough.uk,available,9.98,,66,1,12,namecheap,,
