@@ -1,10 +1,10 @@
-# Available .UK One-Word Domains (6,206)
+# Available .UK One-Word Domains (6,211)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-6%2C206%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-6%2C211%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .uk one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **6,206 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **6,211 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 6,206 domains · **Median ask:** $9.31 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 6,211 domains · **Median ask:** $9.31 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-06  
+**Last updated:** 2026-05-08  
 **Canonical page:** `https://unique.domains/domains/tld/uk`  
 **Best for:** founders, investors, studios
 
@@ -69,21 +69,21 @@ print(df.head())
 | playin.uk        | available | $9.98     | —             | 80             | 10     | 7      | namecheap                                          |
 | agents.uk        | resell    | —         | —             | 56             | 50     | 6      | Alan Drury                                         |
 | goby.uk          | available | $6.49     | $6.49         | 74             | 9      | 5      | namesilo                                           |
-| coins.uk         | resell    | —         | —             | 56             | 41     | 5      | Dynadot, LLC t/a Dynadot                           |
+| stage.uk         | resell    | —         | —             | 68             | 43     | 5      | Mr DJ Wood t/a Unforgettable Domains Ltd           |
 | splits.uk        | available | $6.49     | $6.49         | 70             | 9      | 6      | namesilo                                           |
-| partners.uk      | resell    | —         | —             | 61             | 32     | 8      | Backorder Ltd                                      |
+| coins.uk         | resell    | —         | —             | 56             | 41     | 5      | Dynadot, LLC t/a Dynadot                           |
 | VirginiaBeach.uk | available | $9.98     | —             | 58             | 9      | 14     | namecheap                                          |
-| ring.uk          | resell    | —         | —             | 60             | 32     | 4      | Mr DJ Wood t/a Unforgettable Domains Ltd           |
+| partners.uk      | resell    | —         | —             | 61             | 32     | 8      | Backorder Ltd                                      |
 | midlifecrisis.uk | available | $9.98     | —             | 58             | 9      | 15     | namecheap                                          |
-| trends.uk        | resell    | —         | —             | 60             | 32     | 6      | Private Equity Systems Ltd t/a British Hosting     |
+| ring.uk          | resell    | —         | —             | 60             | 32     | 4      | Mr DJ Wood t/a Unforgettable Domains Ltd           |
 | vales.uk         | available | $6.49     | $6.49         | 56             | 9      | 5      | namesilo                                           |
-| popup.uk         | resell    | —         | —             | 84             | 29     | 6      | Heart Internet Limited t/a Heart Internet          |
+| trends.uk        | resell    | —         | —             | 60             | 32     | 6      | Private Equity Systems Ltd t/a British Hosting     |
 | cometo.uk        | available | $9.98     | —             | 74             | 8      | 7      | namecheap                                          |
-| SanDiego.uk      | resell    | —         | —             | 74             | 29     | 9      | Landlord Mortgages Limited                         |
+| popup.uk         | resell    | —         | —             | 84             | 29     | 6      | Heart Internet Limited t/a Heart Internet          |
 | changeup.uk      | available | $9.98     | —             | 70             | 8      | 9      | namecheap                                          |
-| pages.uk         | resell    | —         | —             | 52             | 28     | 5      | Dreamscape Networks International Pte Ltd          |
+| SanDiego.uk      | resell    | —         | —             | 74             | 29     | 9      | Landlord Mortgages Limited                         |
 | grands.uk        | available | $6.49     | $6.49         | 66             | 8      | 6      | namesilo                                           |
-| gods.uk          | resell    | —         | —             | 72             | 27     | 4      | Presence Group Ltd t/a Presence                    |
+| pages.uk         | resell    | —         | —             | 52             | 28     | 5      | Dreamscape Networks International Pte Ltd          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 6,206 live domains                         |
+| 1,000-row public sample | 6,211 live domains                         |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .UK One-Word Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .UK One-Word Domains*. Version 2026-05-08. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
