@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .uk one-word domains from U
 
 **Public extract:** 1,000 rows · **Live catalog:** 6,210 domains · **Median ask:** $9.31 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-11  
+**Last updated:** 2026-05-13  
 **Canonical page:** `https://unique.domains/domains/tld/uk`  
 **Best for:** founders, investors, studios
 
@@ -65,24 +65,24 @@ print(df.head())
 | domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                          |
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------------- |
 | CapeCod.uk       | available | $9.98     | —             | 78             | 22     | 8      | namecheap                                          |
-| online.uk        | resell    | —         | —             | 70             | 62     | 7      | CSL Computer Service Langenbach Gmbh t/a Joker.com |
+| ElSalvador.uk    | resell    | —         | —             | 72             | 98     | 11     | Dynadot, LLC t/a Dynadot                           |
 | steeltoeboot.uk  | premium   | —         | —             | 66             | 1      | 14     | —                                                  |
 | playin.uk        | available | $9.98     | —             | 80             | 10     | 7      | namecheap                                          |
-| agents.uk        | resell    | —         | —             | 56             | 50     | 6      | Alan Drury                                         |
+| online.uk        | resell    | —         | —             | 70             | 62     | 7      | CSL Computer Service Langenbach Gmbh t/a Joker.com |
 | goby.uk          | available | $6.49     | $6.49         | 74             | 9      | 5      | namesilo                                           |
-| stage.uk         | resell    | —         | —             | 68             | 43     | 5      | Mr DJ Wood t/a Unforgettable Domains Ltd           |
+| agents.uk        | resell    | —         | —             | 56             | 50     | 6      | Alan Drury                                         |
 | splits.uk        | available | $6.49     | $6.49         | 70             | 9      | 6      | namesilo                                           |
-| coins.uk         | resell    | —         | —             | 56             | 41     | 5      | Dynadot, LLC t/a Dynadot                           |
+| stage.uk         | resell    | —         | —             | 68             | 43     | 5      | Mr DJ Wood t/a Unforgettable Domains Ltd           |
 | VirginiaBeach.uk | available | $9.98     | —             | 58             | 9      | 14     | namecheap                                          |
-| dave.uk          | resell    | —         | —             | 76             | 38     | 4      | Mr DJ Wood t/a Unforgettable Domains Ltd           |
+| coins.uk         | resell    | —         | —             | 56             | 41     | 5      | Dynadot, LLC t/a Dynadot                           |
 | midlifecrisis.uk | available | $9.98     | —             | 58             | 9      | 15     | namecheap                                          |
-| partners.uk      | resell    | —         | —             | 61             | 32     | 8      | Backorder Ltd                                      |
+| dave.uk          | resell    | —         | —             | 76             | 38     | 4      | Mr DJ Wood t/a Unforgettable Domains Ltd           |
 | vales.uk         | available | $6.49     | $6.49         | 56             | 9      | 5      | namesilo                                           |
-| ring.uk          | resell    | —         | —             | 60             | 32     | 4      | Mr DJ Wood t/a Unforgettable Domains Ltd           |
+| partners.uk      | resell    | —         | —             | 61             | 32     | 8      | Backorder Ltd                                      |
 | cometo.uk        | available | $9.98     | —             | 74             | 8      | 7      | namecheap                                          |
-| trends.uk        | resell    | —         | —             | 60             | 32     | 6      | Private Equity Systems Ltd t/a British Hosting     |
+| ring.uk          | resell    | —         | —             | 60             | 32     | 4      | Mr DJ Wood t/a Unforgettable Domains Ltd           |
 | changeup.uk      | available | $9.98     | —             | 70             | 8      | 9      | namecheap                                          |
-| popup.uk         | resell    | —         | —             | 84             | 29     | 6      | Heart Internet Limited t/a Heart Internet          |
+| trends.uk        | resell    | —         | —             | 60             | 32     | 6      | Private Equity Systems Ltd t/a British Hosting     |
 | grands.uk        | available | $6.49     | $6.49         | 66             | 8      | 6      | namesilo                                           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .UK One-Word Domains*. Version 2026-05-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .UK One-Word Domains*. Version 2026-05-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
