@@ -1,10 +1,10 @@
-# Available .UK One-Word Domains (6,209)
+# Available .UK One-Word Domains (6,211)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-6%2C209%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-6%2C211%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .uk one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **6,209 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **6,211 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 6,209 domains · **Median ask:** $9.31 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 6,211 domains · **Median ask:** $7.64 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/uk`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/uk`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .UK one-word domain ca
 
 ### Files
 
-- `uk.csv` — public CSV extract (1,000 rows)
-- `uk.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `uk.csv`, public CSV extract (1,000 rows)
+- `uk.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                          |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | -------------------------------------------------- |
-| CapeCod.uk       | available | $9.98     | —             | 78             | 22     | 8      | namecheap                                          |
-| ElSalvador.uk    | resell    | —         | —             | 72             | 98     | 11     | Dynadot, LLC t/a Dynadot                           |
-| changeover.uk    | premium   | —         | —             | 68             | 5      | 11     | —                                                  |
-| playin.uk        | available | $9.98     | —             | 80             | 10     | 7      | namecheap                                          |
-| online.uk        | resell    | —         | —             | 70             | 62     | 7      | CSL Computer Service Langenbach Gmbh t/a Joker.com |
-| steeltoeboot.uk  | premium   | —         | —             | 66             | 1      | 14     | —                                                  |
-| godeep.uk        | available | $9.98     | —             | 74             | 10     | 7      | namecheap                                          |
-| agents.uk        | resell    | —         | —             | 56             | 50     | 6      | Alan Drury                                         |
-| cheeseontoast.uk | premium   | —         | —             | 64             | 0      | 15     | —                                                  |
-| goby.uk          | available | $6.49     | $6.49         | 74             | 9      | 5      | namesilo                                           |
-| stage.uk         | resell    | —         | —             | 68             | 43     | 5      | Mr DJ Wood t/a Unforgettable Domains Ltd           |
-| splits.uk        | available | $6.49     | $6.49         | 70             | 9      | 6      | namesilo                                           |
-| coins.uk         | resell    | —         | —             | 56             | 41     | 5      | Dynadot, LLC t/a Dynadot                           |
-| VirginiaBeach.uk | available | $9.98     | —             | 58             | 9      | 14     | namecheap                                          |
-| dave.uk          | resell    | —         | —             | 76             | 38     | 4      | Mr DJ Wood t/a Unforgettable Domains Ltd           |
-| midlifecrisis.uk | available | $9.98     | —             | 58             | 9      | 15     | namecheap                                          |
-| ring.uk          | resell    | —         | —             | 60             | 32     | 4      | Mr DJ Wood t/a Unforgettable Domains Ltd           |
-| vales.uk         | available | $6.49     | $6.49         | 56             | 9      | 5      | namesilo                                           |
-| trends.uk        | resell    | —         | —             | 60             | 32     | 6      | Private Equity Systems Ltd t/a British Hosting     |
-| getittogether.uk | available | $9.98     | —             | 75             | 8      | 15     | namecheap                                          |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                     |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------- |
+| half.uk       | resell    | —         | —             | high           | low    | 4      | Stenning Limited t/a Client Domain Management |
+| just.uk       | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC.                             |
+| party.uk      | resell    | —         | —             | high           | low    | 5      | Alan Drury                                    |
+| try.uk        | resell    | —         | —             | high           | low    | 3      | Laughing Banana Enterprises Ltd               |
+| metal.uk      | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC.                             |
+| demo.uk       | resell    | —         | —             | high           | medium | 4      | Fasthosts Internet Ltd                        |
+| only.uk       | resell    | —         | —             | high           | medium | 4      | Richard Kandler t/a Nameplace                 |
+| stat.uk       | resell    | —         | —             | high           | low    | 4      | UK Internet Services Ltd                      |
+| global.uk     | resell    | —         | —             | high           | medium | 6      | Alan Drury                                    |
+| coach.uk      | resell    | —         | —             | high           | low    | 5      | Charles Scott t/a Domain Holdings UK          |
+| sign.uk       | resell    | —         | —             | high           | low    | 4      | Charles Scott t/a Domain Holdings UK          |
+| ahuh.uk       | available | $6.49     | $6.49         | high           | low    | 4      | namesilo                                      |
+| ant.uk        | resell    | —         | —             | high           | medium | 3      | Anthony Appleby                               |
+| adviseable.uk | premium   | $6.49     | $6.49         | medium         | low    | 10     | namesilo                                      |
+| rile.uk       | available | $9.98     | —             | medium         | low    | 4      | namecheap                                     |
+| azo.uk        | resell    | —         | —             | medium         | low    | 3      | Miss Ann-marie Morgan                         |
+| annoy.uk      | available | $9.98     | —             | high           | low    | 5      | namecheap                                     |
+| bus.uk        | resell    | —         | —             | high           | low    | 3      | Charles Scott t/a Domain Holdings UK          |
+| ought.uk      | available | $6.49     | $6.49         | high           | low    | 5      | namesilo                                      |
+| dry.uk        | resell    | —         | —             | high           | low    | 3      | Find Your Domain LLC t/a FYD                  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 6,209 live domains                         |
+| 1,000-row public sample | 6,211 live domains                         |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This set is entirely focused on one-word .uk domains. It includes very short strings, clear dictionary words, category terms, and more unusual words with brand potential. Examples such as psychic.uk, microphone.uk, basket.uk, soccer.uk, and partyhat.uk show the range: some names are direct and commercial, while others are broader or more stylized. When comparing these domains, weigh memorability, spelling clarity, and how tightly the word matches a market or use case. For buyers focused on resale, generic words can have broader buyer pools. For founders, the best picks are usually easy to say, easy to type, and specific enough to feel ownable.
+Each domain in this set carries the .uk extension and consists of a single English word, from half.uk and just.uk to beauty.uk and metal.uk. With 6,211 names in the pool and a median ask near $7.64, this list spans everyday nouns, verbs, and short marketing-ready words. Investors can scan for spread and renewal patterns across UK-specific extensions, while founders can shortlist a name that reads clean, spells easily, and ships fast under a recognizable country-code TLD.
 
-- Includes short, dictionary, generic, and brandable one-word .uk names
-- Median ask is 9.31 across this selection
-- Generic words may offer broader buyer interest
-- Prioritize clear spelling and strong commercial fit
+- 6,211 one-word .UK domains, from half.uk to beauty.uk
+- Median ask near $7.64 across the full selection
+- Single-word names: nouns, verbs, and everyday terms
+- Country-code .uk trust signal for UK-facing brands
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .UK One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .UK One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
