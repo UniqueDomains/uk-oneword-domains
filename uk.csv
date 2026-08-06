@@ -1,11 +1,11 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at
 213e0849-2305-466a-bd8a-e608669a5115,awfulness.uk,available,6.49,6.49,medium,low,9,namesilo,,
 582e9564-ac44-42a9-ad82-d9e1c4459bfd,astrocytic.uk,available,,,low,low,10,,,
-679d2cdf-2ef6-4b71-83cc-e453f2cc38b2,acinar.uk,available,,,medium,low,6,,,
-90b01f93-d2a4-44ab-8bad-a715601ed951,algerian.uk,available,,,high,low,8,,,
+679d2cdf-2ef6-4b71-83cc-e453f2cc38b2,acinar.uk,available,6.49,6.49,low,low,6,namesilo,,
+90b01f93-d2a4-44ab-8bad-a715601ed951,algerian.uk,available,6.49,6.49,low,low,8,namesilo,,
 853c7a8c-3982-4107-829d-f954b18db667,whatthehell.uk,available,6.49,6.49,low,low,13,namesilo,,
-92e362a6-b93e-4b9a-b4a3-35e6f951e0f1,aborigine.uk,available,,,medium,low,9,,,
-75f1383e-c7ab-4017-b935-223d28e091d0,centesimal.uk,available,,,medium,low,10,,,
+92e362a6-b93e-4b9a-b4a3-35e6f951e0f1,aborigine.uk,available,6.49,6.49,low,low,9,namesilo,,
+75f1383e-c7ab-4017-b935-223d28e091d0,centesimal.uk,available,6.49,6.49,low,low,10,namesilo,,
 3143048c-aa22-4e99-945d-9374a17dd9cc,setabout.uk,available,6.49,6.49,medium,low,9,namesilo,,
 4b652d57-8ee1-4b9e-a3b7-0eda700e5adc,grandniece.uk,available,9.98,,high,low,10,namecheap,,
 f91e3b32-3369-4303-b6bb-f265a6c89213,kindof.uk,available,9.98,,medium,low,7,namecheap,,
@@ -15,15 +15,15 @@ cdf17838-7f93-46f5-959d-2919407c979b,birds.uk,resell,,,high,low,5,"GoDaddy.com, 
 58fef1db-355d-438b-abc3-251395a89c2c,merely.uk,available,6.49,6.49,medium,low,6,namesilo,,
 85b7621b-0c7a-4b2a-a5f2-b87bf22111c1,ascendible.uk,available,,,medium,low,10,,,
 7f0ec39e-e768-4052-8f8f-ac8cf8b705d5,basophilic.uk,available,,,medium,low,10,,,
-434dc988-8679-4991-8ebf-9d22dda93a03,octonary.uk,available,,,medium,low,8,,,
-fec3af9f-8ddb-42dc-a5c9-6e4e5f6b0c49,twodozen.uk,available,,,medium,low,9,,,
+434dc988-8679-4991-8ebf-9d22dda93a03,octonary.uk,available,6.49,6.49,low,low,8,namesilo,,
+fec3af9f-8ddb-42dc-a5c9-6e4e5f6b0c49,twodozen.uk,available,6.49,6.49,low,low,9,namesilo,,
 1ad723e2-220c-44ea-a9f7-b15a3fa7911e,blanksheet.uk,available,,,high,low,11,,,
 3498289a-b6e2-46d1-8518-a262d7e1e2a6,standbehind.uk,available,6.49,6.49,low,low,12,namesilo,,
-8ea9e272-f998-45a9-a03a-b136e648795b,aflare.uk,available,,,medium,low,6,,,
+8ea9e272-f998-45a9-a03a-b136e648795b,aflare.uk,available,6.49,6.49,low,low,6,namesilo,,
 7ec84e20-1f88-4acb-aad2-0cde89084921,fallfor.uk,available,6.49,6.49,medium,low,8,namesilo,,
-db92202b-e236-4e51-8ba1-bf97debcd6ea,alaskan.uk,resell,,,high,low,7,UK Internet Services Ltd,27/12/2022 21:58,27/12/2025 21:58
+db92202b-e236-4e51-8ba1-bf97debcd6ea,alaskan.uk,resell,,,low,low,7,UK Internet Services Ltd,27/12/2022 21:58,27/12/2026 21:58
 85ce2cc2-d869-4e89-ae2a-a0a4d8c698ad,hunger.uk,resell,,,high,low,6,Mr Chris Vaughan,03/07/2019 13:00,03/07/2027 13:00
-94524253-618c-4b46-858a-bde89975e681,abient.uk,available,9.98,,medium,low,6,namecheap,,
+94524253-618c-4b46-858a-bde89975e681,abient.uk,available,6.49,6.49,low,low,6,namesilo,,
 731b2870-4d96-4b5a-88fb-89224242d22c,putonthemap.uk,available,6.49,6.49,low,low,14,namesilo,,
 9a422132-43b2-4cfe-94ec-7c77c6310c95,crying.uk,resell,,,high,low,6,Namecamp Limited t/a Yay.com,05/10/2025 17:48,05/10/2026 17:48
 31124421-44e4-435d-af8c-e946a2c5fd42,delicious.uk,resell,,,high,low,9,Islam Hegazy,02/07/2019 13:00,02/07/2026 13:00
@@ -34,43 +34,43 @@ c5cd70bb-ad22-4b2f-a88d-b4e8b71d8598,popquiz.uk,available,,,low,low,8,,,
 3531f62c-07fc-43fe-8e0c-d358e6515a84,spermcell.uk,available,6.49,6.49,medium,low,10,namesilo,,
 33b31768-7c37-47ca-8cd0-aa9bf4f42529,goodandproper.uk,available,6.49,6.49,medium,low,15,namesilo,,
 8f8887d6-006d-4f23-a95e-3a07f43dc658,turtlenecksweater.uk,available,6.49,6.49,high,low,18,namesilo,,
-d9c9101b-2b1c-4fab-a007-dd86fe02524a,eased.uk,available,,,medium,low,5,,,
+d9c9101b-2b1c-4fab-a007-dd86fe02524a,eased.uk,available,6.49,6.49,low,low,5,namesilo,,
 5ef78b89-fab3-4932-98fb-bfdfc80f6a0c,phony.uk,available,,,high,low,5,,,
 0b5ec420-4bd2-441c-9882-35273a78d438,esthetical.uk,available,6.49,6.49,high,low,10,namesilo,,
-83744b33-c6d0-4ef0-b559-64217632e05e,agonising.uk,available,,,high,low,9,,,
-60ae27dd-b845-46a7-b7bb-a95fdc659ab2,ambagious.uk,available,,,medium,low,9,,,
+83744b33-c6d0-4ef0-b559-64217632e05e,agonising.uk,available,6.49,6.49,low,low,9,namesilo,,
+60ae27dd-b845-46a7-b7bb-a95fdc659ab2,ambagious.uk,available,6.49,6.49,low,low,9,namesilo,,
 9aa2604f-61b3-4bb0-89ab-b9a17504b021,bantu.uk,resell,,,medium,low,5,Christopher Clark t/a Brand Selection - Domain Names For Sale,02/10/2014 12:18,02/10/2025 12:18
 406a4562-7076-48d2-844c-b06426b27c02,techweek.uk,available,6.49,6.49,medium,low,9,namesilo,,
 f8b76499-dbe9-48e2-80c5-f6d353fda48e,asserted.uk,available,,,medium,low,8,,,
 e614f657-b8a8-4818-9264-7d1f0ad4e913,demo.uk,resell,,,high,medium,4,Fasthosts Internet Ltd,08/10/2014 15:22,08/10/2026 15:22
 5d7aa6d5-ff64-4267-b065-a8ae2bec99de,party.uk,resell,,,high,low,5,Alan Drury,01/10/2015 21:53,01/10/2034 21:53
-8a3e212e-941b-43a8-bb28-f053d83d56ef,analogous.uk,available,,,medium,low,9,,,
-d20c8ae0-1dd4-492b-9ff8-40b5e79e8738,aleut.uk,available,,,high,low,5,,,
+8a3e212e-941b-43a8-bb28-f053d83d56ef,analogous.uk,available,6.49,6.49,low,low,9,namesilo,,
+d20c8ae0-1dd4-492b-9ff8-40b5e79e8738,aleut.uk,available,6.49,6.49,low,low,5,namesilo,,
 9719363c-c313-4e96-a6e0-f1f5f79091d8,teaplant.uk,available,6.49,6.49,high,low,9,namesilo,,
 ba7a6d89-c8d1-42c7-86fe-30bce5d19205,undeveloped.uk,resell,,,low,low,11,5 Digital Ltd,11/01/2026 22:41,11/01/2027 22:41
 11ec810a-36ab-4f7f-a89c-84dfc5bb357c,germicidal.uk,available,,,medium,low,10,,,
 18281bc0-bb35-4657-b8d0-37c0c410d11b,tyrannic.uk,available,,,medium,low,8,,,
 2c658ea1-57cc-48bd-8687-7ae9e620aad8,yellownotice.uk,available,6.49,6.49,medium,low,13,namesilo,,
 6bfc50fb-e58a-47fd-95c0-285f8bf6f78a,getofftheground.uk,available,6.49,6.49,high,low,18,namesilo,,
-b0efd90e-3e71-418a-ba63-30e3c17a9cba,adrenergic.uk,available,,,high,low,10,,,
-153f6606-4f7e-41f1-b0bd-e61cc3ee139d,arborous.uk,available,,,medium,low,8,,,
+b0efd90e-3e71-418a-ba63-30e3c17a9cba,adrenergic.uk,available,6.49,6.49,low,low,10,namesilo,,
+153f6606-4f7e-41f1-b0bd-e61cc3ee139d,arborous.uk,available,6.49,6.49,low,low,8,namesilo,,
 4ac91c30-a7d8-4f88-bb40-90181349918b,quitea.uk,available,6.49,6.49,medium,low,7,namesilo,,
 f4c1e6c3-9fcb-4988-b605-1428d8981259,meaning.uk,resell,,,high,low,7,Laughing Banana Enterprises Ltd,29/01/2020 17:28,29/01/2027 17:28
-5498a742-a3b0-47ab-95da-9022d126b68f,lxxi.uk,available,,,medium,low,4,,,
+5498a742-a3b0-47ab-95da-9022d126b68f,lxxi.uk,available,6.49,6.49,low,low,4,namesilo,,
 8d35af52-a693-4e49-aba2-6052e0c439c5,cometomind.uk,available,9.98,,high,low,12,namecheap,,
 00e651f2-4142-475a-a363-dfb5471b6842,sexhair.uk,available,9.98,,low,low,8,namecheap,,
 0954d88d-4fa3-49a2-b572-26e0b961a5c1,oddnumbered.uk,available,6.49,6.49,low,low,12,namesilo,,
 860a6da0-c1bd-44b5-a6ca-5f4efcbf1b8c,arthralgic.uk,available,,,medium,low,10,,,
 c294e732-d9d8-4709-bfb3-d8ca6b736b71,reporting.uk,resell,,,medium,low,9,James Tuplin,17/01/2020 19:42,17/01/2027 19:42
-7dd32327-59a5-41c6-9ea0-018c11885efc,aborticide.uk,available,,,medium,low,10,,,
+7dd32327-59a5-41c6-9ea0-018c11885efc,aborticide.uk,available,6.49,6.49,low,low,10,namesilo,,
 e5b1383f-fe50-4bf4-a3b7-e75198323b37,pungent.uk,available,,,medium,low,7,,,
 6c16cb7a-e0ad-4652-aece-b726d76f6480,potterabout.uk,available,9.98,,low,low,12,namecheap,,
 5e88ffba-6382-41ec-bf1a-f3080ad81fef,costs.uk,resell,,,high,low,5,Laughing Banana Enterprises Ltd,10/09/2020 17:44,10/09/2026 17:44
 69e12f5f-2f8a-4e4c-b4cd-0a6ce90cc378,jetace.uk,available,6.49,6.49,medium,low,7,namesilo,,
-122894e2-76fd-4ce0-8dc8-27f1ed4f30cd,agraphic.uk,available,,,medium,low,8,,,
+122894e2-76fd-4ce0-8dc8-27f1ed4f30cd,agraphic.uk,available,6.98,9.98,low,low,8,namecheap,,
 5500c393-fc3f-4a16-9fba-c46dfedad5cb,ascetic.uk,resell,,,high,low,7,"Namecheap, Inc.",01/10/2020 10:24,01/10/2025 10:24
 b66a7394-9e03-4527-b50a-a334292c9425,hungry.uk,resell,,,high,low,6,Mr Chris Vaughan,03/07/2019 13:00,03/07/2027 13:00
-5569f194-d8aa-465c-9498-1ce117bc784c,arboreous.uk,available,,,medium,low,9,,,
+5569f194-d8aa-465c-9498-1ce117bc784c,arboreous.uk,available,6.49,6.49,low,low,9,namesilo,,
 52958596-775d-422c-99e1-7b99c1b44e2f,sentence.uk,resell,,,high,low,8,Premkumar Veerabadran t/a sitekart,03/05/2024 00:05,03/05/2027 00:05
 0e4b6a26-f11d-4ecd-84fc-72ffb4fc4634,giveitarest.uk,available,6.49,6.49,medium,low,14,namesilo,,
 60cbdde0-75ae-4a12-b15c-fa454df6e6cd,clothes.uk,resell,,,high,low,7,Charles Scott t/a Domain Holdings UK,28/02/2019 10:21,29/02/2028 10:21
@@ -81,38 +81,38 @@ ee7d621a-fc9a-4454-a716-e06aecaf898b,barbellate.uk,available,,,medium,low,10,,,
 e38d6d54-057a-4a92-828d-0e4479e205bf,Phil.uk,resell,,,high,medium,4,Andrew Bell,24/11/2014 13:35,24/11/2026 13:35
 81d4f8ac-fe1b-4ad1-8f8e-4f5092e69515,givesomeoneahand.uk,available,6.49,6.49,high,low,19,namesilo,,
 4445cf67-6ecb-454b-97a3-f32a9dc64a95,withregardsto.uk,available,9.98,,medium,low,15,namecheap,,
-2c1f891a-72de-4e2a-8630-e4895f9089c3,adactylous.uk,available,,,medium,low,10,,,
-d066ad9a-b5a1-42f8-98dd-5d5d0c674265,ageold.uk,available,,,medium,low,7,,,
-10bd9191-d136-4811-a283-b839e956233f,aground.uk,available,,,medium,low,7,,,
+2c1f891a-72de-4e2a-8630-e4895f9089c3,adactylous.uk,available,6.49,6.49,low,low,10,namesilo,,
+d066ad9a-b5a1-42f8-98dd-5d5d0c674265,ageold.uk,available,6.49,6.49,low,low,7,namesilo,,
+10bd9191-d136-4811-a283-b839e956233f,aground.uk,available,6.49,6.49,low,low,7,namesilo,,
 25271dc1-0749-4c7b-bbcf-0b87ae49749d,comparatively.uk,available,6.49,6.49,medium,low,13,namesilo,,
 af30a6d3-15c8-4529-9d61-f5a5317ff812,planned.uk,resell,,,high,low,7,Lively Ltd,29/10/2017 21:12,29/10/2026 21:12
 dcd85573-19d4-4098-b66b-9f7d0c1f7972,turnout.uk,available,9.98,,medium,low,8,namecheap,,
-88572f77-0366-44a8-a671-f608864da9eb,tailless.uk,available,,,medium,low,8,,,
+88572f77-0366-44a8-a671-f608864da9eb,tailless.uk,available,6.49,6.49,low,low,8,namesilo,,
 ebbfaa50-ac6a-4cf6-a142-ca389df17769,finalyearproject.uk,available,,,high,low,18,,,
 fb905453-a45a-40d8-89f8-c40bdeb1ab65,giveout.uk,available,6.49,6.49,medium,low,8,namesilo,,
 2d6e9ed4-3422-4bba-bbb3-01993a326406,adherent.uk,available,,,high,low,8,,,
-e3adfc5b-8559-4a8c-acab-2d2664030fc2,aquiferous.uk,available,,,medium,low,10,,,
-5bcf41f3-2af6-4164-b423-cb1d98e43528,seedy.uk,available,,,medium,low,5,,,
+e3adfc5b-8559-4a8c-acab-2d2664030fc2,aquiferous.uk,available,6.49,6.49,low,low,10,namesilo,,
+5bcf41f3-2af6-4164-b423-cb1d98e43528,seedy.uk,available,6.49,6.49,low,low,5,namesilo,,
 f3e29ccf-6d5f-4686-adba-e5d100b827c0,ifthat.uk,available,6.49,6.49,medium,low,7,namesilo,,
 d14a45fb-2f45-43cf-9eaa-3dffb5827391,battleful.uk,available,,,medium,low,9,,,
-47b8b0af-4e42-4fec-a1e9-b755e3b3e673,amidship.uk,available,,,low,low,8,,,
+47b8b0af-4e42-4fec-a1e9-b755e3b3e673,amidship.uk,available,6.49,6.49,low,low,8,namesilo,,
 4c9f5b86-2853-4be1-bdc6-d3c9a219371c,chiefly.uk,resell,,,high,low,7,ANY-Web Limited,08/01/2017 22:00,08/01/2027 22:00
 a7bd5e24-fc76-4288-9a76-f8d80378304a,asthedayislong.uk,available,9.98,,medium,low,18,namecheap,,
-ec87fc2f-ad13-413e-9312-b344ebab5708,virulent.uk,available,,,medium,low,8,,,
-fc2ad5ea-3524-4cba-8412-7f3233a2e1a3,someother.uk,available,,,medium,low,10,,,
+ec87fc2f-ad13-413e-9312-b344ebab5708,virulent.uk,available,6.49,6.49,low,low,8,namesilo,,
+fc2ad5ea-3524-4cba-8412-7f3233a2e1a3,someother.uk,available,6.49,6.49,low,low,10,namesilo,,
 b84e4c41-3dc6-4619-bd30-c829cb6e76e7,giveortake.uk,available,6.49,6.49,medium,low,12,namesilo,,
 765729b5-c3a3-4052-a604-966d7551b2f5,glad.uk,resell,,,high,low,4,Fasthosts Internet Ltd,03/07/2019 13:00,03/07/2032 13:00
 a1afe66e-2b7b-40ba-80bd-8d8e0f005897,Snapchat.uk,resell,,,high,low,8,"GoDaddy.com, LLC.",27/04/2016 22:12,27/04/2027 22:12
-98139eb9-3b38-49ce-97e3-461ede5e8a8e,allocable.uk,available,,,medium,low,9,,,
+98139eb9-3b38-49ce-97e3-461ede5e8a8e,allocable.uk,available,6.49,6.49,low,low,9,namesilo,,
 14beb36c-a483-48a4-ae40-76fb16a94a34,bus.uk,resell,,,high,low,3,Charles Scott t/a Domain Holdings UK,28/02/2019 10:02,29/02/2028 10:02
 90e5f732-5ede-4435-a1da-9bc5e354e57e,makethefirstmove.uk,available,6.49,6.49,high,low,19,namesilo,,
-a2f82e41-a8d5-44a5-9b85-4bc8465baaba,achromic.uk,available,,,medium,low,8,,,
+a2f82e41-a8d5-44a5-9b85-4bc8465baaba,achromic.uk,available,6.49,6.49,low,low,8,namesilo,,
 c9be17e8-75ec-46d1-8df0-f2f07aa02d92,proved.uk,available,6.49,6.49,high,low,6,namesilo,,
 f9f45103-aad4-479f-918f-d0401a9deb45,snake.uk,resell,,,medium,low,5,"Dynadot, LLC t/a Dynadot",17/06/2019 11:09,17/06/2026 11:09
 932cf868-3da5-43ec-b51a-3397e11aadd4,noquarter.uk,available,6.49,6.49,low,low,10,namesilo,,
 6429345a-28b8-499d-909b-844c5e769cb0,dormant.uk,resell,,,high,low,7,Graeme Wingate,05/02/2022 18:44,05/02/2026 18:44
 1eef914d-65d9-472a-8a30-0e9271446f57,putup.uk,available,9.98,,high,low,6,namecheap,,
-20cc4a4a-2446-42f6-a84f-feb118a3f246,algoid.uk,available,,,medium,low,6,,,
+20cc4a4a-2446-42f6-a84f-feb118a3f246,algoid.uk,available,6.49,6.49,low,low,6,namesilo,,
 aadf35e6-9515-41eb-83b5-062f5a328b1e,tothepowerof.uk,available,6.49,6.49,medium,low,15,namesilo,,
 0f89badf-276c-4f9e-b8db-0fcb49069326,Frenchvanilla.uk,available,9.98,,medium,low,14,namecheap,,
 109a315d-474e-4e33-8b2e-6fa8d0f2b0de,respects.uk,available,6.49,6.49,high,low,8,namesilo,,
@@ -126,13 +126,13 @@ ee89931e-cfe5-4f07-a9fe-f6c87210b3d8,asterisked.uk,available,,,medium,low,10,,,
 328e99c6-9273-40db-a0c4-264485a2d0e9,conclusion.uk,resell,,,high,low,10,Find Your Domain LLC t/a FYD,30/10/2017 09:20,30/10/2027 08:20
 577b6e1a-e1ec-46b1-b418-6234656264f4,oneman.uk,resell,,,low,low,7,Premkumar Veerabadran t/a sitekart,07/10/2023 13:04,07/10/2026 13:04
 84f983ff-d99d-4bcd-b5d7-36aededf75a0,ourboy.uk,available,9.98,,low,low,7,namecheap,,
-d40fb849-1c95-4148-b066-da83835b79a7,hopedfor.uk,available,,,medium,low,9,,,
+d40fb849-1c95-4148-b066-da83835b79a7,hopedfor.uk,available,6.49,6.49,low,low,9,namesilo,,
 fc252f3e-a88a-41a6-acf2-20d67d45c706,hitup.uk,available,6.49,6.49,high,low,6,namesilo,,
 cb5a8fa9-7965-4550-8da9-09e2bc182fa6,receipt.uk,resell,,,high,low,7,Backorder Ltd,04/07/2019 13:00,04/07/2026 13:00
 ed167c6b-efe4-4859-af0e-0984452397f4,metal.uk,resell,,,high,low,5,"GoDaddy.com, LLC.",24/06/2019 01:26,24/06/2028 01:26
-a1d2feb6-0038-4f3c-943b-abc9351b51f4,amyloidal.uk,available,,,medium,low,9,,,
+a1d2feb6-0038-4f3c-943b-abc9351b51f4,amyloidal.uk,available,6.49,6.49,low,low,9,namesilo,,
 b8f8a0b1-20d2-408d-ae3f-14b3b5f20749,ColonelSanders.uk,available,6.49,6.49,high,low,15,namesilo,,
-f22a8b25-97e1-458f-b7b7-269ad8dacde1,algonquian.uk,available,,,high,low,10,,,
+f22a8b25-97e1-458f-b7b7-269ad8dacde1,algonquian.uk,available,6.49,6.49,low,low,10,namesilo,,
 a5ab64b4-7fa4-4421-adb0-7d6f3595e996,keepon.uk,available,6.49,6.49,high,low,7,namesilo,,
 258fca94-3744-4a60-abb4-de6664021abe,marooned.uk,available,6.49,6.49,medium,low,8,namesilo,,
 9d4c638c-7e6f-447d-bb06-f34f5fee154f,manytime.uk,available,9.98,,medium,low,9,namecheap,,
@@ -150,36 +150,36 @@ cf0e63c3-0e01-4562-b3c0-b479ca3159c8,holdopen.uk,available,6.49,6.49,high,low,9,
 2883ecd5-9960-4ee2-89ec-c141e5f8a920,asoneman.uk,available,6.49,6.49,medium,low,10,namesilo,,
 b2f162ab-3f48-4b61-8c62-c30df543fb3b,mothafucker.uk,available,6.49,6.49,medium,low,11,namesilo,,
 6f47062a-7eb5-4c61-8f19-40bae3ad7b81,formerly.uk,available,9.98,,medium,low,8,namecheap,,
-5a053b80-b09c-4504-b021-930e4db5b4cb,diverted.uk,available,,,medium,low,8,,,
+5a053b80-b09c-4504-b021-930e4db5b4cb,diverted.uk,available,6.49,6.49,low,low,8,namesilo,,
 eaa43958-fd06-4617-80a7-bd60ea35a020,camouflage.uk,resell,,,high,low,10,Namecamp Limited t/a Yay.com,29/03/2019 15:41,29/03/2027 14:41
 73f88f64-1321-4b51-8df6-7251838af9fd,anarmandaleg.uk,available,6.49,6.49,medium,low,16,namesilo,,
 5b180fa4-3dfa-4338-bb86-7c5a9070e19d,delicate.uk,resell,,,high,low,8,UK Internet Services Ltd,02/10/2021 12:42,02/10/2026 12:42
 26dad5da-d385-456f-9ff6-8a1eb2327223,commonmarket.uk,available,6.49,6.49,medium,low,13,namesilo,,
 74199482-6c9b-40d6-bda3-58d3e807fe89,forum.uk,resell,,,high,low,5,"Dynadot, LLC t/a Dynadot",02/07/2019 13:00,02/07/2028 13:00
 e5a24acd-81c5-4e2c-b3fe-d2da5a27f7ec,zestful.uk,available,,,medium,low,7,,,
-a26309ab-9ddb-4f47-8664-83ca035ad945,stricken.uk,available,,,medium,low,8,,,
+a26309ab-9ddb-4f47-8664-83ca035ad945,stricken.uk,available,6.49,6.49,low,low,8,namesilo,,
 f2c18a05-41e1-4111-9f5f-6a65a2c1bf33,airpressure.uk,available,6.49,6.49,medium,low,12,namesilo,,
-e2c5014a-eff5-4a0a-9b93-fb57355588c1,addable.uk,available,,,high,low,7,,,
+e2c5014a-eff5-4a0a-9b93-fb57355588c1,addable.uk,available,6.49,6.49,low,low,7,namesilo,,
 74a07562-2cd0-4a77-993b-6a26f6a2686f,exhaust.uk,resell,,,high,low,7,Charles Scott t/a Domain Holdings UK,28/02/2019 10:29,29/02/2028 10:29
 be22b7a5-56fd-4f59-b800-efa6c21d3ea0,ant.uk,resell,,,high,medium,3,Anthony Appleby,10/02/2017 04:13,10/02/2034 04:13
 fdbee6a1-5006-4062-8133-70dd4caf7432,havethefirstidea.uk,available,6.49,6.49,medium,low,19,namesilo,,
 459c0928-b9f8-4028-bdb7-5051a11d217f,quitean.uk,available,6.49,6.49,medium,low,8,namesilo,,
 06acea3c-6718-466d-b062-a3b43d36da4e,atthesightof.uk,available,9.98,,medium,low,15,namecheap,,
 e0c6ae42-791d-409f-bad3-2fb74b442cc2,wakening.uk,available,6.49,6.49,high,low,8,namesilo,,
-ab4d4cdb-5038-4fb2-8723-568b451c7115,lxxv.uk,available,,,medium,low,4,,,
+ab4d4cdb-5038-4fb2-8723-568b451c7115,lxxv.uk,available,6.98,9.98,low,low,4,namecheap,,
 a2449566-0844-46c7-a2f8-82b3b76d9128,beborn.uk,available,6.49,6.49,medium,low,7,namesilo,,
 dfdc3304-9d81-4025-b000-f9ab730ff15a,workings.uk,resell,,,high,low,8,Astutium Ltd,31/03/2019 20:15,31/03/2027 20:15
-c400c527-c270-4d43-89cc-f7e38cd70be4,pontifical.uk,available,,,medium,low,10,,,
+c400c527-c270-4d43-89cc-f7e38cd70be4,pontifical.uk,available,6.49,6.49,low,low,10,namesilo,,
 581094de-e4a9-424d-8cc9-c1ee94505f16,armoured.uk,resell,,,medium,low,8,Catch22 Media Limited,28/03/2019 21:55,28/03/2026 21:55
 cdbb2ec1-3649-4ae7-aa9f-4f4c97dc0959,abridged.uk,available,,,medium,low,8,,,
-8aedb17a-b8d3-4e88-aa88-12f5de8a1e37,fortieth.uk,available,,,medium,low,8,,,
-3b00ff2f-6055-46c2-bd28-efad731c3156,anorthitic.uk,available,,,medium,low,10,,,
-55922fa4-1dda-403e-9edb-a458c28b6ee1,apocryphal.uk,available,,,medium,low,10,,,
+8aedb17a-b8d3-4e88-aa88-12f5de8a1e37,fortieth.uk,available,6.49,6.49,low,low,8,namesilo,,
+3b00ff2f-6055-46c2-bd28-efad731c3156,anorthitic.uk,available,6.49,6.49,low,low,10,namesilo,,
+55922fa4-1dda-403e-9edb-a458c28b6ee1,apocryphal.uk,available,6.49,6.49,low,low,10,namesilo,,
 6b297d2e-3f2b-4562-9083-0e2b7eed48ea,baseborn.uk,available,,,low,low,8,,,
 b2c65f55-d437-40a9-af2d-e0521b1e2e37,dawn.uk,resell,,,high,low,4,"GoDaddy.com, LLC.",02/07/2019 13:00,02/07/2026 13:00
 587c11b7-eebc-412a-9008-81d9711c982f,Igotmine.uk,available,6.49,6.49,medium,low,10,namesilo,,
 89d2fa18-7d21-4cdf-9772-9d3d810decc7,onschedule.uk,available,6.49,6.49,high,low,11,namesilo,,
-8fe55bf9-4bbb-43dd-89fb-9f8889fb65dd,achaean.uk,available,,,medium,low,7,,,
+8fe55bf9-4bbb-43dd-89fb-9f8889fb65dd,achaean.uk,available,6.49,6.49,low,low,7,namesilo,,
 f0674be9-f4ae-434e-80c7-6e6030a1f417,playbyear.uk,available,9.98,,low,low,11,namecheap,,
 6d20ef4e-c1d0-464c-9e7d-90365fc23d84,satisfied.uk,resell,,,high,low,9,123-Reg Limited t/a 123-reg,21/06/2019 18:08,21/06/2026 18:08
 19041127-ca09-48ab-bbbc-73a0f04ef885,retardant.uk,available,6.49,6.49,high,low,9,namesilo,,
@@ -209,7 +209,7 @@ bcf602d7-8202-4eb3-8e2b-2f6f766f0115,dry.uk,resell,,,high,low,3,Find Your Domain
 47409a0e-8f16-4153-8dd6-ca0d828ed918,fixitagainTony.uk,available,6.49,6.49,medium,low,17,namesilo,,
 03733580-9488-4309-a13b-01aa0c508d71,buttin.uk,available,6.49,6.49,high,low,7,namesilo,,
 62dddad6-6566-462e-85ee-a6513cf6c150,corrective.uk,available,6.49,6.49,high,low,10,namesilo,,
-0f1cda34-39bd-47c5-90f1-1acb28d2c85e,extempore.uk,available,9.48,,high,low,9,namecheap,,
+0f1cda34-39bd-47c5-90f1-1acb28d2c85e,extempore.uk,available,6.98,9.98,low,low,9,namecheap,,
 caf8f3e5-4cb2-4fdf-8fd7-b9de443314b1,ashblonde.uk,available,,,high,low,10,,,
 179d7ea0-0da2-4619-8bb4-9600a2ad03d5,smartphone.uk,resell,,,high,low,10,"Dynadot, LLC t/a Dynadot",04/07/2019 13:00,04/07/2034 13:00
 8e83c677-a6b2-4a5a-8dd9-04ca7f8d1010,atworst.uk,available,6.49,6.49,medium,low,8,namesilo,,
@@ -221,22 +221,22 @@ c1c328ae-25d5-4f4e-a8b3-85892039940c,rulesisrules.uk,available,9.98,,medium,low,
 6f62b4f8-aa5c-4960-aa8e-a830e44a36c3,dive.uk,resell,,,high,low,4,Really Useful Domains Limited t/a Really Useful Domains,05/07/2014 07:56,05/07/2026 07:56
 d05786c2-0901-4021-980a-ff9fb5b976ad,commonkiwi.uk,available,9.98,,medium,low,11,namecheap,,
 c392d42d-ddd2-4abb-8df5-9c390933434f,asfaras.uk,available,9.98,,medium,low,9,namecheap,,
-ff0ce1c1-e637-4b4f-84fb-f54f572c3549,grotesque.uk,available,,,medium,low,9,,,
-a23defb2-97d2-48d9-b443-e4cd12d02f86,adipose.uk,available,,,high,low,7,,,
+ff0ce1c1-e637-4b4f-84fb-f54f572c3549,grotesque.uk,available,6.49,6.49,low,low,9,namesilo,,
+a23defb2-97d2-48d9-b443-e4cd12d02f86,adipose.uk,available,6.49,6.49,low,low,7,namesilo,,
 f56b71df-0014-4abf-a551-fe2c1a845baf,assumptive.uk,available,,,medium,low,10,,,
-3b6b55bc-4dc7-4903-b04f-3f61d46ff419,philistine.uk,available,,,medium,low,10,,,
-72947020-c549-47cb-9f1f-493af45082f4,apraxic.uk,available,,,medium,low,7,,,
+3b6b55bc-4dc7-4903-b04f-3f61d46ff419,philistine.uk,available,6.49,6.49,low,low,10,namesilo,,
+72947020-c549-47cb-9f1f-493af45082f4,apraxic.uk,available,6.49,6.49,low,low,7,namesilo,,
 5ad3676b-e42c-49ef-b9c3-a107919d1f8d,nearpost.uk,available,6.49,6.49,medium,low,9,namesilo,,
 e64931fa-f995-4c96-b48f-c1b9f07d20d8,aboutship.uk,available,9.98,,high,low,10,namecheap,,
 79fe5630-9fa7-4024-a4fc-9a294633734b,beam.uk,resell,,,medium,medium,4,Behrendt Professional Corporation t/a Amazing Domains,01/07/2019 13:00,01/07/2026 13:00
 07a4280a-804f-43e3-a084-aaa4e1bfebda,try.uk,resell,,,high,low,3,Laughing Banana Enterprises Ltd,17/01/2022 17:43,17/01/2027 17:43
 eaf160b7-11ee-452c-8a2e-da1a9213101a,global.uk,resell,,,high,medium,6,Alan Drury,01/10/2015 21:50,01/10/2026 21:50
 7f1eeb5f-4dfb-441b-8b23-e89405a803d0,twentieth.uk,resell,,,high,low,9,Falbros Ltd,26/03/2019 16:38,26/03/2027 16:38
-2a81876f-f608-429e-90c9-9ae562f86019,eolotropic.uk,available,,,medium,low,10,,,
+2a81876f-f608-429e-90c9-9ae562f86019,eolotropic.uk,available,6.49,6.49,low,low,10,namesilo,,
 cbcdd116-17c9-4397-8f65-2a79636161db,silverpolish.uk,available,6.49,6.49,low,low,13,namesilo,,
 1dc17a93-669d-4137-810a-0086c7d7c17d,commoncold.uk,available,6.49,6.49,medium,low,11,namesilo,,
 74a6493f-124b-4968-b19d-c7243e57adfd,knowsomeone.uk,available,6.49,6.49,medium,low,12,namesilo,,
-65726025-b1d1-4dd8-8cbf-0c237881b66c,pitted.uk,available,,,medium,low,6,,,
+65726025-b1d1-4dd8-8cbf-0c237881b66c,pitted.uk,available,6.49,6.49,low,low,6,namesilo,,
 feb234fa-82ec-4c09-b4dd-f037a919715c,pointout.uk,available,6.49,6.49,low,low,9,namesilo,,
 fd5e88f8-1232-4df5-baac-e8e5d2f71495,baldfaced.uk,available,,,low,low,10,,,
 2403ade0-218f-4c83-9f83-52d5c993a74e,cleansing.uk,resell,,,high,low,9,Mr C Davies t/a parth.cymru,05/11/2021 12:01,05/11/2025 12:01
@@ -246,8 +246,9 @@ f74213c6-7657-4f95-bb52-59a50b015dff,satfat.uk,available,9.98,,medium,low,7,name
 8a5990de-77d8-451e-b25a-bf09a7db8552,assoonas.uk,available,6.49,6.49,medium,low,10,namesilo,,
 0c7bf959-57f0-4982-8446-e42b897a308f,misbegot.uk,available,,,low,low,8,,,
 470bde18-7271-4d6e-80a2-3426041b93f6,arrhythmic.uk,available,,,medium,low,10,,,
-85655e68-1c94-4355-a2a3-d58fcbd29ffb,broached.uk,available,,,medium,low,8,,,
+85655e68-1c94-4355-a2a3-d58fcbd29ffb,broached.uk,available,6.49,6.49,low,low,8,namesilo,,
 5abe0d73-e963-49c0-90e6-2e3f0b8f0865,ordinarily.uk,resell,,,medium,low,10,ANY-Web Limited,08/01/2017 22:01,08/01/2027 22:01
+156f54c3-c264-47fa-ba58-71be55b9c46f,formless.uk,available,6.49,6.49,low,low,8,namesilo,,
 25fee95b-f088-4073-a111-d6ac9a29153a,nowthat.uk,available,6.49,6.49,low,low,8,namesilo,,
 464e72c1-50db-495d-9018-fcff9ccfa72a,talkedabout.uk,available,9.98,,medium,low,12,namecheap,,
 bb48e718-eb78-4445-8716-d0e0b32c0437,want.uk,resell,,,high,low,4,Heart Internet Limited t/a Heart Internet,03/03/2016 20:29,03/03/2028 20:29
@@ -255,15 +256,15 @@ a9c4f068-c8fa-4041-bfeb-07f8f5295fe5,stayloose.uk,available,9.98,,low,low,10,nam
 c9c4b34e-857f-4dd6-a900-81dea5ebbddb,relationship.uk,resell,,,high,low,12,Backorder Ltd,04/07/2019 13:00,04/07/2026 13:00
 99393e50-da04-4ec7-8cbf-0f66a2d0476c,timeworn.uk,available,,,low,low,8,,,
 783cb211-245d-4901-8931-7b985d923cab,backed.uk,resell,,,medium,low,6,William Zurawel,16/12/2023 22:44,16/12/2025 22:44
-69bc05cd-7e83-4491-ac02-ce1baae2aac8,roiled.uk,available,,,medium,low,6,,,
+69bc05cd-7e83-4491-ac02-ce1baae2aac8,roiled.uk,available,6.49,6.49,low,low,6,namesilo,,
 95035512-7e34-4c22-8609-ca116c0d1bde,flower.uk,resell,,,high,low,6,Freshginger Ltd,01/10/2015 06:17,01/10/2027 06:17
 17529e68-aef9-41d5-979c-aa3a46eddd0b,rearwards.uk,available,,,medium,low,9,,,
 aa960961-8520-497d-866f-7cef92d6be70,boom.uk,resell,,,high,medium,4,Richard Kandler t/a Nameplace,01/07/2019 13:00,01/07/2027 13:00
 8f3dcb62-31bd-458d-a541-a3b6f87a8e79,dead.uk,resell,,,high,low,4,RegistryGate GmbH,02/07/2019 13:00,02/07/2026 13:00
 4055b471-46f1-4c6b-a766-49ae6955eb62,billgates.uk,available,6.49,6.49,high,low,10,namesilo,,
-5a89754b-24f0-4cbd-9b68-0d0a49f99b9b,fourteenth.uk,available,,,high,low,10,,,
+5a89754b-24f0-4cbd-9b68-0d0a49f99b9b,fourteenth.uk,available,6.49,6.49,low,low,10,namesilo,,
 d30f9ecf-bf3f-4457-b4d1-a38187bed635,attenuated.uk,available,,,low,low,10,,,
-90b38f53-96ce-4637-b5f2-4d41d7a9d38e,porticoed.uk,available,,,medium,low,9,,,
+90b38f53-96ce-4637-b5f2-4d41d7a9d38e,porticoed.uk,available,6.49,6.49,low,low,9,namesilo,,
 7de95825-c506-4375-93bd-d312b18dfb01,finalize.uk,available,6.49,6.49,high,low,8,namesilo,,
 a045c826-ed2d-4147-b31e-f77918865730,calendarclock.uk,available,6.49,6.49,high,low,14,namesilo,,
 a15c657f-4117-4da4-9447-b5296cc9a51a,justabout.uk,available,6.49,6.49,medium,low,10,namesilo,,
@@ -271,12 +272,12 @@ db78f33c-4ff7-4693-a3fb-9f602a3f607f,onec.uk,available,,,medium,low,5,,,
 414c2789-66cb-4050-b686-a7a0d754d47f,rearend.uk,available,,,medium,low,8,,,
 73ebc040-9866-4692-a995-00c9031d7f38,getthepoint.uk,available,6.49,6.49,high,low,13,namesilo,,
 aa73f497-b87a-4fc2-9460-aababdbb0327,basilican.uk,available,,,medium,low,9,,,
-62dd4b99-bdab-4be1-b840-021d2166ea48,resultant.uk,available,,,high,low,9,,,
-14bfa4b2-696a-4776-8c0b-c433c6eb8b0b,starchlike.uk,available,,,medium,low,10,,,
+62dd4b99-bdab-4be1-b840-021d2166ea48,resultant.uk,available,6.49,6.49,low,low,9,namesilo,,
+14bfa4b2-696a-4776-8c0b-c433c6eb8b0b,starchlike.uk,available,6.49,6.49,low,low,10,namesilo,,
 deb7a944-661e-4ac7-a989-8778fbd0960d,inquestion.uk,available,6.49,6.49,medium,low,11,namesilo,,
 ae5b7768-1351-4683-bd73-b33d22bd8cf7,almond.uk,resell,,,medium,low,6,Garner Media Ltd,01/07/2019 13:00,01/07/2026 13:00
 a3dcf351-522c-435f-99b8-1452a2761750,riveravon.uk,available,6.49,6.49,high,low,10,namesilo,,
-7c91b0bf-f3f6-410d-bbd6-00e14ae15b26,amphoric.uk,available,,,medium,low,8,,,
+7c91b0bf-f3f6-410d-bbd6-00e14ae15b26,amphoric.uk,available,6.49,6.49,low,low,8,namesilo,,
 b50fd77f-7ac7-4910-9f54-0cdb19f164b4,spirit.uk,resell,,,high,low,6,Find Your Domain LLC t/a FYD,04/07/2019 13:00,04/07/2027 13:00
 70205878-7673-47ad-a4ff-f7e45c9dcbf6,nonewsisgoodnews.uk,available,6.49,6.49,medium,low,20,namesilo,,
 797a62ef-1a94-49e4-8d30-368450bb54ea,inspiteof.uk,available,6.49,6.49,medium,low,11,namesilo,,
@@ -285,10 +286,10 @@ b50fd77f-7ac7-4910-9f54-0cdb19f164b4,spirit.uk,resell,,,high,low,6,Find Your Dom
 7227e0e5-0884-46a1-94db-5419b8b91e89,neckdeep.uk,available,9.98,,low,low,9,namecheap,,
 37c5c6f6-4126-490d-b4f2-142ee1c2d8b9,complacently.uk,available,6.49,6.49,medium,low,12,namesilo,,
 67146a5c-4838-4ae3-b370-1f3812092512,pretty.uk,resell,,,high,low,6,Ionos SE,26/09/2016 17:53,26/09/2026 17:53
-675db67d-5dc0-4207-a1d2-31790ed9bd1b,xliii.uk,available,,,medium,low,5,,,
-aeda5fdd-32d6-4894-bf26-4a7f3d6cd795,consequent.uk,available,,,high,low,10,,,
+675db67d-5dc0-4207-a1d2-31790ed9bd1b,xliii.uk,available,6.49,6.49,low,low,5,namesilo,,
+aeda5fdd-32d6-4894-bf26-4a7f3d6cd795,consequent.uk,available,6.49,6.49,low,low,10,namesilo,,
 4ea8251b-f2c7-4813-a694-80ea3cd07f48,breakinto.uk,available,6.49,6.49,medium,low,10,namesilo,,
-916651e7-55d7-4ef2-84d0-55ba7ec6a52d,spinous.uk,available,,,medium,low,7,,,
+916651e7-55d7-4ef2-84d0-55ba7ec6a52d,spinous.uk,available,6.49,6.49,low,low,7,namesilo,,
 1d30e0c9-5eae-405f-9bf6-6600aa395d79,gobythenameof.uk,available,9.98,,medium,low,17,namecheap,,
 c246f6d6-1b33-4bcc-baad-f85a99d53618,ten.uk,resell,,,high,low,3,123-Reg Limited t/a 123-reg,06/04/2015 00:31,06/04/2029 00:31
 5f4cd247-ffd8-4fb6-89b0-73137a6ce4b5,inplace.uk,resell,,,medium,low,8,James Tuplin,05/08/2016 13:21,05/08/2026 13:21
@@ -298,17 +299,17 @@ d157314d-2d86-4cb5-874d-ea02dca22890,contrasting.uk,available,6.49,6.49,medium,l
 88ad2a54-bbff-4567-87a3-440ec7824132,arthritic.uk,available,,,high,low,9,,,
 387830c0-0202-4bcd-851e-79e8e9d97086,buttonlike.uk,available,,,medium,low,10,,,
 8c754ef3-5f93-4f72-b237-d7be679dfc0d,lopsided.uk,available,,,medium,low,8,,,
-f915b8c2-30f3-4bef-9ba7-ee42f05eced0,eightieth.uk,available,,,high,low,9,,,
+f915b8c2-30f3-4bef-9ba7-ee42f05eced0,eightieth.uk,available,6.98,9.98,low,low,9,namecheap,,
 3b815e9d-37ed-446b-905e-1a401d46b84e,grandfatherinlaw.uk,available,6.49,6.49,high,low,18,namesilo,,
 04817f22-d107-471f-9948-5743e287cae2,atfault.uk,available,,,low,low,8,,,
-c8f7f24a-c628-494e-9968-8a84b20d615f,anginous.uk,available,,,medium,low,8,,,
+c8f7f24a-c628-494e-9968-8a84b20d615f,anginous.uk,available,6.49,6.49,low,low,8,namesilo,,
 1896ea34-64d2-4cfd-9844-b498441a1681,estateinland.uk,available,6.49,6.49,medium,low,14,namesilo,,
 902b0698-0620-4194-8e17-f641d0fc174e,NewDelhi.uk,available,9.98,,medium,low,9,namecheap,,
 36176f4c-4311-4f95-b9ee-513e9fe11d63,essayquestion.uk,available,9.98,,medium,low,14,namecheap,,
 94fe168f-76c6-4e36-a7b7-77e7fe054df0,heal.uk,resell,,,high,low,4,Islam Hegazy,18/01/2020 05:29,18/01/2027 05:29
 a32c2e28-95fd-4f63-b82b-b3d7d133c855,enlarged.uk,available,6.49,6.49,medium,low,8,namesilo,,
 c7ca9154-3ae4-471b-9d6a-5cc63f41df34,burred.uk,available,,,medium,low,6,,,
-70320d55-811c-4389-bfae-9b78356f2299,actable.uk,available,,,medium,low,7,,,
+70320d55-811c-4389-bfae-9b78356f2299,actable.uk,available,6.98,9.98,low,low,7,namecheap,,
 15fb8d55-e36e-467b-ab39-a04f99063c81,whitened.uk,available,6.49,6.49,medium,low,8,namesilo,,
 b595d80d-6d8c-408b-8826-941ace518666,comeupwith.uk,available,6.49,6.49,high,low,12,namesilo,,
 d37e427a-5b1b-443b-b770-10dd8a2e82b6,calloff.uk,available,,,medium,low,8,,,
@@ -320,45 +321,45 @@ d22fc582-3225-4004-a418-aa5ed4e43b71,lookunderrocks.uk,available,6.49,6.49,mediu
 660498c4-662a-474a-a181-fa101170def0,panoplied.uk,available,,,medium,low,9,,,
 be870d80-6053-4cab-b336-50afdab0d0fb,lettertotheeditor.uk,available,6.49,6.49,high,low,20,namesilo,,
 0df2c98d-810e-4dc2-9a13-f72bcc5a8553,withopenarms.uk,available,6.49,6.49,medium,low,14,namesilo,,
-62b4029d-f2f5-4bb5-aafa-02c608ab8375,saintlike.uk,available,,,medium,low,9,,,
-78604951-8fec-4373-a2be-efb5df6e43fc,recreant.uk,available,,,medium,low,8,,,
+62b4029d-f2f5-4bb5-aafa-02c608ab8375,saintlike.uk,available,6.49,6.49,low,low,9,namesilo,,
+78604951-8fec-4373-a2be-efb5df6e43fc,recreant.uk,available,6.49,6.49,low,low,8,namesilo,,
 a5918e4d-6805-4f12-a7cc-b18114524b68,briery.uk,available,,,medium,low,6,,,
 8919ce10-590f-44cd-8256-dd70aca0bc3b,crosswordpuzzle.uk,resell,,,high,low,16,ANY-Web Limited,14/01/2025 11:41,14/01/2027 11:41
 16895fb8-61df-4bf9-b6fb-6f9b6bee6197,sombody.uk,available,6.49,6.49,medium,low,7,namesilo,,
-1a5e8d5f-2bf5-4f54-8cdf-94ae41535f65,advertent.uk,available,,,medium,low,9,,,
+1a5e8d5f-2bf5-4f54-8cdf-94ae41535f65,advertent.uk,available,6.49,6.49,low,low,9,namesilo,,
 b6a3832d-f5b0-49c5-b40e-2d8223c3c3df,dose.uk,resell,,,high,low,4,Self Storage Hire Ltd t/a Provide Domain Name Services,04/06/2019 09:32,04/06/2027 09:32
 c3527aa9-9299-442e-b925-56a6d1da2382,autophytic.uk,available,,,medium,low,10,,,
-96e91a49-7549-478b-ad8e-3d825379d94e,antidotal.uk,available,,,medium,low,9,,,
+96e91a49-7549-478b-ad8e-3d825379d94e,antidotal.uk,available,6.49,6.49,low,low,9,namesilo,,
 4d3ec7df-904f-4083-b40a-e6b5b52e7310,Christalmighty.uk,available,6.49,6.49,high,low,15,namesilo,,
 ff223f67-3add-4000-bfdf-1eaceff7d3fb,recoveredmemory.uk,available,6.49,6.49,high,low,16,namesilo,,
 9739761e-a1d0-47fb-aafb-41075def04bd,moneysupply.uk,available,6.49,6.49,high,low,12,namesilo,,
-15924a1c-a7ce-429c-8f61-4697c4be1df7,exculpated.uk,available,,,medium,low,10,,,
+15924a1c-a7ce-429c-8f61-4697c4be1df7,exculpated.uk,available,6.49,6.49,low,low,10,namesilo,,
 5ad5aae3-c639-4d16-9feb-f26dc92d8794,occurrence.uk,available,6.49,6.49,medium,low,10,namesilo,,
 e01a9bdd-2edd-49e3-8bf0-bd03e96f8641,cheesy.uk,resell,,,medium,low,6,Stephen Hall,02/07/2019 13:01,02/07/2026 13:01
-9a3984b6-601f-4bea-8ee2-a2adaf818724,alexic.uk,available,,,medium,low,6,,,
+9a3984b6-601f-4bea-8ee2-a2adaf818724,alexic.uk,available,6.49,6.49,low,low,6,namesilo,,
 61edcfbb-e210-4e0b-ac53-0ac764477221,TexasCity.uk,available,9.98,,low,low,10,namecheap,,
 3103e1e0-773d-4f3e-9e45-cd4413c08ef5,consumer.uk,resell,,,high,low,8,"Dynadot, LLC t/a Dynadot",02/07/2019 13:00,02/07/2026 13:00
 8529aad0-e610-4f4b-895a-3e7d325e45eb,inthehopethat.uk,available,6.49,6.49,medium,low,16,namesilo,,
 3affe804-c256-4f6c-971d-04da71d17417,thehell.uk,available,6.49,6.49,high,low,8,namesilo,,
-ffb4a3ac-5c38-44b4-b2e5-0c07dae74d80,thirteenth.uk,available,,,high,low,10,,,
+ffb4a3ac-5c38-44b4-b2e5-0c07dae74d80,thirteenth.uk,available,6.49,6.49,low,low,10,namesilo,,
 7f8b3729-87d5-4bdb-a1e3-0bdd15661824,makegoodon.uk,available,6.49,6.49,high,low,12,namesilo,,
 06b8da43-2992-4a62-b770-2986a1b3f63e,large.uk,resell,,,high,low,5,Scott McBride,15/12/2022 21:00,15/12/2026 21:00
 292b0d7c-f506-4c32-847a-45a22ca60cdd,enginedriver.uk,available,9.98,,medium,low,13,namecheap,,
-85f1d8f3-0f19-4fce-988b-5da5c137f5ed,antifungal.uk,available,,,high,low,10,,,
+85f1d8f3-0f19-4fce-988b-5da5c137f5ed,antifungal.uk,available,6.98,9.98,low,low,10,namecheap,,
 9466fa23-b884-44df-a45c-cb5009371290,answerable.uk,available,6.49,6.49,high,low,10,namesilo,,
 ba1ba694-e8c2-4d2a-a8de-4d75b6d8e772,ricepaper.uk,available,6.49,6.49,medium,low,10,namesilo,,
 a62a2070-89f0-403b-9354-3c0cdb0d4305,toothwork.uk,available,9.98,,low,low,9,namecheap,,
 ca282155-59b9-4b81-b85c-fb2d8073a62e,recession.uk,resell,,,medium,low,9,Wayne Rozak t/a ROZAK,10/09/2021 12:05,10/09/2026 12:05
 03b356c4-4ada-497f-be3e-6dac864ad6e4,conformto.uk,available,6.49,6.49,high,low,10,namesilo,,
-0388dbcb-6302-468e-9e71-ca0029c9eb0e,araneidan.uk,available,,,medium,low,9,,,
+0388dbcb-6302-468e-9e71-ca0029c9eb0e,araneidan.uk,available,6.49,6.49,low,low,9,namesilo,,
 bf9e82dd-1302-4b2b-8e7a-91fe68fcfed8,fiercely.uk,available,9.98,,medium,low,8,namecheap,,
 6407a990-ffcf-4c14-b48d-31d5c28009d0,athousand.uk,available,6.49,6.49,medium,low,10,namesilo,,
 7204c608-7838-4c54-912f-e4d5c84c683d,IamwhatIam.uk,available,6.49,6.49,medium,low,14,namesilo,,
-cbfd2be0-b7ed-4958-8df6-728b206fce1e,apocrine.uk,available,,,medium,low,8,,,
-841f49a2-4e68-45c3-af87-1c38b7392288,acellular.uk,available,,,medium,low,9,,,
+cbfd2be0-b7ed-4958-8df6-728b206fce1e,apocrine.uk,available,6.49,6.49,low,low,8,namesilo,,
+841f49a2-4e68-45c3-af87-1c38b7392288,acellular.uk,available,6.49,6.49,low,low,9,namesilo,,
 69a7073d-40be-48e4-99b2-f1076764290e,animate.uk,resell,,,high,low,7,UMKY Limited,03/09/2020 19:04,03/09/2026 19:04
 b293345b-0516-49a1-b439-feac54dbcb7e,getoff.uk,available,6.49,6.49,high,low,7,namesilo,,
-0d3f7b20-248d-41c6-8108-ef5d50a2b669,xcvii.uk,available,,,medium,low,5,,,
+0d3f7b20-248d-41c6-8108-ef5d50a2b669,xcvii.uk,available,6.49,6.49,low,low,5,namesilo,,
 e8dc0c0b-d84c-471d-8cef-149ad97768b3,touring.uk,resell,,,high,low,7,Shores Ltd,30/09/2017 19:59,30/09/2026 19:59
 aeb8af79-a642-432b-b0c7-8f90689e6c28,budget.uk,resell,,,high,low,6,Stephen Hall,01/07/2019 13:00,01/07/2026 13:00
 9e9c7c86-4420-42af-85b5-33417442358d,atthispoint.uk,available,6.49,6.49,medium,low,13,namesilo,,
@@ -373,9 +374,9 @@ d6d9393f-bf27-4ecd-b272-52e6f05ccb48,rubelbows.uk,available,9.98,,low,low,10,nam
 0501eee9-4ed9-4836-b4e9-de10a7eb19ff,attorney.uk,resell,,,high,low,8,UK Internet Services Ltd,18/01/2020 00:53,18/01/2027 00:53
 43ba5e50-6f0d-451d-a306-489548f2cb7e,bated.uk,available,,,medium,low,5,,,
 5759e955-b799-4d6d-934a-c97b24585c2a,lecture.uk,resell,,,high,low,7,Fasthosts Internet Ltd,03/10/2020 01:28,03/10/2028 01:28
-4d679e96-b50e-4a61-b073-8120a5d73593,fivesome.uk,available,9.48,,high,low,8,namecheap,,
+4d679e96-b50e-4a61-b073-8120a5d73593,fivesome.uk,available,6.49,6.49,low,low,8,namesilo,,
 f896e304-5c57-48b1-b79d-30ca0a4cf0f5,empowering.uk,resell,,,high,low,10,Lively Ltd,29/10/2017 20:29,29/10/2027 19:29
-e30383f6-e00f-42a8-b8d7-6e218ae07fb0,quaternity.uk,available,,,medium,low,10,,,
+e30383f6-e00f-42a8-b8d7-6e218ae07fb0,quaternity.uk,available,6.49,6.49,low,low,10,namesilo,,
 8a31450b-6983-43ae-81ae-7e4f1764aaee,boomorbust.uk,available,6.49,6.49,high,low,12,namesilo,,
 0140463e-5b61-4e31-8af8-d05ce4a7b1fb,plunkfor.uk,available,,,medium,low,9,,,
 20e5fbbf-adb8-44bd-aae7-81a23a9fc27b,tertiary.uk,resell,,,medium,low,8,Christopher Clark t/a Brand Selection - Domain Names For Sale,29/09/2017 13:00,29/09/2025 13:00
@@ -388,16 +389,15 @@ f442be75-c21b-47bc-99f5-9fc0a939b07b,increase.uk,resell,,,high,low,8,Islam Hegaz
 49646c5f-db73-4a55-97e2-b2ef289c557f,lifeprotip.uk,available,6.49,6.49,high,low,12,namesilo,,
 81261831-ba39-4a32-9c2b-4167d4126d15,allrightsreserved.uk,available,6.49,6.49,medium,low,19,namesilo,,
 0465e01b-6ec2-428f-8603-b1b000b005a1,diagonal.uk,resell,,,medium,low,8,Graeme Wingate,20/06/2014 20:19,20/06/2026 20:19
-0d094e25-01ba-456c-864f-3c261cd883c9,amnesiac.uk,available,,,medium,low,8,,,
+0d094e25-01ba-456c-864f-3c261cd883c9,amnesiac.uk,available,6.98,9.98,low,low,8,namecheap,,
 0783bfde-1a81-445c-9024-589fa474d50b,hallwaymonitor.uk,available,9.98,,medium,low,15,namecheap,,
 7e23bd6d-244e-453d-b557-812dc91acb7d,getinto.uk,available,6.49,6.49,high,low,8,namesilo,,
 9b999795-4cd9-44f6-9f08-ad97ff0291e5,tears.uk,resell,,,medium,low,5,Backorder Ltd,05/07/2019 13:00,05/07/2026 13:00
 ccc4b98c-257f-4f2f-ac6e-caa21f9a66ab,GermanRepublic.uk,available,6.49,6.49,medium,low,15,namesilo,,
-f7888b8f-a116-49d3-848f-a747dd6da402,apodeictic.uk,available,,,medium,low,10,,,
+f7888b8f-a116-49d3-848f-a747dd6da402,apodeictic.uk,available,6.49,6.49,low,low,10,namesilo,,
 88f1efed-77f5-4616-926e-ebc34f7e6969,standing.uk,resell,,,medium,low,8,ANY-Web Limited,13/11/2017 02:10,13/11/2026 02:10
 1f9f867a-5aa6-4bda-ac47-74c9d5828733,analytic.uk,resell,,,medium,low,8,Christopher Clark t/a Brand Selection - Domain Names For Sale,29/09/2017 11:42,29/09/2025 11:42
-2ebdf80d-0c52-4df3-bd4b-7574a6f998ad,grown.uk,resell,,,medium,low,5,Stenning Limited t/a Client Domain Management,12/08/2014 11:32,12/08/2026 11:32
-64c83ed0-b503-49e2-bd1a-d7db70a1484f,aberrant.uk,available,9.98,,high,low,8,namecheap,,
+64c83ed0-b503-49e2-bd1a-d7db70a1484f,aberrant.uk,available,6.49,6.49,low,low,8,namesilo,,
 11f56bb1-7e05-4944-a231-5da1b8b6aedc,sudden.uk,resell,,,high,low,6,Self Storage Hire Ltd t/a Provide Domain Name Services,04/06/2019 09:39,04/06/2027 09:39
 1d3f8d12-69d5-4bd2-8d46-7b926be395ab,ashgray.uk,available,,,medium,low,8,,,
 fe47f64d-5635-48f8-b943-ef539ad3cb01,dollarsign.uk,available,9.98,,medium,low,11,namecheap,,
@@ -407,7 +407,7 @@ afdffeaf-5407-45f4-a121-71bfe4f1d71d,Greg.uk,resell,,,medium,low,4,Stephen Hall,
 697c12cd-1f7f-4995-8c59-1331f7a156c8,whitesauce.uk,available,6.49,6.49,low,low,11,namesilo,,
 c502dce7-10f8-4596-a455-72266047e353,megeneration.uk,available,6.49,6.49,medium,low,13,namesilo,,
 ecfa00d9-a09d-4bd2-b07b-a6dc01a0472b,veggiedog.uk,available,6.49,6.49,high,low,10,namesilo,,
-ea85b4f3-d100-4c23-921f-cb2efb01684f,agamous.uk,available,,,medium,low,7,,,
+ea85b4f3-d100-4c23-921f-cb2efb01684f,agamous.uk,available,6.49,6.49,low,low,7,namesilo,,
 42eeb987-4645-4632-a40c-311a14a47e70,shared.uk,resell,,,high,low,6,"Namecheap, Inc. t/a Spaceship",07/06/2023 14:08,07/06/2026 14:08
 c44c1f2e-717b-49de-a8a5-fe5f7b51930e,worst.uk,resell,,,medium,low,5,Sell Books Limited,03/02/2015 19:04,03/02/2028 19:04
 ec5d3773-6ca8-44ac-8b37-1ff4f2416e75,backalley.uk,available,6.49,6.49,medium,low,10,namesilo,,
@@ -422,27 +422,27 @@ df9aac42-b136-42c4-ab81-295fbc09c57d,saddletree.uk,available,9.98,,low,low,11,na
 8bee7e81-97a0-4d35-a294-adaccc783186,thirtysix.uk,available,,,medium,low,10,,,
 6f7c3ca7-5067-47a5-8043-950056b09949,distress.uk,resell,,,high,low,8,UK Internet Services Ltd,01/10/2021 11:06,01/10/2026 11:06
 319c1f6b-8246-4ec5-bcd2-ec82271331b2,indoaryan.uk,available,,,medium,low,10,,,
-5af693b7-140a-4cd8-9ab1-cb88e91c1a6b,abbatial.uk,available,9.98,,medium,low,8,namecheap,,
+5af693b7-140a-4cd8-9ab1-cb88e91c1a6b,abbatial.uk,available,6.49,6.49,low,low,8,namesilo,,
 5ca822d5-f25a-4206-8297-10d41c6c6380,greenpepper.uk,resell,,,high,low,12,"Dynadot, LLC t/a Dynadot",02/01/2024 14:51,02/01/2027 14:51
-2994d790-46bd-484a-9634-d75bb5da9ee8,adducting.uk,available,,,medium,low,9,,,
+2994d790-46bd-484a-9634-d75bb5da9ee8,adducting.uk,available,6.49,6.49,low,low,9,namesilo,,
 212d2754-6a66-405f-9afa-d82953a3cad1,Lions.uk,resell,,,high,low,5,Shores Ltd,18/10/2015 07:59,18/10/2026 07:59
-6c62424b-dbbe-4e86-b8f7-2613cd71d9fb,anagogical.uk,available,,,medium,low,10,,,
-20d5f1ec-64ef-4bcb-9495-75a7d91c7d5e,undynamic.uk,available,,,medium,low,9,,,
-491e716a-0f33-43bc-b621-610327a749e8,alvine.uk,available,,,medium,low,6,,,
+6c62424b-dbbe-4e86-b8f7-2613cd71d9fb,anagogical.uk,available,6.49,6.49,low,low,10,namesilo,,
+20d5f1ec-64ef-4bcb-9495-75a7d91c7d5e,undynamic.uk,available,6.49,6.49,low,low,9,namesilo,,
+491e716a-0f33-43bc-b621-610327a749e8,alvine.uk,available,6.49,6.49,low,low,6,namesilo,,
 638a9566-ed7c-492b-ab19-8bb45198216e,bacterial.uk,available,6.49,6.49,medium,low,9,namesilo,,
 0fe55170-3570-408e-9f3d-59c401a24d76,auriform.uk,available,,,medium,low,8,,,
 2f137ea9-d384-4a45-a293-597dcc655d97,pretending.uk,available,6.49,6.49,medium,low,10,namesilo,,
-512fdde5-a309-4e5a-88c8-9ee998ad3570,actinoid.uk,available,,,medium,low,8,,,
+512fdde5-a309-4e5a-88c8-9ee998ad3570,actinoid.uk,available,6.49,6.49,low,low,8,namesilo,,
 bf7fe6fc-465e-456c-86dd-35555a42906c,debate.uk,resell,,,high,low,6,Lively Ltd,29/10/2017 20:22,29/10/2027 19:22
 53207f03-afb8-4d0d-9fd6-f6327ec6aa48,closein.uk,available,6.49,6.49,high,low,8,namesilo,,
-1d285867-f2cc-4fbb-9621-aa15501e6157,xxviii.uk,available,,,medium,low,6,,,
-a2782aea-c531-4cf9-9793-7179f84ffee5,ambulatory.uk,available,,,high,low,10,,,
+1d285867-f2cc-4fbb-9621-aa15501e6157,xxviii.uk,available,6.49,6.49,low,low,6,namesilo,,
+a2782aea-c531-4cf9-9793-7179f84ffee5,ambulatory.uk,available,6.49,6.49,low,low,10,namesilo,,
 2f3eb5ff-d938-491a-a089-29b5693e4316,dogtoothgrass.uk,available,6.49,6.49,high,low,14,namesilo,,
 f73dbbbe-4d55-4bff-9f67-754d6aad1b2c,sitabout.uk,available,6.49,6.49,low,low,9,namesilo,,
 c9630032-a54f-47f2-80fa-ee2700388dc7,intruth.uk,available,6.49,6.49,medium,low,8,namesilo,,
 30c2208f-4653-42dd-851f-61c6b813b998,thoseones.uk,available,6.49,6.49,low,low,10,namesilo,,
 f3737dc7-1fce-41ad-9092-b34e89e256d6,avuncular.uk,available,,,medium,low,9,,,
-e9cb72df-c02b-4122-8af4-ce407789fb52,fauna.uk,resell,,,medium,low,5,Simon Fox,29/03/2019 23:47,29/03/2026 22:47
+e9cb72df-c02b-4122-8af4-ce407789fb52,fauna.uk,resell,,,low,low,5,Simon Fox,29/03/2019 23:47,29/03/2027 22:47
 abc4c738-7e61-48e6-a79d-f75b65136273,keepgoodtime.uk,available,6.49,6.49,high,low,14,namesilo,,
 5682c0c9-84f8-4a07-a782-bc7e5e1f0510,grinning.uk,available,6.49,6.49,high,low,8,namesilo,,
 9be24a65-e745-4733-a05f-b03e1fa1153d,thisafternoon.uk,available,6.49,6.49,low,low,14,namesilo,,
@@ -457,21 +457,21 @@ c249b0e0-0707-4928-96c5-28255b6725ae,falltotheground.uk,available,6.49,6.49,medi
 45856193-1134-4542-bdba-6d63223242c7,hindend.uk,available,,,low,low,8,,,
 9d659f30-6249-4cb2-a833-ff7014fa7198,earshaped.uk,available,,,medium,low,10,,,
 4c899c5c-4bac-48f6-8478-eb0fdac5d0f0,inthewakeof.uk,available,9.98,,medium,low,14,namecheap,,
-3913e90f-5060-400b-9913-de867a3ab109,playacting.uk,available,,,medium,low,10,,,
+3913e90f-5060-400b-9913-de867a3ab109,playacting.uk,available,6.98,9.98,low,low,10,namecheap,,
 adaeec1f-d70c-4e21-8471-8b2009708c1c,whereabouts.uk,available,,,low,low,11,,,
 a626140a-e4f2-4233-bda9-1a92ea48ec1d,terrifying.uk,available,6.49,6.49,medium,low,10,namesilo,,
-e8e9e2db-37f0-4621-9fd4-46612642cc24,metedout.uk,available,,,medium,low,9,,,
+e8e9e2db-37f0-4621-9fd4-46612642cc24,metedout.uk,available,6.49,6.49,low,low,9,namesilo,,
 7cbd6df8-b6c4-453c-8293-5bd24f5c2eb8,anappleaday.uk,resell,,,medium,low,14,ANY-Web Limited,13/12/2020 02:16,13/12/2026 02:16
 2a18f6b7-b12d-44a3-aba2-6a8fdf4183f0,blessed.uk,resell,,,medium,low,7,Internet Domain Services BS Corp t/a Internet.bs,01/10/2020 09:59,01/10/2026 09:59
 4c57d833-f3a9-4fce-8e1e-7c155e34860e,parkingticket.uk,available,6.49,6.49,medium,low,14,namesilo,,
 1c719256-8f99-4def-94dc-f1a1e338d171,carefor.uk,available,6.49,6.49,high,low,8,namesilo,,
-4d8f0327-207c-4d98-8302-cc31a35f7b55,admissible.uk,available,,,medium,low,10,,,
+4d8f0327-207c-4d98-8302-cc31a35f7b55,admissible.uk,available,6.49,6.49,low,low,10,namesilo,,
 4db4511f-71cb-459c-84c3-0809e90fb28c,AlbertEinstein.uk,available,6.49,6.49,high,low,15,namesilo,,
 6064e9c2-72ab-4c8d-85ea-90c73a09e64f,bacillar.uk,available,,,medium,low,8,,,
 29e868eb-659f-4113-8a2a-14e1e6d9b6a8,ardent.uk,resell,,,medium,low,6,Christopher Clark t/a Brand Selection - Domain Names For Sale,29/09/2017 14:20,29/09/2025 14:20
 2144dd28-73be-4f6d-93e9-b981e0df0355,beaked.uk,available,,,medium,low,6,,,
 1c601b94-67df-4bd7-9ea1-27101c391e8b,asymptotic.uk,available,,,low,low,10,,,
-b9b50bc4-3b5b-4657-85d0-e76b5c284a73,spiderlike.uk,available,,,medium,low,10,,,
+b9b50bc4-3b5b-4657-85d0-e76b5c284a73,spiderlike.uk,available,6.49,6.49,low,low,10,namesilo,,
 85e93336-e512-460b-ba64-0f4fdb35f14f,clergy.uk,resell,,,medium,low,6,Find Your Domain LLC t/a FYD,30/10/2017 09:19,30/10/2027 08:19
 d9c8cede-fec0-491b-8962-f646ac7e7556,pronounced.uk,available,6.49,6.49,medium,low,10,namesilo,,
 7680a047-e946-474b-b023-f5ac76f30f7c,assaultive.uk,available,,,medium,low,10,,,
@@ -482,14 +482,14 @@ f23dc6fb-1b4f-4bfd-af41-5c107552a394,bringin.uk,available,6.49,6.49,high,low,8,n
 ff719958-e538-4c0a-9b38-6bd7abf00ab5,slowness.uk,available,6.49,6.49,medium,low,8,namesilo,,
 21cc8e04-1947-490b-a8fd-e3ba3a89609e,NewTaipei.uk,available,9.98,,medium,low,10,namecheap,,
 d2acd66d-cf4e-49f6-bf16-4f0069cbae9d,autoerotic.uk,available,,,low,low,10,,,
-06d26ea2-6366-4bf4-8ae8-2e298efabcfb,aguish.uk,available,,,medium,low,6,,,
-3d5a0778-4487-4f84-81a0-e5fa6f69eb6b,infuriated.uk,available,,,low,low,10,,,
+06d26ea2-6366-4bf4-8ae8-2e298efabcfb,aguish.uk,available,6.49,6.49,low,low,6,namesilo,,
+3d5a0778-4487-4f84-81a0-e5fa6f69eb6b,infuriated.uk,available,6.49,6.49,low,low,10,namesilo,,
 c5399d6d-da27-4788-a048-a4a39ac14047,limestone.uk,resell,,,medium,low,9,Janice Lyn M Stuka,27/11/2020 07:58,27/11/2026 07:58
 b65c3e3c-cf96-4e2f-812d-0b7d19d49ea3,disgust.uk,available,6.49,6.49,high,low,7,namesilo,,
-b02df93a-57ab-4324-92c9-2f62817b7edf,ennead.uk,available,,,medium,low,6,,,
+b02df93a-57ab-4324-92c9-2f62817b7edf,ennead.uk,available,6.49,6.49,low,low,6,namesilo,,
 6175a8a4-4bd5-4df7-a02d-c2fc91b251de,dateofbirth.uk,available,6.49,6.49,high,low,13,namesilo,,
 3b9d2201-24ee-4d05-bc36-ac56fd34db02,greatgranddaughter.uk,available,6.49,6.49,high,low,19,namesilo,,
-edbabf5e-e800-4517-a007-09367b45eca3,afebrile.uk,available,,,medium,low,8,,,
+edbabf5e-e800-4517-a007-09367b45eca3,afebrile.uk,available,6.49,6.49,low,low,8,namesilo,,
 781a58a2-3058-426f-a387-0b802d2174f0,basinal.uk,available,,,medium,low,7,,,
 f260aa3f-bdcc-402b-96b4-5bb2a290f370,thankyoucard.uk,available,6.49,6.49,low,low,14,namesilo,,
 ff04ff68-09dd-4492-9e7b-af0ab118d0ae,calf.uk,resell,,,high,low,4,Catch22 Media Limited,28/03/2019 21:55,28/03/2027 20:55
@@ -507,20 +507,20 @@ ca57f9fa-c400-4a97-a69e-a455108c260c,behavioral.uk,available,,,medium,low,10,,,
 e2c25494-295b-4182-a57d-811cd766f0df,adjusted.uk,available,6.49,6.49,high,low,8,namesilo,,
 f67c2f74-d90b-4d57-8773-e00606e94912,kudos.uk,resell,,,high,low,5,Catch22 Media Limited,28/12/2019 21:04,28/12/2027 21:04
 4b280275-20ba-400d-95a6-ebed12deb70c,loved.uk,resell,,,high,low,5,Backorder Ltd,28/12/2020 19:17,28/12/2026 19:17
-d1eefe35-f77c-418a-a811-dd6c7f79a84b,cxxx.uk,available,,,medium,low,4,,,
-86f776bd-5072-4073-afe6-df43bf5580ea,alpestrine.uk,available,,,medium,low,10,,,
+d1eefe35-f77c-418a-a811-dd6c7f79a84b,cxxx.uk,available,6.49,6.49,low,low,4,namesilo,,
+86f776bd-5072-4073-afe6-df43bf5580ea,alpestrine.uk,available,6.49,6.49,low,low,10,namesilo,,
 7a449410-621d-413f-932e-0389e17b2390,bawdry.uk,available,,,medium,low,6,,,
 17937526-0bb6-4d4c-805a-7f34020c0e75,haveonemoretime.uk,available,6.49,6.49,medium,low,18,namesilo,,
 34965009-8fd8-412a-8e9f-3b882df9713c,bedless.uk,available,,,medium,low,7,,,
 a2c36aaa-92f2-4940-89e3-b00b3fea03a4,endall.uk,available,6.49,6.49,high,low,7,namesilo,,
 79af2fc6-f87f-431b-b229-0927d42314a5,weak.uk,resell,,,medium,low,4,Realtime Register BV,05/07/2019 13:00,05/07/2026 13:00
-ec7e09d8-5ad0-48fe-9022-91e4f25c26dd,triclinic.uk,available,,,medium,low,9,,,
+ec7e09d8-5ad0-48fe-9022-91e4f25c26dd,triclinic.uk,available,6.49,6.49,low,low,9,namesilo,,
 7479aaf1-0b3f-4ff2-be87-1ab2936be7ee,chickendance.uk,available,9.98,,high,low,13,namecheap,,
 a9d95a21-cfbd-4f19-9ea3-f80019d6a7b5,howldown.uk,available,6.49,6.49,medium,low,9,namesilo,,
 4cfb025e-ac4c-4c15-a3a8-0e7fb3d273cc,exhale.uk,resell,,,high,low,6,Enterfirst Ltd,31/03/2024 01:27,31/03/2027 01:27
 b6da6276-e3f3-4ab4-9205-881b31c33d21,planning.uk,resell,,,high,low,8,"Dynadot, LLC t/a Dynadot",14/01/2018 04:03,14/01/2027 04:03
-dd63eea7-d3f2-4342-83ee-c2ae068c55f6,annalistic.uk,available,,,medium,low,10,,,
-4f7b871e-56eb-4935-b14d-b2026c82abbb,aquaphobic.uk,available,,,medium,low,10,,,
+dd63eea7-d3f2-4342-83ee-c2ae068c55f6,annalistic.uk,available,6.49,6.49,low,low,10,namesilo,,
+4f7b871e-56eb-4935-b14d-b2026c82abbb,aquaphobic.uk,available,6.49,6.49,low,low,10,namesilo,,
 c1d597ab-4b25-41c3-933e-0912c56d61ff,dogshot.uk,available,6.49,6.49,high,low,8,namesilo,,
 81273659-8261-4b0e-b9ed-9831ff8ac89b,letterspatents.uk,available,6.49,6.49,medium,low,15,namesilo,,
 9cbaa631-e08d-4cfe-b67e-004cc676fe81,howdoyedo.uk,available,6.49,6.49,medium,low,12,namesilo,,
@@ -531,14 +531,14 @@ c1fe265b-9a7e-4228-9105-672fbbc88384,wrongly.uk,available,6.49,6.49,medium,low,7
 8ccd9a6b-f72a-4f8d-a3b0-ffc14bed0fcf,boarded.uk,resell,,,medium,low,7,ANY-Web Limited,13/01/2026 14:55,13/01/2027 14:55
 93ae63d0-5bd8-4fd0-8f6b-b3cb476b3b64,undefended.uk,available,,,medium,low,10,,,
 cbfbb160-ba87-4692-bdd0-6c63c73a6143,dancehall.uk,available,6.49,6.49,high,low,10,namesilo,,
-ea9887a1-f129-42e4-9bfe-3528f797c269,discerning.uk,available,,,high,low,10,,,
+ea9887a1-f129-42e4-9bfe-3528f797c269,discerning.uk,available,6.49,6.49,low,low,10,namesilo,,
 3a74909a-b33f-4dcd-9bf7-c013f941ba18,releaseversion.uk,available,6.49,6.49,high,low,15,namesilo,,
 27572cd3-ace4-4d6a-941c-5eb2c19242a2,adviseable.uk,premium,6.49,6.49,medium,low,10,namesilo,,
 03ce00fc-08aa-4779-b386-58a99ba024f2,sensationally.uk,available,6.49,6.49,medium,low,13,namesilo,,
 6b2ed70f-ebf8-4680-a0f8-86613199c474,closethedoor.uk,available,6.49,6.49,high,low,14,namesilo,,
 a98b5ad6-fcbe-4719-818a-a11301f81063,UnitedKingdom.uk,resell,,,medium,low,14,Lively Ltd,29/10/2017 21:28,29/10/2026 21:28
 e5291750-5457-4190-80dc-ef367f2dbc35,danger.uk,resell,,,high,low,6,Shores Ltd,18/10/2015 09:06,18/10/2026 09:06
-324e66dd-fa41-4709-8090-d48c0f4c31e9,vinegarish.uk,available,,,medium,low,10,,,
+324e66dd-fa41-4709-8090-d48c0f4c31e9,vinegarish.uk,available,6.49,6.49,low,low,10,namesilo,,
 12daa3e8-6158-45e8-9778-fc33f65942ba,cricket.uk,resell,,,high,low,7,Global Domains Limited t/a Global Domains Limited,18/03/2019 16:08,18/03/2027 16:08
 2e1cc773-c815-4f9c-9352-5e7c5c831e25,gosing.uk,available,6.49,6.49,high,low,7,namesilo,,
 320289df-2c1e-44a0-906f-16ca649b5e62,sink.uk,resell,,,medium,low,4,Potential Investments Ltd,04/07/2019 13:00,04/07/2026 13:00
@@ -548,7 +548,7 @@ e851bed4-0520-4fde-a351-945b1b52c578,sadness.uk,resell,,,medium,low,7,Realtime R
 e9195fe2-1a85-4575-87e6-d8e807fb0db3,potatochip.uk,available,6.49,6.49,high,low,11,namesilo,,
 8e12b25c-0509-4652-8c67-9c3e06ff9846,montreal.uk,resell,,,medium,low,8,Tool Domains EOOD t/a Edoms.com,18/01/2020 03:40,18/01/2027 03:40
 d1e5ff41-43cd-4cf8-b8a4-ec8662123fc1,childabuse.uk,available,6.49,6.49,medium,low,11,namesilo,,
-efe04500-c3d7-42c5-a333-ae5249796070,aeriferous.uk,available,,,medium,low,10,,,
+efe04500-c3d7-42c5-a333-ae5249796070,aeriferous.uk,available,6.49,6.49,low,low,10,namesilo,,
 742dd58f-ce9f-4006-ab4a-671ac16b22b0,chickenoregg.uk,available,6.49,6.49,high,low,14,namesilo,,
 251d7747-29d1-404a-a66e-221e81d32f83,nationalanthem.uk,available,9.98,,high,low,15,namecheap,,
 4dad858e-16dd-4a8e-8847-cb9baf881af2,sympathise.uk,available,6.49,6.49,high,low,10,namesilo,,
@@ -556,12 +556,13 @@ bcedd7c6-f11c-462e-8463-ebc2f33798bc,pushing.uk,resell,,,high,low,7,ANY-Web Limi
 de8575c1-c481-413f-a798-c8d9b0be3777,howfar.uk,available,6.49,6.49,medium,low,7,namesilo,,
 e66a315a-caea-4fd3-ab52-e77deffa7424,burry.uk,resell,,,medium,low,5,ANY-Web Limited,21/03/2019 15:52,21/03/2026 15:52
 66b05434-2341-4d12-899b-f5abc76153f9,sothat.uk,available,6.49,6.49,high,low,7,namesilo,,
-0b49c403-6e15-4a77-8ebd-743d38126d85,amoeban.uk,available,,,medium,low,7,,,
+0b49c403-6e15-4a77-8ebd-743d38126d85,amoeban.uk,available,6.49,6.49,low,low,7,namesilo,,
 67ad2457-1e1e-4ae0-b524-5bbfb8fbfbd9,astounded.uk,available,6.49,6.49,medium,low,9,namesilo,,
-62aef047-99dc-4875-ba29-6ef6b53fc829,aortal.uk,available,,,medium,low,6,,,
+62aef047-99dc-4875-ba29-6ef6b53fc829,aortal.uk,available,6.49,6.49,low,low,6,namesilo,,
 9840ceae-82a8-465b-8cba-d2c3e4407a56,stockmarket.uk,resell,,,high,low,12,"Namecheap, Inc. t/a Spaceship",07/10/2023 13:00,07/10/2026 13:00
-40ec4c10-f56e-4e19-8b48-9bc4ed16376a,agitating.uk,available,,,medium,low,9,,,
-14ecea63-71d7-46ba-80ac-b52655e77659,archaic.uk,resell,,,high,low,7,Realtime Register BV,05/10/2023 20:42,05/10/2025 20:42
+40ec4c10-f56e-4e19-8b48-9bc4ed16376a,agitating.uk,available,6.49,6.49,low,low,9,namesilo,,
+412d310e-0373-4d3d-8590-c71158f3a064,antsy.uk,available,6.49,6.49,low,low,5,namesilo,,
+14ecea63-71d7-46ba-80ac-b52655e77659,archaic.uk,resell,,,low,low,7,Realtime Register BV,05/10/2023 20:42,05/10/2026 20:42
 9d1f2236-1269-4466-92d7-cd89f8c1ad78,armless.uk,available,,,medium,low,7,,,
 cadaa213-c6e7-4917-97cb-eccbf7202ac5,hypocritically.uk,available,6.49,6.49,medium,low,14,namesilo,,
 3bf570f0-a39f-4276-919b-b2ec20d8c87d,dong.uk,resell,,,medium,low,4,Shores Ltd,20/10/2015 10:18,20/10/2026 10:18
@@ -571,7 +572,7 @@ ef0f9d81-cc64-4754-aec1-bfde1160e565,antepartum.uk,available,9.98,,high,low,10,n
 bcce6ab1-a25f-4f74-a47a-e74ecbb2f261,mods.uk,resell,,,high,low,4,Andrew Bell,10/01/2015 14:34,10/01/2027 14:34
 c54253a8-65f7-4331-a9d5-cc1c3a0badc3,articular.uk,available,,,medium,low,9,,,
 fc574ccb-f499-4c03-aeb5-ecd0086ffb39,russia.uk,resell,,,high,medium,6,Charles Scott t/a Domain Holdings UK,28/02/2019 12:10,29/02/2028 12:10
-13f6fcfc-7794-413b-a344-9785d018f6d9,ilxx.uk,available,,,medium,low,4,,,
+13f6fcfc-7794-413b-a344-9785d018f6d9,ilxx.uk,available,6.49,6.49,low,low,4,namesilo,,
 035f310a-18ab-4469-9dd9-daa785d0db69,StStephen.uk,resell,,,medium,low,10,ANY-Web Limited,12/07/2019 10:17,12/07/2027 10:17
 debaa771-4e1b-4be3-ae4e-46da986f4784,dragout.uk,available,6.49,6.49,medium,low,8,namesilo,,
 0a5f4ce5-a49c-4569-ae82-162434cb6a32,mature.uk,resell,,,high,low,6,Hosting Concepts B.V.,03/07/2019 13:00,03/07/2026 13:00
@@ -583,12 +584,12 @@ a3fed6d3-2b19-422e-acdc-d5bb85071f2f,charactertrait.uk,available,6.49,6.49,high,
 545782be-12fd-49f0-a312-b58d5970097e,godawful.uk,available,,,medium,low,9,,,
 7191acd3-6da5-48da-80c6-2504e33c2346,comedian.uk,resell,,,high,low,8,Synergy Wholesale Accreditations Pty Ltd,17/10/2017 14:52,17/10/2026 14:52
 e9157727-d8ba-4f9b-9d49-c75cff3b2539,flying.uk,resell,,,high,low,6,Charles Scott t/a Domain Holdings UK,28/02/2019 10:29,29/02/2028 10:29
-28341913-3d58-4cef-aa57-c1d2fbb99e01,acerate.uk,available,,,medium,low,7,,,
-a983593e-f2fa-4897-92a9-1f9c94dd2bc1,acceptant.uk,available,,,high,low,9,,,
+28341913-3d58-4cef-aa57-c1d2fbb99e01,acerate.uk,available,6.49,6.49,low,low,7,namesilo,,
+a983593e-f2fa-4897-92a9-1f9c94dd2bc1,acceptant.uk,available,6.49,6.49,low,low,9,namesilo,,
 323f2ff1-622c-455a-9d9a-472924cf7617,ateleiotic.uk,available,,,low,low,10,,,
 e67229c0-68a3-457b-9988-67336717f114,only.uk,resell,,,high,medium,4,Richard Kandler t/a Nameplace,04/07/2019 13:00,04/07/2026 13:00
 ca9c5481-032a-43f4-8228-aac182b175d3,attested.uk,available,,,medium,low,8,,,
-03289d49-48a8-42f8-8ee4-bb13be08875c,ague.uk,available,,,high,low,4,,,
+03289d49-48a8-42f8-8ee4-bb13be08875c,ague.uk,available,6.49,6.49,low,low,4,namesilo,,
 9c5c81aa-460b-4ad1-8266-e94dace3a0f0,engrossed.uk,available,6.49,6.49,high,low,9,namesilo,,
 9145adb9-714b-4abc-b40a-f02173afa7ca,bowout.uk,available,6.49,6.49,high,low,7,namesilo,,
 e6ff1957-540c-4dcb-b854-97ca7e94bb0b,areolate.uk,available,,,medium,low,8,,,
@@ -609,7 +610,7 @@ dc014848-903d-4b1f-861b-f95acdfef0d5,commonguineapig.uk,available,6.49,6.49,medi
 0ae10c69-b11d-48d0-95da-ed88eb6d1858,khakis.uk,available,6.49,6.49,high,low,6,namesilo,,
 e7cd9b79-efb6-4a79-8f76-cccb533c0cbf,keepsecret.uk,available,9.98,,medium,low,11,namecheap,,
 987f29f8-2eae-473d-9561-d19ab596ae67,assailable.uk,available,,,medium,low,10,,,
-50da856c-5609-41cc-97ae-27bf917ad4b1,aplitic.uk,available,,,medium,low,7,,,
+50da856c-5609-41cc-97ae-27bf917ad4b1,aplitic.uk,available,6.49,6.49,low,low,7,namesilo,,
 6202bf8b-d52a-42f4-82c0-7fee37e06266,rile.uk,available,9.98,,medium,low,4,namecheap,,
 7bf8024a-2a57-45a8-a96a-ca1b73df6c70,OurFather.uk,available,6.49,6.49,low,low,10,namesilo,,
 b6362882-af1f-4299-ae5c-5d1530ff5dac,gomental.uk,available,,,medium,low,9,,,
@@ -627,9 +628,9 @@ b5763814-1cd9-4090-9bf2-6675d65c8382,awninged.uk,available,,,medium,low,8,,,
 700db3b2-703f-4ad1-9f9d-a3256c05d1af,tree.uk,resell,,,high,low,4,"GoDaddy.com, LLC.",15/03/2019 13:54,15/03/2027 13:54
 2baff21c-8641-468a-9bfa-870c6e9d43cb,grandjury.uk,available,9.98,,medium,low,10,namecheap,,
 d1a4fe57-2c3d-4d6a-bacc-27403e3f4a42,azygos.uk,available,,,medium,low,6,,,
-616090c0-1feb-4753-aa38-41609aa79ec0,achenial.uk,available,,,medium,low,8,,,
-f8c8c5a3-bc46-44d5-8088-8550ed2721c2,odious.uk,available,,,medium,low,6,,,
-c7b16c7f-0a6a-4b5a-a243-4c7efde300da,petalless.uk,available,,,low,low,9,,,
+616090c0-1feb-4753-aa38-41609aa79ec0,achenial.uk,available,6.49,6.49,low,low,8,namesilo,,
+f8c8c5a3-bc46-44d5-8088-8550ed2721c2,odious.uk,available,6.49,6.49,low,low,6,namesilo,,
+c7b16c7f-0a6a-4b5a-a243-4c7efde300da,petalless.uk,available,6.49,6.49,low,low,9,namesilo,,
 23dff068-0f74-4891-ae4b-f93fccb38283,businesstrip.uk,available,6.49,6.49,high,low,13,namesilo,,
 3605ac82-b562-4393-a70b-cab732202e87,setgoing.uk,available,6.49,6.49,low,low,9,namesilo,,
 336dbb02-a378-46df-bf8c-fde55266b701,often.uk,resell,,,high,low,5,UK Internet Services Ltd,20/09/2021 07:13,20/09/2026 07:13
@@ -639,21 +640,21 @@ d8bef5cd-822f-4610-9133-2393f52e510b,sign.uk,resell,,,high,low,4,Charles Scott t
 3f2dab29-e2c6-4000-9589-cd63bf89b61c,imaginable.uk,resell,,,medium,low,10,"Dynadot, LLC t/a Dynadot",02/08/2015 21:46,02/08/2026 21:46
 034a57dc-1c4c-487e-8e5d-a869e34bc78c,astigmatic.uk,available,,,medium,low,10,,,
 7311084b-7e6d-40f2-a38d-9c20d552c3d7,toward.uk,resell,,,medium,low,6,ANY-Web Limited,22/03/2019 07:44,22/03/2027 07:44
-c8f7ae3f-3cfa-4fc2-a941-35886f1d5d17,abkhasian.uk,available,9.98,,high,low,9,namecheap,,
-72f35b93-ad1f-4896-8cd2-c6887433e93b,aggregated.uk,available,,,medium,low,10,,,
-ef42aa35-7ce1-4f17-a409-109d7ad7a451,adynamic.uk,available,,,medium,low,8,,,
-cc49088f-3d06-455f-8840-89e4f77b942a,xxix.uk,available,,,medium,low,4,,,
+c8f7ae3f-3cfa-4fc2-a941-35886f1d5d17,abkhasian.uk,available,6.49,6.49,low,low,9,namesilo,,
+72f35b93-ad1f-4896-8cd2-c6887433e93b,aggregated.uk,available,6.49,6.49,low,low,10,namesilo,,
+ef42aa35-7ce1-4f17-a409-109d7ad7a451,adynamic.uk,available,6.49,6.49,low,low,8,namesilo,,
+cc49088f-3d06-455f-8840-89e4f77b942a,xxix.uk,available,6.49,6.49,low,low,4,namesilo,,
 c3c06d7f-2426-4dcd-95a4-68c7b1dd81d3,shifting.uk,resell,,,medium,low,8,Porkbun LLC,30/01/2026 16:38,30/01/2027 16:38
 5024f284-67f1-414b-b1d6-a366eba25eff,stopping.uk,available,9.98,,medium,low,8,namecheap,,
 43ecbdcb-f379-4503-bb79-a9bdba1ef24c,intheflesh.uk,available,6.49,6.49,high,low,12,namesilo,,
 57608f3b-622d-4d59-afa0-2ce32797a0e7,watt.uk,resell,,,medium,low,4,"GoDaddy.com, LLC.",19/04/2020 12:56,19/04/2028 12:56
 12b51131-4297-4355-9021-8de3b9229877,assuasive.uk,available,,,medium,low,9,,,
-c84fc647-cd91-4bed-a906-d026da49e7b3,anecdotic.uk,available,,,medium,low,9,,,
+c84fc647-cd91-4bed-a906-d026da49e7b3,anecdotic.uk,available,6.49,6.49,low,low,9,namesilo,,
 035ffb7a-1e27-4340-bf1c-90bb85334db6,smuggled.uk,available,6.49,6.49,medium,low,8,namesilo,,
 56e3f609-7480-46c1-8474-d1aa4731d029,littleperson.uk,available,6.49,6.49,high,low,13,namesilo,,
 62ccf354-2173-4d12-8b55-c99a298af220,blanket.uk,resell,,,high,low,7,"GoDaddy.com, LLC.",01/07/2019 13:00,01/07/2026 13:00
 2cfc34f4-fc82-4672-8520-6f6077621229,corrected.uk,available,6.49,6.49,high,low,9,namesilo,,
-32909180-ca4c-40bc-af0d-3b6a8a240da3,ampullar.uk,available,,,medium,low,8,,,
+32909180-ca4c-40bc-af0d-3b6a8a240da3,ampullar.uk,available,6.49,6.49,low,low,8,namesilo,,
 103a9f78-9eb3-47b8-ab96-92e0aedbec3c,grimy.uk,available,,,medium,low,5,,,
 83eda179-fe91-4b3a-9135-71ceb0cf68ce,stranded.uk,resell,,,medium,low,8,"Namecheap, Inc.",05/02/2025 07:04,05/02/2027 07:04
 46aae6ea-7d47-4679-bf79-0e2e888eb88e,giveandtake.uk,available,,,high,low,13,,,
@@ -666,29 +667,29 @@ bfaac1f2-fd93-4a8b-bddc-869f2111f0a7,childlanguage.uk,available,6.49,6.49,medium
 b09fd0c9-28f8-4f3c-b55e-f5c952e876ec,UML.uk,resell,,,high,low,3,Mr Chris Vaughan,18/01/2020 06:09,18/01/2027 06:09
 2c3e53a5-7bb1-4f25-a6ef-310729a2c306,comeintotheworld.uk,available,6.49,6.49,high,low,19,namesilo,,
 add2bd2b-b93a-44cd-b72d-11abb58a3412,upstart.uk,resell,,,high,low,7,"GoDaddy.com, LLC.",15/12/2014 13:25,15/12/2026 13:25
-4f04bfde-9bb6-4e61-9f5d-12c3989ae4fa,ancillary.uk,available,,,high,low,9,,,
+4f04bfde-9bb6-4e61-9f5d-12c3989ae4fa,ancillary.uk,available,6.49,6.49,low,low,9,namesilo,,
 32f9f337-db58-45c5-965c-cae9c2ad00fb,attended.uk,available,9.98,,medium,low,8,namecheap,,
 4030169a-ab76-47f5-a8b1-216f358d5a1d,annoy.uk,available,9.98,,high,low,5,namecheap,,
 0521284f-46b0-4942-ad1c-3408ede7b6b7,barbadian.uk,available,,,medium,low,9,,,
 093e684e-a93f-4d18-b098-ae80f540ddf9,coffeetablebook.uk,available,6.49,6.49,high,low,17,namesilo,,
-632fcd6d-c5eb-4f91-9a35-56e76813031d,amoristic.uk,available,,,medium,low,9,,,
+632fcd6d-c5eb-4f91-9a35-56e76813031d,amoristic.uk,available,6.49,6.49,low,low,9,namesilo,,
 2e0a2344-050d-411d-86d9-dc108d3975f2,buttocks.uk,available,,,medium,low,8,,,
 87a5dcf3-f4fc-4114-bffc-78a2827bd107,evenchance.uk,available,6.49,6.49,high,low,11,namesilo,,
 10ae0560-7af7-4534-96dd-3da59e98de12,generalformula.uk,available,6.49,6.49,high,low,15,namesilo,,
 0e58a721-f29b-450b-8fb3-3efaf2c6d79b,disapproval.uk,available,6.49,6.49,medium,low,11,namesilo,,
-cbdd5a97-cd21-441b-a59c-2f130c326960,exonerated.uk,available,,,medium,low,10,,,
+cbdd5a97-cd21-441b-a59c-2f130c326960,exonerated.uk,available,6.49,6.49,low,low,10,namesilo,,
 b7d464b7-8885-4b55-a95e-b3ffee05feec,intears.uk,available,6.49,6.49,medium,low,8,namesilo,,
 b4783bd5-c814-4eb2-a6fd-46e7cd03a456,accurately.uk,available,6.49,6.49,high,low,10,namesilo,,
 5c10b694-187e-4705-9325-ec2d9c3d6ef1,accountstatement.uk,available,9.98,,medium,low,17,namecheap,,
 ab2d6313-bbf3-4d58-99b7-aa3ac96dee58,roller.uk,resell,,,high,low,6,Mantas Simkus,28/01/2020 18:34,28/01/2027 18:34
-24f6e061-1a93-4bf4-a70d-fed27963b911,agrologic.uk,available,,,medium,low,9,,,
-1e32e1ee-c2b2-46c6-af12-c5167c4d9808,lxxxviii.uk,available,,,medium,low,8,,,
+24f6e061-1a93-4bf4-a70d-fed27963b911,agrologic.uk,available,6.49,6.49,low,low,9,namesilo,,
+1e32e1ee-c2b2-46c6-af12-c5167c4d9808,lxxxviii.uk,available,6.98,9.98,low,low,8,namecheap,,
 544ed4d0-f8af-4820-9a5b-74d825ff501c,monetary.uk,resell,,,medium,low,8,UK Internet Services Ltd,30/10/2017 09:29,30/10/2026 09:29
-1e0b072d-5e63-457f-a6a8-87572047364b,abomasal.uk,available,,,medium,low,8,,,
+1e0b072d-5e63-457f-a6a8-87572047364b,abomasal.uk,available,6.49,6.49,low,low,8,namesilo,,
 1f6b06fb-147e-4209-aced-acf711fe279f,befull.uk,available,6.49,6.49,high,low,7,namesilo,,
 52b9c890-16aa-4bb8-8d1c-3dd75ebc723c,nailclipper.uk,available,6.49,6.49,medium,low,12,namesilo,,
 348fd6dd-a466-4a1a-aa88-db5a1de837b6,dreadful.uk,available,6.49,6.49,high,low,8,namesilo,,
-ade65a96-2d60-4c2b-a547-4d1143b0c7e5,abradant.uk,available,,,high,low,8,,,
+ade65a96-2d60-4c2b-a547-4d1143b0c7e5,abradant.uk,available,6.49,6.49,low,low,8,namesilo,,
 67072933-46ef-4a6b-8c58-e415d6d3a559,lisboa.uk,resell,,,medium,low,6,Premkumar Veerabadran t/a sitekart,20/01/2026 12:20,20/01/2027 12:20
 7203428f-c830-4e87-a45e-0d1208dfe054,saucer.uk,resell,,,high,low,6,ANY-Web Limited,15/01/2025 23:49,15/01/2027 23:49
 e4b7f514-23ee-4cf8-93db-c00669cef14c,antibiotic.uk,resell,,,high,low,10,Premkumar Veerabadran t/a sitekart,04/10/2024 13:00,04/10/2026 13:00
@@ -696,42 +697,42 @@ e4b7f514-23ee-4cf8-93db-c00669cef14c,antibiotic.uk,resell,,,high,low,10,Premkuma
 bca33bcd-8fef-4a11-8977-52829c94e2db,raisehell.uk,available,6.49,6.49,low,low,10,namesilo,,
 d700f7bf-4dc5-4a21-9b73-426a129251ae,balsamy.uk,available,,,medium,low,7,,,
 31f0fb68-2e20-406b-8440-742df47b1d25,photoartist.uk,available,6.49,6.49,high,low,12,namesilo,,
-608d615b-ab22-45e5-8156-3bb3d6a1349c,tercet.uk,available,,,medium,low,6,,,
+608d615b-ab22-45e5-8156-3bb3d6a1349c,tercet.uk,available,6.49,6.49,low,low,6,namesilo,,
 ee58dc35-d2c5-4782-b412-2a24e0478335,humans.uk,resell,,,high,medium,6,Backorder Ltd,30/10/2017 09:25,30/10/2026 09:25
-6b44ccdd-9c58-48f2-b120-17b9443b8cac,reproving.uk,available,,,medium,low,9,,,
-cd58cd67-8593-4005-97f4-6a762068e607,arborical.uk,available,,,medium,low,9,,,
+6b44ccdd-9c58-48f2-b120-17b9443b8cac,reproving.uk,available,6.49,6.49,low,low,9,namesilo,,
+cd58cd67-8593-4005-97f4-6a762068e607,arborical.uk,available,6.49,6.49,low,low,9,namesilo,,
 4a2f9e65-6022-4a6f-a5cf-f621193ea117,possession.uk,resell,,,high,low,10,Falbros Ltd,16/09/2023 11:33,16/09/2026 11:33
 7f78a452-fc0f-4799-9955-1f6e21228e0d,husbandandwife.uk,available,6.49,6.49,high,low,16,namesilo,,
-ae21a5ff-1bc2-470f-bd92-a30083eadeaa,batrachian.uk,available,,,medium,low,10,,,
+ae21a5ff-1bc2-470f-bd92-a30083eadeaa,batrachian.uk,available,6.49,6.49,low,low,10,namesilo,,
 f8fcb54b-c805-4464-b8bc-263211089355,fallinto.uk,available,6.49,6.49,medium,low,9,namesilo,,
 ddecc245-a379-42c5-b83a-a1eaab9b79a0,month.uk,resell,,,high,low,5,Lively Ltd,29/10/2017 21:08,29/10/2027 20:08
-d54ef2c8-d2f5-4072-af42-03327e66b918,nettled.uk,available,,,medium,low,7,,,
+d54ef2c8-d2f5-4072-af42-03327e66b918,nettled.uk,available,6.49,6.49,low,low,7,namesilo,,
 267f30a4-d442-48fa-b1cc-97d4186439d4,thewhile.uk,available,6.49,6.49,low,low,9,namesilo,,
-7393b6a1-d4f5-4692-b223-defcb89557dc,afroasian.uk,available,,,medium,low,10,,,
+7393b6a1-d4f5-4692-b223-defcb89557dc,afroasian.uk,available,6.49,6.49,low,low,10,namesilo,,
 d1b60cfc-9033-4a02-b59d-79bb0eeb1518,closeofbusiness.uk,available,6.49,6.49,high,low,17,namesilo,,
 276ae504-e8d1-492e-b500-4c15bfc5684a,alien.uk,resell,,,medium,low,5,123-Reg Limited t/a 123-reg,11/10/2017 21:33,11/10/2025 21:33
 bfe98d99-0774-4ba6-a613-3533a7b2edb0,givenotice.uk,available,6.49,6.49,medium,low,11,namesilo,,
 cbb95f25-94b0-475c-ad9a-618b2201e8f9,comerainorshine.uk,available,6.49,6.49,medium,low,18,namesilo,,
 939d40a9-149a-410f-b975-b0e6359c2d43,mothafucka.uk,available,6.49,6.49,medium,low,10,namesilo,,
 17c6640a-06a4-416b-bf43-a1753e626669,ifyouaskme.uk,available,6.49,6.49,medium,low,13,namesilo,,
-0ebf7bec-8494-4a81-8b93-d128816e0595,deuceace.uk,available,,,medium,low,9,,,
+0ebf7bec-8494-4a81-8b93-d128816e0595,deuceace.uk,available,6.49,6.49,low,low,9,namesilo,,
 d1d2a06f-c4df-4b76-81d2-99fff7e5a03a,stat.uk,resell,,,high,low,4,UK Internet Services Ltd,04/07/2019 13:00,04/07/2026 13:00
 dca603ef-d706-4aac-ac32-0666661edbcf,financialcrisis.uk,available,6.49,6.49,medium,low,16,namesilo,,
 b70be58e-f431-4048-8590-788d35703b75,seemly.uk,available,,,medium,low,6,,,
 0b847286-d734-47a4-8c2e-35728a459d6e,bigger.uk,resell,,,high,low,6,Stephen Hall,19/10/2015 00:14,19/10/2026 00:14
-e2488d21-b1a4-410f-9e17-f0606cbcf393,lviii.uk,available,,,medium,low,5,,,
+e2488d21-b1a4-410f-9e17-f0606cbcf393,lviii.uk,available,6.49,6.49,low,low,5,namesilo,,
 6cff0a68-d872-4b2d-9ada-d37c6d2971fc,arrogant.uk,resell,,,medium,low,8,Realtime Register BV,05/08/2022 22:39,05/08/2026 22:39
 a9cc42be-f50c-4430-98d3-a0c2f64006f5,everywhere.uk,resell,,,medium,low,10,Behrendt Professional Corporation t/a Amazing Domains,02/10/2021 22:09,02/10/2030 22:09
-593e6646-0e4d-41ec-93c6-1908d19a8f89,nettlesome.uk,available,,,medium,low,10,,,
+593e6646-0e4d-41ec-93c6-1908d19a8f89,nettlesome.uk,available,6.49,6.49,low,low,10,namesilo,,
 91452e3d-606c-4c90-a6c4-6cd66194b19b,rattleabout.uk,available,6.49,6.49,low,low,12,namesilo,,
 48faad21-7708-4057-9e91-6d9c8cd29535,inch.uk,resell,,,medium,low,4,JM Internet Ltd,03/07/2019 13:00,03/07/2026 13:00
-64f95522-7e37-4e98-944c-07ffe7362794,seventieth.uk,available,,,high,low,10,,,
+64f95522-7e37-4e98-944c-07ffe7362794,seventieth.uk,available,6.49,6.49,low,low,10,namesilo,,
 40462476-de70-4a3d-89a1-b5f4ad36340e,confusing.uk,available,6.49,6.49,medium,low,9,namesilo,,
 1162dacb-9e3f-436e-b12a-fa3ace15f381,after.uk,resell,,,high,low,5,ANY-Web Limited,21/03/2019 15:18,21/03/2027 15:18
 a27330af-a243-4e6f-94c0-9e66a870e0a0,concertroom.uk,available,6.49,6.49,medium,low,12,namesilo,,
 b37d5bba-80da-4584-a46c-75b0f1763f1f,fundament.uk,available,,,low,low,9,,,
 c5ff49f8-8b31-4e8b-b856-4c7e77cb4a84,generalinsurance.uk,resell,,,high,low,17,UK Internet Services Ltd,15/07/2019 14:50,15/07/2026 14:50
-6ae9d366-537d-4cc2-aede-9e8a740f555a,moneyed.uk,available,,,high,low,7,,,
+6ae9d366-537d-4cc2-aede-9e8a740f555a,moneyed.uk,available,6.49,6.49,low,low,7,namesilo,,
 d6440ac5-78da-49e2-8dee-eae2717e24bf,disclosed.uk,available,9.98,,medium,low,9,namecheap,,
 e078267c-d9df-467a-b655-08f62dc44f3e,vincible.uk,available,,,medium,low,8,,,
 858789d5-6877-4972-a258-c70fb9669a32,athletic.uk,resell,,,high,low,8,Islam Hegazy,01/07/2019 13:00,01/07/2026 13:00
@@ -742,20 +743,21 @@ d2b14a22-79b3-458a-a207-2e4e092e2fe5,inorderto.uk,available,6.49,6.49,low,low,11
 eee7c24a-c9bd-4a0d-a4bb-92b529418669,auriferous.uk,available,6.49,6.49,medium,low,10,namesilo,,
 58c4133f-f5ec-4aa8-8c28-a45671d2579d,borderon.uk,available,6.49,6.49,medium,low,9,namesilo,,
 fd6b023f-2b11-421c-8a82-b2e2d640f458,dorightby.uk,available,6.49,6.49,high,low,11,namesilo,,
-72dfcd40-ebad-4287-a4ef-7e2cd732b807,revelatory.uk,available,,,medium,low,10,,,
-e3f8ccf8-ca1d-472e-a12d-fef29d4558c0,deserter.uk,available,,,medium,low,8,,,
+72dfcd40-ebad-4287-a4ef-7e2cd732b807,revelatory.uk,available,6.49,6.49,low,low,10,namesilo,,
+e3f8ccf8-ca1d-472e-a12d-fef29d4558c0,deserter.uk,available,6.49,6.49,low,low,8,namesilo,,
 456a48e5-45f1-4533-b638-79f4cacb8376,awny.uk,available,,,medium,low,4,,,
-4face443-d1e1-49a2-9aca-7908d598a51e,abaxial.uk,available,9.98,,medium,low,7,namecheap,,
+4face443-d1e1-49a2-9aca-7908d598a51e,abaxial.uk,available,6.49,6.49,low,low,7,namesilo,,
 fd576fba-8e59-4fa7-b399-04be81767aab,creature.uk,resell,,,medium,low,8,"GoDaddy.com, LLC.",10/06/2014 22:18,10/06/2027 22:18
-7acfece0-71fc-4587-a184-49beb9931b64,adhominem.uk,available,,,medium,low,10,,,
+7acfece0-71fc-4587-a184-49beb9931b64,adhominem.uk,available,6.49,6.49,low,low,10,namesilo,,
 c1799a31-fb74-4163-8711-42dee07d23d4,arabic.uk,resell,,,high,low,6,"Dynadot, LLC t/a Dynadot",12/01/2021 16:05,12/01/2029 16:05
 2d50282e-3974-4a3f-8411-6efd7f0fac4d,naturalperson.uk,available,6.49,6.49,low,low,14,namesilo,,
-2a17c49c-889a-4fea-a94a-e73119a2e566,nutritive.uk,available,,,high,low,9,,,
+2a17c49c-889a-4fea-a94a-e73119a2e566,nutritive.uk,available,6.49,6.49,low,low,9,namesilo,,
 02a15067-b8f4-4631-9ff6-0f5c566196e0,basined.uk,available,,,medium,low,7,,,
 87fd0597-63b9-4275-b5be-0bd6988c2a9e,intheabstract.uk,available,6.49,6.49,medium,low,15,namesilo,,
 b209901d-ef60-4f34-aef9-b95866cadfae,gobad.uk,available,6.49,6.49,high,low,6,namesilo,,
 7e5fd16a-c45f-413b-a760-32182ee61c9b,energy.uk,resell,,,high,medium,6,Global Domains Limited t/a Global Domains Limited,24/04/2019 10:48,24/04/2027 10:48
 b96f930f-787f-4cec-80a8-d1184ed079a8,likehell.uk,available,6.49,6.49,medium,low,9,namesilo,,
+8aa56b5d-2d89-41f9-b5c4-e3255e5646e0,antitrust.uk,resell,,,low,low,9,Realtime Register BV,14/09/2020 02:28,14/09/2026 02:28
 cbaf047a-bfaa-4455-a98e-1f07d7e91262,bringback.uk,available,6.49,6.49,medium,low,10,namesilo,,
 b5f8be38-eb98-4e4d-8844-99b0fc591018,somekinda.uk,available,6.49,6.49,medium,low,10,namesilo,,
 2268dfd1-cfd1-48b1-9f0a-0d22f7094174,accustomed.uk,available,6.49,6.49,high,low,10,namesilo,,
@@ -766,13 +768,13 @@ c59eabf9-0efc-479b-a245-2edf8550f0af,massage.uk,resell,,,high,low,7,ANS Group Lt
 7da8805b-4547-4bf7-9169-dba7bff3a398,discomfort.uk,available,6.49,6.49,high,low,10,namesilo,,
 4f4735f3-b21e-4846-a00e-41c31bff5e24,magnifyingglass.uk,available,6.49,6.49,high,low,16,namesilo,,
 09f86f85-a9a4-4ad5-88a4-65cc22346fb7,getrightwith.uk,available,6.49,6.49,medium,low,14,namesilo,,
-a783a06a-49fa-420a-8092-9ccd2a01ae59,fidgety.uk,available,,,medium,low,7,,,
+a783a06a-49fa-420a-8092-9ccd2a01ae59,fidgety.uk,available,6.49,6.49,low,low,7,namesilo,,
 0fea79a9-2c65-4490-9853-8b82e0a071cd,coldrubber.uk,available,6.49,6.49,medium,low,11,namesilo,,
 c428562a-ef9e-4dff-9d9a-4668cda65791,wouldlike.uk,available,6.49,6.49,low,low,10,namesilo,,
-b5c6fb0e-0306-4517-b1f1-c30645f8e808,oppositive.uk,available,,,high,low,10,,,
+b5c6fb0e-0306-4517-b1f1-c30645f8e808,oppositive.uk,available,6.49,6.49,low,low,10,namesilo,,
 b8bbc6f1-2428-4f8b-b978-0cf6bb9c978e,freezingrain.uk,available,6.49,6.49,medium,low,13,namesilo,,
 6028845a-bd05-4144-a5ca-022784a49d1b,beady.uk,available,,,medium,low,5,,,
-b3932688-2f4f-4aa8-9f10-4502df3d342c,astern.uk,available,,,medium,low,6,,,
+b3932688-2f4f-4aa8-9f10-4502df3d342c,astern.uk,available,6.49,6.49,low,low,6,namesilo,,
 16fbd48c-29d9-4580-bab6-1d2f53e44d55,splashabout.uk,available,6.49,6.49,low,low,12,namesilo,,
 d9c376a2-3e82-4be2-a995-c70791c392d9,argent.uk,resell,,,medium,low,6,Enterfirst Ltd,01/07/2019 13:00,01/07/2026 13:00
 57f8ef70-abaa-4095-aee8-7fd3d00b8623,write.uk,resell,,,high,low,5,Backorder Ltd,05/07/2019 13:00,05/07/2026 13:00
@@ -786,7 +788,7 @@ c3b04acf-2966-41f4-bf40-570df21e088d,burnunit.uk,available,9.98,,medium,low,9,na
 6dcb531b-ac30-4765-9cab-5dbf30bbe5be,breathoffreshair.uk,available,9.98,,high,low,19,namecheap,,
 3ea0e0be-6e89-4fe5-a5e1-1b259ba7cee5,altruism.uk,resell,,,high,low,8,InterNetx GmbH,25/04/2018 18:56,25/04/2027 18:56
 082cc274-72f4-45c6-a17a-6fc519b1ec82,manualwork.uk,available,6.49,6.49,medium,low,11,namesilo,,
-3f9213c4-09a6-4d12-b5c6-ddcebd8e84ac,anosmic.uk,available,,,medium,low,7,,,
+3f9213c4-09a6-4d12-b5c6-ddcebd8e84ac,anosmic.uk,available,6.49,6.49,low,low,7,namesilo,,
 7c814917-199e-43c2-80be-7623c374d483,howareyoudoing.uk,available,6.49,6.49,medium,low,17,namesilo,,
 84efb542-d3e3-4de4-8f97-ddb504eba322,backtooth.uk,available,6.49,6.49,medium,low,10,namesilo,,
 5a4c5cb4-4dc0-404a-8731-b9d59a0f6609,balletic.uk,available,,,medium,low,8,,,
@@ -802,32 +804,32 @@ d99c4ef9-c886-4faf-80ad-67f902667a6d,thirdclass.uk,available,6.49,6.49,low,low,1
 c80c8f8e-f3f1-41ef-bf7a-4c91ae37520d,afternoon.uk,resell,,,high,low,9,Shores Ltd,30/06/2017 11:14,30/06/2026 11:14
 f34e4d3d-d7d2-4b86-aff1-3b3cec2d9879,unconvincing.uk,available,6.49,6.49,medium,low,12,namesilo,,
 4396926c-ff38-429d-85dd-d8feb99529c6,felt.uk,resell,,,high,low,4,"Dynadot, LLC t/a Dynadot",30/10/2017 09:22,30/10/2026 09:22
-82ad82a2-610f-4492-a47e-19df1a5901d8,abscessed.uk,available,,,medium,low,9,,,
+82ad82a2-610f-4492-a47e-19df1a5901d8,abscessed.uk,available,6.49,6.49,low,low,9,namesilo,,
 b0817c2e-b6b7-4250-ad58-ff314a048470,telephonecall.uk,available,6.49,6.49,medium,low,14,namesilo,,
-6e243676-49f0-44db-8146-696400d7209e,vermifuge.uk,available,,,high,low,9,,,
+6e243676-49f0-44db-8146-696400d7209e,vermifuge.uk,available,6.49,6.49,low,low,9,namesilo,,
 40cd1bda-1d4a-4b3f-a657-d46282a09cf5,nominee.uk,resell,,,high,low,7,ANY-Web Limited,16/12/2018 08:24,16/12/2026 08:24
 e2f14f35-5713-40e4-8b18-83ef9c90e66d,gaydog.uk,available,6.49,6.49,medium,low,7,namesilo,,
 8cb4f745-130b-4870-97ac-cfd477022de1,page.uk,resell,,,high,low,4,Simon Fox,17/04/2016 09:48,17/04/2027 09:48
 261e0c59-7d4a-42da-9a94-f1e6f2776f22,pulloff.uk,available,6.49,6.49,low,low,8,namesilo,,
-322449eb-b5eb-4aa6-9004-b8d22140f321,anuretic.uk,available,,,medium,low,8,,,
-dcfda206-fa1d-479b-a073-1aaa3cee9c36,maddened.uk,available,,,low,low,8,,,
+322449eb-b5eb-4aa6-9004-b8d22140f321,anuretic.uk,available,6.49,6.49,low,low,8,namesilo,,
+dcfda206-fa1d-479b-a073-1aaa3cee9c36,maddened.uk,available,6.49,6.49,low,low,8,namesilo,,
 ecaed64c-a30d-4852-9ea8-f016f6198920,astragalar.uk,available,,,low,low,10,,,
 2c5cadba-4281-455a-a9ac-50891b2990ee,wake.uk,resell,,,high,low,4,"GoDaddy.com, LLC.",05/03/2020 08:31,05/03/2028 08:31
 7732d6ac-8192-4305-a2d1-84dd1e50390a,Media.uk,resell,,,high,medium,5,"GoDaddy.com, LLC.",21/06/2019 17:24,21/06/2028 17:24
 43253ef5-a020-48af-8bf2-ce7da7c79150,keepthepeace.uk,available,6.49,6.49,high,low,14,namesilo,,
-e1790e6e-13a2-454e-9c7d-170543b71b98,acanthous.uk,available,,,medium,low,9,,,
-54ea635d-39db-4367-a801-944b09f2b6d5,afrikander.uk,available,,,medium,low,10,,,
+e1790e6e-13a2-454e-9c7d-170543b71b98,acanthous.uk,available,6.49,6.49,low,low,9,namesilo,,
+54ea635d-39db-4367-a801-944b09f2b6d5,afrikander.uk,available,6.49,6.49,low,low,10,namesilo,,
 e001aed6-93a9-4294-97d9-fd33f8cdc26c,master.uk,resell,,,high,low,6,"Dynadot, LLC t/a Dynadot",18/12/2019 19:46,18/12/2026 19:46
 8272eb3b-0f6f-4003-b9e9-c233d5a1041c,attheoutside.uk,available,6.49,6.49,medium,low,14,namesilo,,
-e1070b00-72c4-4e07-9836-343243b53812,aluminous.uk,available,,,medium,low,9,,,
+e1070b00-72c4-4e07-9836-343243b53812,aluminous.uk,available,6.49,6.49,low,low,9,namesilo,,
 5dca0948-f9ff-4e66-bf8d-c6156157afc2,avellan.uk,available,,,medium,low,7,,,
 c46d23de-b38e-4de7-a847-8711b15d5963,IKiribati.uk,available,9.98,,high,low,10,namecheap,,
-bd82bfcf-e4e3-44ea-98c8-f87023a931d5,allophonic.uk,available,,,medium,low,10,,,
+bd82bfcf-e4e3-44ea-98c8-f87023a931d5,allophonic.uk,available,6.49,6.49,low,low,10,namesilo,,
 09e5fd7b-c1eb-4f01-9afd-9d9b72af9259,autonomic.uk,available,,,medium,low,9,,,
 d9973dd0-4c14-4626-a9fc-f98ae2507be1,aids.uk,resell,,,medium,low,4,Garner Media Ltd,30/10/2017 09:17,30/10/2026 09:17
-e118c914-7f97-4ee5-8b86-9aa8a1b63036,acquirable.uk,available,,,medium,low,10,,,
+e118c914-7f97-4ee5-8b86-9aa8a1b63036,acquirable.uk,available,6.49,6.49,low,low,10,namesilo,,
 9876e307-0874-403d-9f9f-98a8accdf829,ought.uk,available,6.49,6.49,high,low,5,namesilo,,
-0a132535-a47a-4dec-a4b3-1852f6168f0b,fullgrown.uk,available,,,medium,low,10,,,
+0a132535-a47a-4dec-a4b3-1852f6168f0b,fullgrown.uk,available,6.49,6.49,low,low,10,namesilo,,
 2e645da6-09c0-4b5d-ad65-57a41cd7bc9e,graywolf.uk,available,6.49,6.49,high,low,9,namesilo,,
 a599ad66-ea79-4a11-abcd-65da86c6d641,hardwork.uk,resell,,,high,low,9,Simon Fox,14/06/2019 14:51,14/06/2026 14:51
 a24a29e7-cea6-462c-87fb-1b976a5b64aa,muckabout.uk,available,9.98,,low,low,10,namecheap,,
@@ -835,26 +837,26 @@ c674d9cd-6aad-44eb-af3c-4bf65b7804b8,whisking.uk,available,6.49,6.49,medium,low,
 6699d88c-3061-4ecd-adf4-847fc2e3aee0,airline.uk,resell,,,high,low,7,Charles Scott t/a Domain Holdings UK,28/02/2019 10:02,29/02/2028 10:02
 d4f7719f-3e06-490e-9a13-c49fd9bae097,thereare.uk,available,6.49,6.49,low,low,9,namesilo,,
 df8b5f9b-d3b4-4bb7-a978-1ec599e2bbc9,serveup.uk,available,6.49,6.49,high,low,8,namesilo,,
-11123610-c996-405b-af4f-1436dc0067c0,spiderly.uk,available,,,medium,low,8,,,
-72bfea3d-5338-4b57-a944-6b234fa78f82,ackack.uk,available,,,medium,low,7,,,
-365efbf1-46f2-4f5e-9b0c-2b04ae24f691,afflictive.uk,available,,,medium,low,10,,,
+11123610-c996-405b-af4f-1436dc0067c0,spiderly.uk,available,6.49,6.49,low,low,8,namesilo,,
+72bfea3d-5338-4b57-a944-6b234fa78f82,ackack.uk,available,6.49,6.49,low,low,7,namesilo,,
+365efbf1-46f2-4f5e-9b0c-2b04ae24f691,afflictive.uk,available,6.49,6.49,low,low,10,namesilo,,
 352ccf34-63eb-4653-96ca-dfd456c22c6b,setaceous.uk,available,,,medium,low,9,,,
 79bad326-ca07-4ce4-8eea-2142d9aa9f4f,onthebrinkof.uk,available,6.49,6.49,medium,low,15,namesilo,,
 4d7ad599-2de2-41af-b7c5-175771fa6219,AmericanEnglish.uk,available,9.98,,high,low,16,namecheap,,
 d587837c-2495-46ca-938a-38232f4552b5,philip.uk,resell,,,high,low,6,Andrew Bell,09/03/2019 12:56,09/03/2027 12:56
 21390875-3621-4b2d-882d-515800f4bc98,advice.uk,resell,,,high,low,6,"GoDaddy.com, LLC.",10/06/2014 08:50,10/06/2026 08:50
 e99d43f3-27d3-42de-90b8-2fbbbb863a0d,valued.uk,resell,,,high,low,6,Stephen Hall,23/11/2021 18:54,23/11/2026 18:54
-822279cb-5032-4304-b0f5-e91a076dab7f,allantoic.uk,available,,,medium,low,9,,,
+822279cb-5032-4304-b0f5-e91a076dab7f,allantoic.uk,available,6.49,6.49,low,low,9,namesilo,,
 9e52ddae-6bfc-4518-b74b-13ac986aba61,asthecasemaybe.uk,available,6.49,6.49,medium,low,18,namesilo,,
-5076921a-988d-4204-bf6a-b1baa33cc78c,oneyear.uk,available,,,medium,low,8,,,
+5076921a-988d-4204-bf6a-b1baa33cc78c,oneyear.uk,available,6.49,6.49,low,low,8,namesilo,,
 a0587c8c-a021-4740-bd56-c968584cf769,treed.uk,available,,,medium,low,5,,,
 ee85455e-174b-4f1e-876a-70a76986711a,pieceofpaper.uk,available,6.49,6.49,low,low,14,namesilo,,
 439fded8-13f1-4c3f-b259-0e69031e3fc7,down.uk,resell,,,high,low,4,Vital Domains Ltd,27/03/2019 00:24,26/03/2028 23:24
-f0d5c24c-36a0-4d53-af8a-67255abe54d2,aleutian.uk,available,,,high,low,8,,,
+f0d5c24c-36a0-4d53-af8a-67255abe54d2,aleutian.uk,available,6.49,6.49,low,low,8,namesilo,,
 6ec4d0dc-4d19-40bc-b681-257c13ea9d26,schoolbook.uk,available,6.49,6.49,medium,low,11,namesilo,,
 9cd62951-208b-463c-8842-178ddcbe5912,gelpen.uk,available,6.49,6.49,high,low,7,namesilo,,
 60182c80-a183-4e5a-bfe6-92c4186fa91e,beating.uk,available,6.49,6.49,high,low,7,namesilo,,
-31155399-eb03-4733-bb83-77c5caaea4a9,fiftynine.uk,available,,,medium,low,10,,,
+31155399-eb03-4733-bb83-77c5caaea4a9,fiftynine.uk,available,6.49,6.49,low,low,10,namesilo,,
 b6fd65b8-834f-4268-945d-75f31e9c3979,howoldareyou.uk,available,6.49,6.49,medium,low,15,namesilo,,
 1f65d06e-4732-4537-be65-079e2dedb508,deadofnight.uk,available,6.49,6.49,medium,low,13,namesilo,,
 959eaa25-2de9-49c0-b6b8-19b1c1f20c94,NewRochelle.uk,available,9.98,,low,low,12,namecheap,,
@@ -863,10 +865,10 @@ b6fd65b8-834f-4268-945d-75f31e9c3979,howoldareyou.uk,available,6.49,6.49,medium,
 c508c4a9-5478-4dbb-8f1e-9b3f2d9341b9,sweetandsour.uk,available,6.49,6.49,high,low,14,namesilo,,
 018e2f7f-1468-4e88-a09b-e2b3eef9875b,chocolatecake.uk,resell,,,low,low,14,UK Internet Services Ltd,14/09/2021 08:56,14/09/2026 08:56
 39f4c841-ffbd-46e3-bd89-d1e4c9f7d98a,grouchy.uk,resell,,,medium,low,7,Luke Coulton t/a Bored® domains,03/07/2019 13:01,03/07/2026 13:01
-1f9d0cf5-641f-4f80-b575-ca226dfe51bd,amygdaline.uk,available,,,medium,low,10,,,
+1f9d0cf5-641f-4f80-b575-ca226dfe51bd,amygdaline.uk,available,6.49,6.49,low,low,10,namesilo,,
 ca44f609-2eb8-475e-8136-edd7e7159fe3,vomiting.uk,available,6.49,6.49,medium,low,8,namesilo,,
 8a0ed258-2c64-413b-8285-3697e09f2d87,moveinto.uk,available,6.49,6.49,high,low,9,namesilo,,
-57c7a6e7-d1fe-48d0-97f0-b61bd1268d3c,anicteric.uk,available,,,medium,low,9,,,
+57c7a6e7-d1fe-48d0-97f0-b61bd1268d3c,anicteric.uk,available,6.49,6.49,low,low,9,namesilo,,
 ede8a25b-067d-44cf-b30d-62a4fd6d67fe,pig.uk,resell,,,high,low,3,Garner Media Ltd,04/07/2019 13:00,04/07/2026 13:00
 b84c591d-9f32-4305-9fe6-85a15ad3939f,affidavit.uk,resell,,,medium,low,9,Falbros Ltd,26/03/2019 17:03,26/03/2027 17:03
 c4e2642c-8fd6-45bd-9bc9-39c829fdcbaf,jetfuel.uk,available,6.49,6.49,high,low,8,namesilo,,
@@ -879,24 +881,24 @@ de9110a7-9db9-477c-aa76-acca08434d76,givein.uk,available,6.49,6.49,high,low,7,na
 f7998e98-631b-45c6-bfe4-8fd2f24832d8,manyatime.uk,available,9.98,,medium,low,11,namecheap,,
 6a5be2d9-c9ad-430f-b865-c6c24ce6e9d8,sagittate.uk,available,,,medium,low,9,,,
 74d664b0-2d0a-48f1-8a6b-9e5968015d42,halfassed.uk,available,6.49,6.49,medium,low,10,namesilo,,
-db8a6c0b-82f9-4c74-ac97-2a759d736ba0,consultive.uk,available,,,medium,low,10,,,
+db8a6c0b-82f9-4c74-ac97-2a759d736ba0,consultive.uk,available,6.49,6.49,low,low,10,namesilo,,
 de4f2071-4483-4f27-a26c-68e45326fba8,goodrun.uk,available,6.49,6.49,high,low,8,namesilo,,
 9791f229-cf56-421a-abd8-6beaade2f0ad,claire.uk,resell,,,medium,low,6,Find Your Domain LLC t/a FYD,02/07/2019 13:00,02/07/2027 13:00
-a7cc041d-6353-4ab9-a769-ba0c575d27eb,acetous.uk,available,,,medium,low,7,,,
+a7cc041d-6353-4ab9-a769-ba0c575d27eb,acetous.uk,available,6.49,6.49,low,low,7,namesilo,,
 1df71c25-e27e-43a8-a894-3dd732953815,papershop.uk,resell,,,medium,low,10,ANY-Web Limited,07/10/2025 13:02,07/10/2026 13:02
 a55d556f-de6c-4662-9ab9-d3071615726d,corrupt.uk,resell,,,high,low,7,Ascio Technologies Corp. Denmark – filial af Ascio Technologies Corp. Canada,02/07/2019 13:00,02/07/2026 13:00
 a03d6f0e-088f-4a45-b88e-3bd0d5940b44,tilldate.uk,available,6.49,6.49,low,low,9,namesilo,,
 763035d4-869d-4513-bb63-c32b22252b72,else.uk,resell,,,high,low,4,Sirius Telecom Ltd,04/09/2020 03:46,04/09/2026 03:46
-0ae53d61-9f67-4818-ad83-37a6448a0ce9,anaerobic.uk,available,,,medium,low,9,,,
+0ae53d61-9f67-4818-ad83-37a6448a0ce9,anaerobic.uk,available,6.49,6.49,low,low,9,namesilo,,
 63236911-4b1d-44c4-a82b-08aef7672d9c,takebystorm.uk,available,6.49,6.49,low,low,13,namesilo,,
 26606ac2-1166-441e-bddf-5a49d64be076,auxinic.uk,available,,,medium,low,7,,,
 a11b5ac0-c1db-4777-b9f6-e95062728616,masculine.uk,resell,,,high,low,9,Simon Fox,03/10/2020 21:15,03/10/2026 21:15
-da302811-ad70-45ce-8077-ad41fea209ae,acerb.uk,available,,,medium,low,5,,,
+da302811-ad70-45ce-8077-ad41fea209ae,acerb.uk,available,6.49,6.49,low,low,5,namesilo,,
 3bb86513-85cf-462e-bbb6-c0f6ad0f7a51,ecommerce.uk,resell,,,high,low,10,Laughing Banana Enterprises Ltd,10/06/2014 08:04,10/06/2027 08:04
 6ee09573-8bc0-47e2-9b11-99ffc495f7c3,beetling.uk,available,,,medium,low,8,,,
-08948af8-7c48-4be5-9ea2-027126d67547,abdicable.uk,available,9.98,,medium,low,9,namecheap,,
-377bd72a-9143-420f-957c-25c10c3587fc,anterior.uk,available,,,medium,low,8,,,
-b3e3c134-ed7b-4042-9c9a-b95473d38667,plaguy.uk,available,,,low,low,6,,,
+08948af8-7c48-4be5-9ea2-027126d67547,abdicable.uk,available,6.49,6.49,low,low,9,namesilo,,
+377bd72a-9143-420f-957c-25c10c3587fc,anterior.uk,resell,,,low,low,8,"GoDaddy.com, LLC.",12/02/2026 20:02,12/02/2027 20:02
+b3e3c134-ed7b-4042-9c9a-b95473d38667,plaguy.uk,available,6.49,6.49,low,low,6,namesilo,,
 9e659b81-457c-4bf6-9d65-95b36be113e5,businessman.uk,resell,,,high,low,11,ANY-Web Limited,09/06/2016 07:40,09/06/2027 07:40
 a850f90f-0048-4133-9577-a8e2d55e0f47,surgicalmask.uk,resell,,,high,low,13,Rubber Keys Ltd,30/03/2019 02:29,30/03/2026 01:29
 9bd7cb43-7622-4cd2-9d0c-57285e1f268a,burger.uk,resell,,,high,low,6,Childcare Limited,20/03/2019 12:05,20/03/2028 12:05
@@ -908,12 +910,12 @@ a850f90f-0048-4133-9577-a8e2d55e0f47,surgicalmask.uk,resell,,,high,low,13,Rubber
 814d79e3-23ca-47bc-96ad-ed94cab270d2,learned.uk,resell,,,high,low,7,Mr Chris Vaughan,03/07/2019 13:00,03/07/2027 13:00
 5cdfd1fc-80f0-434f-b925-518f9170aac0,executing.uk,available,6.49,6.49,medium,low,9,namesilo,,
 b0d3c3a8-6713-42a7-94dc-61f2b84e0d0f,antenatal.uk,resell,,,high,low,9,Simon Fox,09/02/2023 21:06,09/02/2027 21:06
-9c1771aa-0ead-4ebf-b412-9c6457f3eb49,alular.uk,available,,,medium,low,6,,,
-40a0f84c-8fb5-490f-a215-06e6f8132bd8,acuate.uk,available,,,high,low,6,,,
+9c1771aa-0ead-4ebf-b412-9c6457f3eb49,alular.uk,available,6.49,6.49,low,low,6,namesilo,,
+40a0f84c-8fb5-490f-a215-06e6f8132bd8,acuate.uk,available,6.49,6.49,low,low,6,namesilo,,
 ad4a93b9-fb43-4403-a3d4-a5bb5a88351a,say.uk,resell,,,medium,low,3,Backorder Ltd,04/07/2019 13:00,04/07/2026 13:00
 a46af3c5-cba3-4634-9c52-1a026204aa20,pokeabout.uk,available,6.49,6.49,low,low,10,namesilo,,
 bbce702b-ac93-4277-b44e-61a8d894b425,cameraman.uk,resell,,,high,low,9,Tool Domains EOOD t/a Edoms.com,10/09/2020 11:32,10/09/2026 11:32
-f1b38b89-950f-4d79-ad1d-d9be07ab15d1,adsorptive.uk,available,,,high,low,10,,,
+f1b38b89-950f-4d79-ad1d-d9be07ab15d1,adsorptive.uk,available,6.49,6.49,low,low,10,namesilo,,
 c5fd6bf9-fae3-4ce8-bb70-2099b3ab3169,tohell.uk,available,6.49,6.49,low,low,7,namesilo,,
 aca4b8f6-0bfb-4990-b839-d5be0c7f50fc,chemicalweapon.uk,available,9.98,,medium,low,15,namecheap,,
 049d1f85-0556-4263-a982-ed8dbded0f7a,toomany.uk,available,6.49,6.49,low,low,8,namesilo,,
@@ -924,15 +926,16 @@ b4224f8d-3a0c-423d-964b-7d0245e9e8b6,letterruling.uk,available,6.49,6.49,medium,
 296f37b1-9ba8-4cf7-9759-fa6bb73f3495,book.uk,resell,,,high,medium,4,Charles Scott t/a Domain Holdings UK,28/02/2019 10:02,29/02/2028 10:02
 51a7dbb7-ef42-4316-b743-fbffb5ca350c,kangeroo.uk,available,6.49,6.49,high,low,8,namesilo,,
 c3f12bf1-f93b-49d3-af1b-7de0edab02cb,wasteland.uk,resell,,,medium,low,9,"GoDaddy.com, LLC.",29/09/2017 11:18,29/09/2026 11:18
+c5866120-118d-453f-a3e3-9389ad943dae,eighty.uk,resell,,,low,low,6,Simon Fox,02/07/2019 13:01,02/07/2027 13:01
 21c2f92e-abf9-426f-af1a-7fb2fb77eefc,generically.uk,available,9.98,,medium,low,11,namecheap,,
 10dcc562-c6c3-4022-9e38-5c5e72e838be,scene.uk,resell,,,high,low,5,"GoDaddy.com, LLC.",04/07/2019 13:00,04/07/2026 13:00
 5bc2a2c3-a016-4f12-85a0-7e7c58830eaa,NorthAmerican.uk,available,9.98,,low,low,14,namecheap,,
 fb4c604d-190b-471a-abd6-67b74404e6b1,assuming.uk,available,,,medium,low,8,,,
 9aaaa4bd-33e1-4f0c-a609-daa5ed0f60ce,midspring.uk,available,6.49,6.49,high,low,10,namesilo,,
-84ccf4ac-2aa0-4245-b856-c30a4323ccc3,abnaki.uk,available,,,medium,low,6,,,
+84ccf4ac-2aa0-4245-b856-c30a4323ccc3,abnaki.uk,available,6.49,6.49,low,low,6,namesilo,,
 e136b9b9-14d5-4e41-afbe-76f87d654cb6,ifnot.uk,available,6.49,6.49,medium,low,6,namesilo,,
 ad440f6c-f767-4d3f-a549-a87e5801d386,closerange.uk,available,6.49,6.49,medium,low,11,namesilo,,
-a10a87c9-9816-42ea-b2a2-cb0ae254e757,abkhas.uk,available,9.98,,medium,low,6,namecheap,,
+a10a87c9-9816-42ea-b2a2-cb0ae254e757,abkhas.uk,available,6.49,6.49,low,low,6,namesilo,,
 e69e9a8a-7ab1-4bcc-8f34-978c3f113ce5,letsomeoneloose.uk,available,9.98,,medium,low,17,namecheap,,
 763fd8fa-bc00-44ae-8c1c-ee48156fd58c,pissabout.uk,available,9.98,,low,low,10,namecheap,,
 6be1fe96-d0ff-4c3a-8b64-8d4c6447bc0d,excel.uk,resell,,,high,low,5,Find Your Domain LLC t/a FYD,02/07/2019 13:00,02/07/2027 13:00
@@ -941,7 +944,7 @@ d38e3a61-79a8-40d3-9ea5-79d7f244712d,xiv.uk,resell,,,high,low,3,ANY-Web Limited,
 e5c3c9eb-ba25-4541-88fe-8941356aaf09,psychic.uk,resell,,,high,low,7,123-Reg Limited t/a 123-reg,26/08/2014 14:07,26/08/2026 14:07
 62e57b34-c0af-4d79-aaa0-c1809b8d58fd,ear.uk,resell,,,high,low,3,Tool Domains EOOD t/a Edoms.com,02/07/2019 13:00,02/07/2026 13:00
 e4b01124-63d9-4655-842a-a0c7a9bbce67,solongas.uk,available,6.49,6.49,low,low,10,namesilo,,
-18a03e43-a606-4ec5-8e6f-b9cba5a4bb5a,comeclose.uk,available,,,medium,low,10,,,
+18a03e43-a606-4ec5-8e6f-b9cba5a4bb5a,comeclose.uk,available,6.49,6.49,low,low,10,namesilo,,
 26a2c346-e12c-48de-b11c-0c680efd4aae,vindicated.uk,resell,,,medium,low,10,Rubber Keys Ltd,30/03/2019 03:15,30/03/2026 02:15
 22c7c232-2227-4df9-820a-863a8f0e2f70,fact.uk,resell,,,high,low,4,RegistryGate GmbH,11/09/2020 10:32,11/09/2026 10:32
 2365ab97-933c-4b9c-9488-4d0e72cf5efb,Istandcorrected.uk,available,6.49,6.49,medium,low,17,namesilo,,
@@ -959,17 +962,17 @@ c63cd950-3df2-42ed-a33e-7d72b8a45f83,sidelong.uk,available,,,medium,low,8,,,
 1e4238c2-d2b0-4e85-beee-937bef0ecb75,havethetime.uk,available,9.98,,high,low,13,namecheap,,
 cbbc7cc4-b0eb-49f2-bdb3-b098d0bfdf78,breathtaking.uk,available,6.49,6.49,high,low,12,namesilo,,
 30f448b9-6618-4042-9f55-5bcd8f453b1e,freshaspaint.uk,available,6.49,6.49,medium,low,14,namesilo,,
-cc5f75f1-d627-4e9c-a70c-d68f26d4ef85,vexing.uk,available,,,medium,low,6,,,
+cc5f75f1-d627-4e9c-a70c-d68f26d4ef85,vexing.uk,available,6.49,6.49,low,low,6,namesilo,,
 b2b00ff7-f638-43f6-9643-182cfceacc55,baggagecarousel.uk,available,9.98,,medium,low,16,namecheap,,
-222d5ec7-3dd2-4b98-baa8-136999e6db76,ghostlike.uk,available,,,medium,low,9,,,
+222d5ec7-3dd2-4b98-baa8-136999e6db76,ghostlike.uk,available,6.49,6.49,low,low,9,namesilo,,
 c71bd831-f2db-4755-83ec-a95d8ccf373e,unassuming.uk,available,9.98,,high,low,10,namecheap,,
 104a3068-2c01-4ac7-a3e4-6d0e1ec343c3,ages.uk,resell,,,medium,low,4,Alan Drury,29/07/2016 09:23,29/07/2026 09:23
 9137c4cc-1ca2-4b41-8d34-3553b6e1e5f6,basket.uk,resell,,,high,low,6,Really Useful Domains Limited t/a Really Useful Domains,01/07/2019 13:00,01/07/2027 13:00
-d5e21360-1fbe-491b-8f17-287a44488e76,accoutered.uk,available,,,medium,low,10,,,
-9d46571a-5e4d-4556-8c23-eed5c3b9d30e,pestering.uk,available,,,medium,low,9,,,
+d5e21360-1fbe-491b-8f17-287a44488e76,accoutered.uk,available,6.49,6.49,low,low,10,namesilo,,
+9d46571a-5e4d-4556-8c23-eed5c3b9d30e,pestering.uk,available,6.49,6.49,low,low,9,namesilo,,
 f5c1c18d-acc3-4752-b18c-c15d7fece81d,lawn.uk,resell,,,medium,low,4,"Dynadot, LLC t/a Dynadot",20/01/2025 11:02,20/01/2027 11:02
 6e49e3f3-4d72-418c-a35a-2d8252874a69,barometric.uk,available,,,medium,low,10,,,
-a8f8fd65-4fa0-4cbc-b4a8-84abacafb487,ampullary.uk,available,,,medium,low,9,,,
+a8f8fd65-4fa0-4cbc-b4a8-84abacafb487,ampullary.uk,available,6.49,6.49,low,low,9,namesilo,,
 f1421878-986b-4b19-a72a-dce92dcacc23,chiliad.uk,available,6.49,6.49,low,low,7,namesilo,,
 316f1979-22fb-483e-ba87-062e3c136540,BlackTuesday.uk,available,6.49,6.49,medium,low,13,namesilo,,
 0f2ec0cb-cfad-4ea4-89a0-e324fd10068d,drseuss.uk,available,6.49,6.49,high,low,9,namesilo,,
@@ -985,17 +988,14 @@ a2e6b81e-d065-4143-8f2e-ee7018e34bfc,retained.uk,available,9.98,,medium,low,8,na
 37aea0f1-261c-4acf-85cc-6686d8438160,pricetag.uk,resell,,,medium,low,9,Premkumar Veerabadran t/a sitekart,04/01/2023 07:21,04/01/2027 07:21
 3f9b24da-5f9f-48d0-8c6d-d93034805943,discrepant.uk,available,,,medium,low,10,,,
 973efd54-018d-4a79-b635-6ddcda72c682,bowlofcherries.uk,available,6.49,6.49,high,low,16,namesilo,,
-9029f1c2-d4bc-43df-97db-8eb49d02a6d7,addible.uk,available,,,medium,low,7,,,
+9029f1c2-d4bc-43df-97db-8eb49d02a6d7,addible.uk,available,6.49,6.49,low,low,7,namesilo,,
 5f4ec5df-0a84-4501-8b5c-52db7b61303b,mockturtleneck.uk,available,6.49,6.49,high,low,15,namesilo,,
 5de66cf5-6c71-4a8f-aecf-c90554ad363f,bannerad.uk,available,6.49,6.49,high,low,9,namesilo,,
 50251739-830e-4673-b2a7-f16cb519ce9c,writedown.uk,available,6.49,6.49,medium,low,10,namesilo,,
 43cf317f-2918-4a5d-9828-09acd970813e,arts.uk,resell,,,high,low,4,Trifega Ltd,01/07/2019 13:00,01/07/2026 13:00
-1fed299e-9bd9-4b7a-a8ee-4ec2978fbee4,irritation.uk,available,,,medium,low,10,,,
+1fed299e-9bd9-4b7a-a8ee-4ec2978fbee4,irritation.uk,available,6.49,6.49,low,low,10,namesilo,,
 b2940a58-243c-43a0-be15-e458032b07b4,sweet.uk,resell,,,high,high,5,Cloud Next Ltd,04/07/2019 13:00,04/07/2026 13:00
 54201222-367c-4dc3-a000-77fff9730e96,bacteroid.uk,available,,,medium,low,9,,,
-b6fb0eaa-da4c-4fc9-abb5-2d823dea5be1,sextuplet.uk,available,,,medium,low,9,,,
-e87b9d9e-219d-4e5a-bb2e-a54300c66aa7,sixtytwo.uk,available,,,medium,low,9,,,
+b6fb0eaa-da4c-4fc9-abb5-2d823dea5be1,sextuplet.uk,available,6.49,6.49,low,low,9,namesilo,,
+e87b9d9e-219d-4e5a-bb2e-a54300c66aa7,sixtytwo.uk,available,6.49,6.49,low,low,9,namesilo,,
 b9bdde36-1bb6-4ab4-90e6-3490ce6c7bb5,substitute.uk,available,9.98,,high,low,10,namecheap,,
-4ce82907-5738-41d5-8b6b-b57b067872e4,revealing.uk,available,9.98,,high,low,9,namecheap,,
-d4776721-94ab-4f14-ac0f-2522cf77c643,closeoneeye.uk,available,6.49,6.49,high,low,13,namesilo,,
-374cdf98-9e65-4d65-9faf-3ba89e9b2255,partyhat.uk,available,6.49,6.49,high,low,9,namesilo,,
