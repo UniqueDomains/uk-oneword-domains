@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .uk one-word domains from U
 
 **Public extract:** 1,000 rows · **Live catalog:** 16,372 domains · **Median ask:** $6.77 · **High-demand under $2,500:** 2
 
-**Last updated:** 2026-09-18
+**Last updated:** 2026-09-20
 **Canonical page:** `https://unique.domains/domains/tld/uk`
 **Best for:** founders, investors, studios
 
@@ -67,6 +67,8 @@ print(df.head())
 | just.uk       | resell    | —         | —             | high           | medium | 4      | GoDaddy.com, LLC.                    |
 | try.uk        | resell    | —         | —             | high           | low    | 3      | Laughing Banana Enterprises Ltd      |
 | metal.uk      | resell    | —         | —             | high           | low    | 5      | GoDaddy.com, LLC.                    |
+| demo.uk       | resell    | —         | —             | high           | medium | 4      | Fasthosts Internet Ltd               |
+| only.uk       | resell    | —         | —             | high           | medium | 4      | Richard Kandler t/a Nameplace        |
 | ague.uk       | available | $6.49     | $6.49         | low            | low    | 4      | namesilo                             |
 | ant.uk        | resell    | —         | —             | high           | medium | 3      | Anthony Appleby                      |
 | adviseable.uk | premium   | $6.49     | $6.49         | medium         | low    | 10     | namesilo                             |
@@ -82,8 +84,6 @@ print(df.head())
 | los.uk        | resell    | —         | —             | high           | low    | 3      | Lively Ltd                           |
 | lxxv.uk       | available | $6.98     | $9.98         | low            | low    | 4      | namecheap                            |
 | pig.uk        | resell    | —         | —             | high           | low    | 3      | Garner Media Ltd                     |
-| rile.uk       | available | $9.98     | —             | medium         | low    | 4      | namecheap                            |
-| sob.uk        | resell    | —         | —             | low            | low    | 3      | Andrew Bell                          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .UK One-Word Domains*. Version 2026-09-18. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .UK One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
