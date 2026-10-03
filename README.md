@@ -1,10 +1,10 @@
-# Available .UK One-Word Domains (13,024)
+# Available .UK One-Word Domains (13,924)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-13%2C024%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-13%2C924%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .uk one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **13,024 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **13,924 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 13,024 domains · **Median ask:** $6.50 · **High-demand under $2,500:** 17
+**Public extract:** 1,000 rows · **Live catalog:** 13,924 domains · **Median ask:** $6.46 · **High-demand under $2,500:** 18
 
-**Last updated:** 2026-10-02
+**Last updated:** 2026-10-03
 **Canonical page:** `https://unique.domains/domains/tld/uk`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain   | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                       |
-| -------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------- |
-| arng.uk  | available | $6.49     | $6.49         | medium         | low    | 4      | namesilo                        |
-| afs.uk   | resell    | —         | —             | high           | low    | 3      | —                               |
-| lakh.uk  | available | $6.49     | $6.49         | medium         | low    | 4      | namesilo                        |
-| ard.uk   | resell    | —         | —             | medium         | low    | 3      | —                               |
-| liii.uk  | available | $6.49     | $6.49         | medium         | low    | 4      | namesilo                        |
-| atp.uk   | resell    | —         | —             | high           | low    | 3      | Tool Domains EOOD t/a Edoms.com |
-| osce.uk  | available | $5.30     | $5.30         | high           | high   | 4      | cloudflare                      |
-| csa.uk   | resell    | —         | —             | high           | low    | 3      | —                               |
-| slue.uk  | available | $6.49     | $6.49         | high           | medium | 4      | namesilo                        |
-| ctv.uk   | resell    | —         | —             | high           | low    | 3      | —                               |
-| suva.uk  | available | $6.18     | $6.18         | medium         | low    | 4      | dynadot                         |
-| dam.uk   | resell    | —         | —             | high           | low    | 3      | —                               |
-| wada.uk  | available | $5.30     | $5.30         | medium         | low    | 4      | cloudflare                      |
-| nun.uk   | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC.               |
-| wwii.uk  | available | $6.49     | $6.49         | medium         | low    | 4      | namesilo                        |
-| pci.uk   | resell    | —         | —             | high           | low    | 3      | —                               |
-| abyla.uk | available | $6.49     | $6.49         | medium         | low    | 5      | namesilo                        |
-| pew.uk   | resell    | —         | —             | medium         | low    | 3      | —                               |
-| aedes.uk | available | $6.98     | $9.98         | medium         | low    | 5      | namecheap                       |
-| ppp.uk   | resell    | —         | —             | high           | low    | 3      | Tool Domains EOOD t/a Edoms.com |
+| domain        | status | ask_price | renewal_price | attractiveness | demand | length | registrar                                              |
+| ------------- | ------ | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------ |
+| lens.uk       | resell | —         | —             | high           | high   | 4      | Dynadot, LLC t/a Dynadot                               |
+| identify.uk   | resell | —         | —             | high           | low    | 8      | ANY-Web Limited                                        |
+| dawn.uk       | resell | —         | —             | high           | low    | 4      | GoDaddy.com, LLC.                                      |
+| trial.uk      | resell | —         | —             | high           | low    | 5      | UMKY Limited t/a UMKYSEO                               |
+| phil.uk       | resell | —         | —             | high           | medium | 4      | Andrew Bell                                            |
+| dave.uk       | resell | —         | —             | high           | medium | 4      | Mr DJ Wood t/a Domain Names Ltd                        |
+| operation.uk  | resell | —         | —             | high           | low    | 9      | Richard Kandler t/a Nameplace                          |
+| discipline.uk | resell | —         | —             | high           | low    | 10     | Tim Hall t/a DomainTree                                |
+| charles.uk    | resell | —         | —             | high           | medium | 7      | Charles Scott t/a Domain Holdings UK                   |
+| attend.uk     | resell | —         | —             | high           | low    | 6      | Self Storage Hire Ltd t/a Provide Domain Name Services |
+| outdoor.uk    | resell | —         | —             | high           | low    | 7      | Garner Media Ltd                                       |
+| commons.uk    | resell | —         | —             | high           | low    | 7      | Tool Domains EOOD t/a Edoms.com                        |
+| essence.uk    | resell | —         | —             | high           | low    | 7      | Soluciones Corporativas IP, SL t/a SCIP                |
+| formal.uk     | resell | —         | —             | high           | low    | 6      | Simon Fox                                              |
+| olympics.uk   | resell | —         | —             | high           | low    | 8      | Global Domains Limited t/a Global Domains Limited      |
+| staffing.uk   | resell | —         | —             | high           | low    | 8      | Dynadot, LLC t/a Dynadot                               |
+| embrace.uk    | resell | —         | —             | high           | low    | 7      | Tool Domains EOOD t/a Edoms.com                        |
+| pages.uk      | resell | —         | —             | high           | low    | 5      | Dreamscape Networks International Pte Ltd              |
+| coach.uk      | resell | —         | —             | high           | medium | 5      | Charles Scott t/a Domain Holdings UK                   |
+| soap.uk       | resell | —         | —             | high           | low    | 4      | Charles Scott t/a Domain Holdings UK                   |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 13,024 live domains                        |
+| 1,000-row public sample | 13,924 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 17 high-demand names under $2,500          |
+| Basic exported fields   | 18 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .UK One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .UK One-Word Domains*. Version 2026-10-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
