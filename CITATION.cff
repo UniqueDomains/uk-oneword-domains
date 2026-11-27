@@ -4,8 +4,8 @@ title: "One-word .uk domains"
 type: dataset
 authors:
   - name: "Unique.domains"
-version: "2026-11-26"
-date-released: "2026-11-26"
+version: "2026-11-27"
+date-released: "2026-11-27"
 url: "https://unique.domains/tld/uk"
 repository-code: "https://github.com/UniqueDomains/uk-oneword-domains"
 license: CC-BY-4.0

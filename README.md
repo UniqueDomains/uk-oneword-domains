@@ -4,9 +4,9 @@
 
 1,000 real .uk one-word domain names, refreshed every night, with their status and, when known, the price to register or buy them and what they renew at. One line of pandas, no scraping, no key.
 
-Each word exists once on each ending. Unique.domains tracks [47,537 names on .uk](https://unique.domains/tld/uk); this file is an extract of the ones you can still register or buy, in the list's own neutral order, not a ranking.
+Each word exists once on each ending. Unique.domains tracks [47,633 names on .uk](https://unique.domains/tld/uk); this file is an extract of the ones you can still register or buy, in the list's own neutral order, not a ranking.
 
-32,996 one-word .uk names are free to register today. Cheapest first year $2.25 at NameSilo, renewal $6.49 there. 27 .uk sales in the last 12 months, median $1,000.
+33,075 one-word .uk names are free to register today. Cheapest first year $2.25 at NameSilo, renewal $6.49 there. 27 .uk sales in the last 12 months, median $1,000.
 
 Live page: [unique.domains/tld/uk](https://unique.domains/tld/uk?utm_source=github&utm_medium=referral&utm_campaign=repo_uk_oneword_domains&utm_content=top_tld_page)
 
@@ -70,7 +70,7 @@ Types and formats: [DATA_DICTIONARY.md](./DATA_DICTIONARY.md).
 
 ## Methodology
 
-- The files hold 1,000 rows of the 14,885 names in the live list today.
+- The files hold 1,000 rows of the 15,015 names in the live list today.
 - Every row is a one-word domain name.
 - Check a name before you act on it: a status or a price can change.
 
