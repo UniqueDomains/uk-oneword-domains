@@ -4,9 +4,9 @@
 
 1,000 real .uk one-word domain names, refreshed every night, with their status and, when known, the price to register or buy them and what they renew at. One line of pandas, no scraping, no key.
 
-Each word exists once on each ending. Unique.domains tracks [47,633 names on .uk](https://unique.domains/tld/uk); this file is an extract of the ones you can still register or buy, in the list's own neutral order, not a ranking.
+Each word exists once on each ending. Unique.domains tracks [47,808 names on .uk](https://unique.domains/tld/uk); this file is an extract of the ones you can still register or buy, in the list's own neutral order, not a ranking.
 
-33,075 one-word .uk names are free to register today. Cheapest first year $2.25 at NameSilo, renewal $6.49 there. 27 .uk sales in the last 12 months, median $1,000.
+33,255 one-word .uk names are free to register today. Cheapest first year $2.25 at NameSilo, renewal $6.49 there. 27 .uk sales in the last 12 months, median $1,000.
 
 Live page: [unique.domains/tld/uk](https://unique.domains/tld/uk?utm_source=github&utm_medium=referral&utm_campaign=repo_uk_oneword_domains&utm_content=top_tld_page)
 
@@ -49,9 +49,9 @@ The first 20 rows of the file, in the file's order.
 | quatern.uk      | available | $5.42          | $5.42         | high           | low    | 7      |
 | medals.uk       | resell    | —              | —             | high           | low    | 6      |
 | vibraslap.uk    | available | $6.26          | $6.26         | high           | low    | 9      |
+| preactivity.uk  | available | $5.42          | $5.42         | high           | low    | 11     |
 | daystar.uk      | resell    | —              | —             | high           | low    | 7      |
 | restrain.uk     | available | $6.49          | $6.49         | high           | low    | 8      |
-| assorted.uk     | resell    | —              | —             | high           | low    | 8      |
 
 ## What is in the data
 
@@ -70,7 +70,7 @@ Types and formats: [DATA_DICTIONARY.md](./DATA_DICTIONARY.md).
 
 ## Methodology
 
-- The files hold 1,000 rows of the 15,015 names in the live list today.
+- The files hold 1,000 rows of the 15,089 names in the live list today.
 - Every row is a one-word domain name.
 - Check a name before you act on it: a status or a price can change.
 
